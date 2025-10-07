@@ -12,7 +12,7 @@ Edited by:
 
 WOULD YOU PLEASE STOP EDITING MY WORK!!
 
-I have been at this university for decades and no other professor has to deal with this much disrespect! Just because I add embelishments does not mean that this doesn't meet acedemic standard!
+I have been at this university for decades and no other professor has to deal with this much disrespect! Just because I add embellishments does not mean that this doesn't meet academic standard!
 
 <hr/>
 
@@ -39,3 +39,27 @@ With warmest regards and slightly frostbitten fingers,
 **Professor Grunkle Blinkfizzle**  
 _Artificer, Researcher of the Arcane and Otherwise Curious_  
 _Sylvanian Institute of Arcane, Department of Applied Curiosities_
+
+<hr/>
+
+## Recently Created
+
+| Page                                                                        | Modified Date               |
+| --------------------------------------------------------------------------- | --------------------------- |
+| [Chwinga](world/creatures/Chwinga.md)                                       | 11:06 AM - October 07, 2025 |
+| [The Eastway](world/atlas/The%20Eastway.md)                                 | 2:59 PM - October 06, 2025  |
+| [Torg's Trading Company](world/organizations/Torg's%20Trading%20Company.md) | 2:59 PM - October 06, 2025  |
+| [Sephek Kaltro](world/characters/Sephek%20Kaltro.md)                        | 2:58 PM - October 06, 2025  |
+| [Hiln Trollbane](world/characters/Hiln%20Trollbane.md)                      | 2:57 PM - October 06, 2025  |
+
+<hr/>
+
+## Recently Updated
+
+| Page                                                                        | Modified Date               |
+| --------------------------------------------------------------------------- | --------------------------- |
+| [Chwinga](world/creatures/Chwinga.md)                                       | 11:06 AM - October 07, 2025 |
+| [The Eastway](world/atlas/The%20Eastway.md)                                 | 2:59 PM - October 06, 2025  |
+| [Torg's Trading Company](world/organizations/Torg's%20Trading%20Company.md) | 2:59 PM - October 06, 2025  |
+| [Sephek Kaltro](world/characters/Sephek%20Kaltro.md)                        | 2:58 PM - October 06, 2025  |
+| [Hiln Trollbane](world/characters/Hiln%20Trollbane.md)                      | 2:57 PM - October 06, 2025  |

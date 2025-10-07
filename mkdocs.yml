@@ -1,15 +1,17 @@
 site_name: Frozen Wastes
 nav:
   - Home: index.md
-  - Story: 3. Story
-  - Players: 1. Players
-  - Atlas: 2. World/Atlas
-  - Characters: 2. World/Characters
-  - Organizations: 2. World/Organizations
+  - Story: story
+  - Atlas: world/atlas
+  - Characters: world/characters
+  - Creatures: world/creatures
+  - Organizations: world/organizations
 extra_css:
   - styles.css
 exclude_docs: |
   z_Templates
+  scratch_notes
 plugins:
+  - search
   - include_dir_to_nav:
       file_name_as_title: true
