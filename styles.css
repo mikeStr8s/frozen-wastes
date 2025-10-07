@@ -29,7 +29,7 @@
 body {
   color: var(--color-black);
   font: var(--p);
-  background-image: url("/img/idrotf-cover-1k.png");
+  background-image: url("https://raw.githubusercontent.com/mikeStr8s/frozen-wastes/refs/heads/gh-pages/img/idrotf-cover-1k.png");
   background-position: top center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -47,7 +47,7 @@ h1 {
   padding: 0 15px;
   font: var(--h2);
   color: white;
-  background-image: url("/img/dark-paper-border.png");
+  background-image: url("https://raw.githubusercontent.com/mikeStr8s/frozen-wastes/refs/heads/gh-pages/img/dark-paper-border.png");
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -94,7 +94,7 @@ a:hover {
 
 [role="main"] {
   border: 10px solid transparent;
-  border-image-source: url("/img/paper-border.png");
+  border-image-source: url("https://raw.githubusercontent.com/mikeStr8s/frozen-wastes/refs/heads/gh-pages/img/paper-border.png");
   border-image-slice: 2 10 9 10 fill; /* top right bottom left fill-center */
   border-image-width: 2px 10px 10px 10px; /* top right bottom left */
   border-image-outset: 0px;
