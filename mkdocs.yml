@@ -1,0 +1,15 @@
+site_name: My Docs
+nav:
+  - Home: index.md
+  - Story: 3. Story
+  - Players: 1. Players
+  - Atlas: 2. World/Atlas
+  - Characters: 2. World/Characters
+  - Organizations: 2. World/Organizations
+extra_css:
+  - styles.css
+exclude_docs: |
+  z_Templates
+plugins:
+  - include_dir_to_nav:
+      file_name_as_title: true

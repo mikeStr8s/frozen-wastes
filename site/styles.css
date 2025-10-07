@@ -1,0 +1,112 @@
+:root {
+  font-size: 20px;
+  --ff: "Ubuntu", sans-serif;
+  --ffh: "Ubuntu", sans-serif;
+  --h1: 3rem/1.2em var(--ffh);
+  --h2: 2.25rem/1.2em var(--ffh);
+  --h3: 1.5rem/1.2em var(--ffh);
+  --h4: 1.12rem/1.6em var(--ffh);
+  --h5: 0.8rem/1.6em var(--ffh);
+  --h6: 0.75rem/1.8em var(--ffh);
+  --big: 1rem/1.6em var(--ff);
+  --p: 0.8rem/1.6em var(--ff);
+  --small: 0.75rem/1.8em var(--ff);
+
+  --margin-xxs: 0.25rem;
+  --margin-xs: 0.5rem;
+  --margin-s: 0.75rem;
+  --margin-m: 1rem;
+  --margin-l: 1.25rem;
+  --margin-xl: 1.75rem;
+  --margin-xxl: 2.5rem;
+
+  --color-black: black;
+  --color-grey: #26282a;
+  --color-accent: hsl(150, 60%, 65%);
+  --color-accent-10: hsl(150, 60%, 45%);
+}
+
+body {
+  color: var(--color-black);
+  font: var(--p);
+  background-image: url("/img/idrotf-cover-1k.png");
+  background-position: top center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: var(--color-black);
+}
+h1 {
+  padding: 0 15px;
+  font: var(--h2);
+  color: white;
+  background-image: url("/img/dark-paper-border.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+h2 {
+  font: var(--h3);
+}
+h3 {
+  font: var(--h4);
+}
+h4 {
+  font: var(--h5);
+}
+h5 {
+  font: var(--h6);
+}
+h6 {
+  font: var(--p);
+}
+p {
+  font: var(--p);
+}
+
+a {
+  color: var(--color-accent);
+}
+
+a:hover {
+  color: var(--color-accent-10);
+}
+
+.nav-link {
+  transition: none;
+}
+
+.nav .nav-link {
+  color: var(--color-black);
+}
+
+.bs-sidebar .nav > li > a.active,
+.bs-sidebar .nav > li > a.active:hover,
+.bs-sidebar .nav > li > a:hover {
+  border-right: 5px solid var(--color-accent);
+}
+
+[role="main"] {
+  border: 10px solid transparent;
+  border-image-source: url("/img/paper-border.png");
+  border-image-slice: 2 10 9 10 fill; /* top right bottom left fill-center */
+  border-image-width: 2px 10px 10px 10px; /* top right bottom left */
+  border-image-outset: 0px;
+  border-image-repeat: round stretch; /* horizontal vertical */
+}
+
+.navbar.bg-primary {
+  background-image: none;
+  background-color: var(--color-grey) !important;
+  border-bottom: solid 2px var(--color-accent);
+}
+
+.card {
+  border-radius: 0;
+}
