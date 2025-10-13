@@ -1,0 +1,3 @@
+- caravan - 5cp per mile outside city, 2cp anywhere in city
+- 1s for shot of clear liquor
+- 5c for shot of Flamebeard's Firebrandy

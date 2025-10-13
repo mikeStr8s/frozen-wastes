@@ -1,0 +1,3 @@
+_Smithy and outfitter_
+
+This combination shop and smithy stands just north of the main square. Garn the Hammer manufactures the cheapest blades in Ten-Towns, while his sister Elza sells adventuring supplies—including rations, cold weather gear, ice picks, and snowshoes—to fortune-seekers. Most of the veteran sellswords in Ten-Towns disdain Garn's smithcraft, due to the uninspiring quality of his work. Jokes told about hapless newcomers to Icewind Dale often end with the line "an' 'e was carrying a Blackiron blade, to boot!"

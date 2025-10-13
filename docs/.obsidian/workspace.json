@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "a18556eeaac1242f",
+        "id": "a70db1d86499faa4",
         "type": "tabs",
         "children": [
           {
-            "id": "518988ab4ca7a117",
+            "id": "ab2370fbab1ea8b2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "index.md",
                 "mode": "source",
-                "source": false
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          },
+          {
+            "id": "60c0452d2fcfa901",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": true
               },
               "icon": "lucide-file",
               "title": "index"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -53,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "higgens",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -170,35 +185,44 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "518988ab4ca7a117",
+  "active": "60c0452d2fcfa901",
   "lastOpenFiles": [
+    "Recently Edited.md",
+    "world/atlas/Bryn Shander.md",
+    "index.md",
+    "Recently Created.md",
+    "story/Session 2.md",
+    "world/characters/Dzaan.md",
+    "world/atlas/Trail's End Tavern.md",
+    "world/atlas/The White Lady Inn.md",
+    "world/atlas/The Wet Trout.md",
+    "world/atlas/The Northlook Inn.md",
+    "world/atlas/The Eastway.md",
+    "world/atlas/Easthaven.md",
+    "world/atlas/Caer-Dineval.md",
+    "world/atlas/Blackiron Blades.md",
+    "world/characters/Hiln Trollbane.md",
+    "world/characters/Captain Imdra Arlaggath.md",
+    "world/atlas/House of the Morninglord.md",
+    "img/Bryn_shander_shield-5e.webp",
+    "img/Unconfirmed 312326.crdownload",
+    "world/atlas/Kelvin's Cairn.md",
+    "img/east-haven.png",
+    "img/bryn shander map.webp",
+    "world/artifacts/Lantern of Tracking.md",
+    "world/artifacts",
+    "story/Session 1.md",
+    "scratch_notes/Session 2.md",
+    "scratch_notes/_reference.md",
+    "scratch_notes/Session 1.md",
+    "world/characters/Hobbins.md",
     "Untitled.canvas",
     "elements.md",
     "about.md",
-    "scratch_notes/Session 1.md",
-    "index.md",
-    "Recently Edited.md",
-    "Recently Created.md",
-    "z_Templates/_update_edit_files.md",
-    "world/creatures/Chwinga.md",
-    "story/Session 1.md",
-    "z_Templates/_recently_created.md",
-    "z_Templates/_update_publish_files.md",
-    "world/atlas/Bryn Shander.md",
-    "world/characters/Hiln Trollbane.md",
-    "world/organizations/Torg's Trading Company.md",
     "world/organizations",
     "world/creatures",
-    "world/characters/Sephek Kaltro.md",
-    "world/characters/Higgens.md",
-    "world/characters/Yin Shen.md",
-    "world/characters/Aronious.md",
     "world/characters",
-    "world/atlas/The Eastway.md",
-    "world/atlas/The Northlook Inn.md",
     "world/atlas",
-    "world/Atlas/Bryn Shander.md",
-    "world/Creatures/Chwinga.md",
     "world/Creatures",
     "img/paper-border-small.png",
     "img/Unconfirmed 210066.crdownload",
@@ -207,12 +231,7 @@
     "img/dark-paper-border.png",
     "img/Unconfirmed 685769.crdownload",
     "img/paper-border.png",
-    "img/Unconfirmed 163610.crdownload",
     "img/idrotf-cover-1k.png",
-    "img/Unconfirmed 71954.crdownload",
-    "world/Atlas/The Eastway.md",
-    "world/Organizations/Torg's Trading Company.md",
-    "world/Characters/Sephek Kaltro.md",
     "img/ten-towns-map.png"
   ]
 }

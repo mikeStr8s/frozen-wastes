@@ -101,6 +101,11 @@ a:hover {
   border-image-repeat: round stretch; /* horizontal vertical */
 }
 
+.m-image {
+  max-width: 500px;
+  max-height: 500px;
+}
+
 .navbar.bg-primary {
   background-image: none;
   background-color: var(--color-grey) !important;

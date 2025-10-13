@@ -11,7 +11,10 @@ extra_css:
 exclude_docs: |
   z_Templates
   scratch_notes
+  readme.md
 plugins:
   - search
   - include_dir_to_nav:
       file_name_as_title: true
+markdown_extensions:
+  - attr_list

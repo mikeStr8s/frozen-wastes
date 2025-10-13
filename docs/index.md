@@ -24,7 +24,7 @@ Ah! You’ve found it — my humble compendium of curious exploits, obscure crea
 
 What you hold in your hands — or, more likely, on your glimmering scry-screen — is no mere storybook, dear reader. It is an _account_. A scholarly work! (Well, mostly scholarly. There are a few singed pages where a fire mephit took offense to my choice of adjectives, but such hazards are the price of proper fieldwork.)
 
-In these pages I endeavor to record the true and terrible _Tale of the Frozen Three_ — a fellowship bound not by destiny (though it seems to have had an opinion on the matter), but by circumstance, courage, and a most inconvenient frost. You shall meet **Aronious**, the ranger who turned his back on the gods to chase redemption in the snow; **Bone**, a clever and wily kitsune rogue whose smile hides more than her daggers; and **Higgens**, a wizard whose knack for mischief rivals his arcane prowess — heroes, villains, beasts, and beings best left unnamed before dusk.
+In these pages I endeavor to record the true and terrible _Tale of the Frozen Three_ — a fellowship bound not by destiny (though it seems to have had an opinion on the matter), but by circumstance, courage, and a most inconvenient frost. You shall meet **Aronious**, the ranger who turned his back on the gods to chase redemption in the snow; **Bone**, a clever and wily kitsune rogue whose smile hides more than her daggers; and **Hobbins**, a wizard whose knack for mischief rivals his arcane prowess — heroes, villains, beasts, and beings best left unnamed before dusk.
 
 Expect here a union of two disciplines:
 
@@ -44,22 +44,22 @@ _Sylvanian Institute of Arcane, Department of Applied Curiosities_
 
 ## Recently Created
 
-| Page                                                                        | Modified Date               |
-| --------------------------------------------------------------------------- | --------------------------- |
-| [Chwinga](world/creatures/Chwinga.md)                                       | 11:06 AM - October 07, 2025 |
-| [The Eastway](world/atlas/The%20Eastway.md)                                 | 2:59 PM - October 06, 2025  |
-| [Torg's Trading Company](world/organizations/Torg's%20Trading%20Company.md) | 2:59 PM - October 06, 2025  |
-| [Sephek Kaltro](world/characters/Sephek%20Kaltro.md)                        | 2:58 PM - October 06, 2025  |
-| [Hiln Trollbane](world/characters/Hiln%20Trollbane.md)                      | 2:57 PM - October 06, 2025  |
+| Page                                                                          | Creation Date              |
+| ----------------------------------------------------------------------------- | -------------------------- |
+| [The White Lady Inn](../world/atlas/The%20White%20Lady%20Inn.md)              | 3:14 PM - October 13, 2025 |
+| [Captain Imdra Arlaggath](../world/characters/Captain%20Imdra%20Arlaggath.md) | 3:06 PM - October 13, 2025 |
+| [Caer-Dineval](../world/atlas/Caer-Dineval.md)                                | 2:57 PM - October 13, 2025 |
+| [Kelvin's Cairn](../world/atlas/Kelvin's%20Cairn.md)                          | 2:55 PM - October 13, 2025 |
+| [The Wet Trout](../world/atlas/The%20Wet%20Trout.md)                          | 2:54 PM - October 13, 2025 |
 
 <hr/>
 
 ## Recently Updated
 
-| Page                                                                        | Modified Date               |
-| --------------------------------------------------------------------------- | --------------------------- |
-| [Chwinga](world/creatures/Chwinga.md)                                       | 11:06 AM - October 07, 2025 |
-| [The Eastway](world/atlas/The%20Eastway.md)                                 | 2:59 PM - October 06, 2025  |
-| [Torg's Trading Company](world/organizations/Torg's%20Trading%20Company.md) | 2:59 PM - October 06, 2025  |
-| [Sephek Kaltro](world/characters/Sephek%20Kaltro.md)                        | 2:58 PM - October 06, 2025  |
-| [Hiln Trollbane](world/characters/Hiln%20Trollbane.md)                      | 2:57 PM - October 06, 2025  |
+| Page                                                          | Modified Date              |
+| ------------------------------------------------------------- | -------------------------- |
+| [Trail's End Tavern](world/atlas/Trail's%20End%20Tavern.md)   | 4:12 PM - October 13, 2025 |
+| [The White Lady Inn](world/atlas/The%20White%20Lady%20Inn.md) | 4:10 PM - October 13, 2025 |
+| [The Wet Trout](world/atlas/The%20Wet%20Trout.md)             | 4:09 PM - October 13, 2025 |
+| [The Eastway](world/atlas/The%20Eastway.md)                   | 4:07 PM - October 13, 2025 |
+| [Easthaven](world/atlas/Easthaven.md)                         | 4:06 PM - October 13, 2025 |
