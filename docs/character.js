@@ -90,10 +90,10 @@ function initCharacter() {
     </ul>
 
     ${printTraits(character["traits"])}
-    ${printSpells(character["spells"])}
   </div>
 
   <div class="stat-col">
+    ${printSpells(character["spells"])}
     ${printActions(character["actions"])}
     ${printBonusActions(character["bonusactions"])}
     ${printReactions(character["reactions"])}

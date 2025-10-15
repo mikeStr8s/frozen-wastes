@@ -125,6 +125,17 @@ a:hover {
   flex-direction: row;
 }
 
+.character-stat-wrapper {
+  display: flex;
+  flex-direction: row;
+}
+
+.stat-col {
+  display: flex;
+  flex-direction: column;
+  max-width: 50%;
+}
+
 .stats-grid {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
