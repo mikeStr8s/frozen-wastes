@@ -5,12 +5,14 @@
   "type": "Humanoid",
   "subtype": "Kitsune",
   "alignment": "Chaotic Good",
+  "level": 2,
   "ac": 14,
   "hp": 15,
   "hit_dice": "1d8",
   "speed": "30",
   "stats": [7, 16, 12, 17, 12, 12],
   "saves": ["INT", "DEX"],
+  "proficiency": 2,
   "skillsaves": ["Acrobatics", "Arcana", "Deception", "Insight", "Sleight of Hand"],
   "expertise": ["Investigation", "Stealth"],
   "damage_vulnerabilities": "",
@@ -39,7 +41,7 @@
     },
     {
       "name": "Wild Shape (Kitsune)",
-      "description": "You shape-shift into a Fox. You stay in that form for 1 hours or until you use Wild Shape again, have the Incapacitated condition, or die. You can also leave the form early as a Bonus Action.\nRules While Shape-Shifted. The following rules apply while you're shape-shifted:\n• You retain your personality, memories, and ability to speak.\n• When you assume a Wild Shape form, you gain 2 Temporary HP.\n• Your game statistics are replaced by the Beast's stat block, but you retain your creature type; HP; HP Dice; Int., Wis., and Cha. scores; class features; languages; and feats.\n• You retain your skill and saving throws and use your Proficiency Bonus for them, and gain any proficiencies of the creature. If the Beast's stat block has a higher skill or saving throw modifier, use the one in the stat block.\n• You can't cast spells, but shape-shifting doesn't break your Concentration.\n• Your ability to handle objects is handled by the form's limbs rather than your own. You can also choose whether your equipment falls in your space, merges into your new form, or is worn by it. Worn equipment functions as normal, but the DM decides whether it's practical for the new form to wear the equipment. Additionally, your equipment doesn't change size, and any equipment that the new form can't wear must fall to the ground or merge into the form. Any equipment that merges with the form has no effect while you're in that form."
+      "description": "You shape-shift into a Fox. You stay in that form for 1 hours or until you use Wild Shape again, have the Incapacitated condition, or die. You can also leave the form early as a Bonus Action.\n\nRules While Shape-Shifted. The following rules apply while you're shape-shifted:\n• You retain your personality, memories, and ability to speak.\n• When you assume a Wild Shape form, you gain 2 Temporary HP.\n• Your game statistics are replaced by the Beast's stat block, but you retain your creature type; HP; HP Dice; Int., Wis., and Cha. scores; class features; languages; and feats.\n• You retain your skill and saving throws and use your Proficiency Bonus for them, and gain any proficiencies of the creature. If the Beast's stat block has a higher skill or saving throw modifier, use the one in the stat block.\n• You can't cast spells, but shape-shifting doesn't break your Concentration."
     },
     {
       "name": "Celestial Third Eye",
