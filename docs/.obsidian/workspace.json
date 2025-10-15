@@ -4,39 +4,44 @@
     "type": "split",
     "children": [
       {
-        "id": "a70db1d86499faa4",
+        "id": "17574e39bb9fa9e7",
         "type": "tabs",
         "children": [
           {
-            "id": "ab2370fbab1ea8b2",
+            "id": "c4676124a56ede88",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "world/characters/Untitled.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "index"
-            }
-          },
-          {
-            "id": "60c0452d2fcfa901",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "index"
+              "title": "Untitled"
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "2e386ae735ab0661",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bb3c74ba60d419d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "world/characters/Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -182,14 +187,18 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "60c0452d2fcfa901",
+  "active": "c4676124a56ede88",
   "lastOpenFiles": [
+    "character.js",
+    "world/characters/Untitled.md",
+    "index.md",
+    "world/characters/Aronious.md",
     "Recently Edited.md",
     "world/atlas/Bryn Shander.md",
-    "index.md",
     "Recently Created.md",
     "story/Session 2.md",
     "world/characters/Dzaan.md",
@@ -215,10 +224,7 @@
     "scratch_notes/Session 2.md",
     "scratch_notes/_reference.md",
     "scratch_notes/Session 1.md",
-    "world/characters/Hobbins.md",
     "Untitled.canvas",
-    "elements.md",
-    "about.md",
     "world/organizations",
     "world/creatures",
     "world/characters",

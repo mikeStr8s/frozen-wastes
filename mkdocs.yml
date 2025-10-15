@@ -8,6 +8,8 @@ nav:
   - Organizations: world/organizations
 extra_css:
   - styles.css
+extra_javascript:
+  - character.js
 exclude_docs: |
   z_Templates
   scratch_notes
@@ -18,3 +20,4 @@ plugins:
       file_name_as_title: true
 markdown_extensions:
   - attr_list
+  - admonition
