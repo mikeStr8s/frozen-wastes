@@ -24,124 +24,27 @@ const skillStatList = [
 const skillStatMap = new Map(skillStatList);
 const spellLevelList = [
   "Cantrip (at will)",
-  "1st level (4 slots)",
-  "2nd level (3 slots)",
-  "3rd level (3 slots)",
-  "4th level (3 slots)",
-  "5th level (3 slots)",
-  "6th level (1 slot)",
-  "7th level (1 slot)",
-  "8th level (1 slot)",
-  "9th level (1 slot)",
+  "1st level",
+  "2nd level",
+  "3rd level",
+  "4th level",
+  "5th level",
+  "6th level",
+  "7th level",
+  "8th level",
+  "9th level",
   "*",
 ];
 
+/* prettier-ignore */
 function initCharacter() {
   console.log("Init Character...");
 
-  const codeElementQuery =
-    document.getElementsByClassName("language-character");
+  const codeElementQuery = document.getElementsByClassName("language-character");
   const codeElement = codeElementQuery[0];
 
   const characterJsonStr = codeElement.textContent;
   const characterJson = JSON.parse(characterJsonStr);
-
-  const character_html = `
-<div class="character-stat-wrapper">
-    <h2>${characterJson["name"]}</h2>
-    <p class="character-types">${characterJson["size"]} ${
-    characterJson["type"]
-  } (${characterJson["subtype"]}), ${characterJson["alignment"]}</p>
-
-    <ul>
-      <li><strong>Level</strong> ${characterJson["level"]}</li>
-      <li><strong>AC</strong> ${characterJson["ac"]}</li>
-      <li><strong>HP</strong> ${characterJson["hp"]}</li>
-      <li><strong>Speed</strong> ${characterJson["speed"]}</li>
-    </ul>
-
-    <div class="stats-wrapper">
-      <div class="stats-grid">
-        <p>STR</p>
-        <p>${characterJson["stats"][0]}</p>
-        <p>${printModifier(characterJson["stats"][0], "", [], 0)}</p>
-        <p>${printModifier(
-          characterJson["stats"][0],
-          "STR",
-          characterJson["saves"],
-          characterJson["proficiency"]
-        )}</p>
-        <p>DEX</p>
-        <p>${characterJson["stats"][1]}</p>
-        <p>${printModifier(characterJson["stats"][1], "", [], 0)}</p>
-        <p>${printModifier(
-          characterJson["stats"][1],
-          "DEX",
-          characterJson["saves"],
-          characterJson["proficiency"]
-        )}</p>
-        <p>CON</p>
-        <p>${characterJson["stats"][2]}</p>
-        <p>${printModifier(characterJson["stats"][2], "", [], 0)}</p>
-        <p>${printModifier(
-          characterJson["stats"][2],
-          "CON",
-          characterJson["saves"],
-          characterJson["proficiency"]
-        )}</p>
-      </div>
-      <div class="stats-grid">
-        <p>INT</p>
-        <p>${characterJson["stats"][3]}</p>
-        <p>${printModifier(characterJson["stats"][3], "", [], 0)}</p>
-        <p>${printModifier(
-          characterJson["stats"][3],
-          "INT",
-          characterJson["saves"],
-          characterJson["proficiency"]
-        )}</p>
-        <p>WIS</p>
-        <p>${characterJson["stats"][4]}</p>
-        <p>${printModifier(characterJson["stats"][4], "", [], 0)}</p>
-        <p>${printModifier(
-          characterJson["stats"][4],
-          "WIS",
-          characterJson["saves"],
-          characterJson["proficiency"]
-        )}</p>
-        <p>CHA</p>
-        <p>${characterJson["stats"][5]}</p>
-        <p>${printModifier(characterJson["stats"][5], "", [], 0)}</p>
-        <p>${printModifier(
-          characterJson["stats"][5],
-          "CHA",
-          characterJson["saves"],
-          characterJson["proficiency"]
-        )}</p>
-      </div>
-    </div>
-
-    <ul>
-      <li><strong>Proficiency</strong> ${characterJson["proficiency"]}</li>
-      <li><strong>Skills</strong> ${printSkills(
-        characterJson["skillsaves"],
-        characterJson["expertise"],
-        characterJson["stats"],
-        characterJson["proficiency"]
-      )}</li>
-      <li><strong>Senses</strong> ${characterJson["senses"]}</li>
-      <li><strong>Languages</strong> ${characterJson["languages"].join(
-        ", "
-      )}</li>
-    </ul>
-
-    ${printTraits(characterJson["traits"])}
-    ${printSpells(characterJson["spells"])}
-    ${printActions(characterJson["actions"])}
-    ${printBonusActions(characterJson["bonusactions"])}
-    ${printReactions(characterJson["reactions"])}
-</div>
-`;
 
   const characterHtmlComponentList = [
     getCharacterName(characterJson["name"]),
@@ -158,9 +61,7 @@ function initCharacter() {
 
   const characterWrapperElement = document.createElement("div");
   characterWrapperElement.classList.add("character-wrapper");
-  characterWrapperElement.innerHTML = characterHtmlComponentList
-    .join("")
-    .trim();
+  characterWrapperElement.innerHTML = characterHtmlComponentList.join("").trim();
 
   const preElement = codeElement.closest("pre");
   preElement.insertAdjacentElement("afterend", characterWrapperElement);
@@ -211,15 +112,15 @@ function getCharacterStats(json) {
   const headers = `${statGroup([headerStr, headerStr, headerStr].join(""))}`;
   /* prettier-ignore */
   const statisticsGroup1List = [
-        statistic("STR", stats[0], printModifier(stats[0], "", [], 0), printModifier(stats[0], "STR", saves, proficiency)),
-        statistic("DEX", stats[0], printModifier(stats[0], "", [], 0), printModifier(stats[0], "DEX", saves, proficiency)),
-        statistic("CON", stats[0], printModifier(stats[0], "", [], 0), printModifier(stats[0], "CON", saves, proficiency)),
+        statistic("STR", stats[0], getMod(stats[0], "", [], 0), getMod(stats[0], "STR", saves, proficiency)),
+        statistic("DEX", stats[0], getMod(stats[0], "", [], 0), getMod(stats[0], "DEX", saves, proficiency)),
+        statistic("CON", stats[0], getMod(stats[0], "", [], 0), getMod(stats[0], "CON", saves, proficiency)),
     ];
   /* prettier-ignore */
   const statisticsGroup2List = [
-        statistic("INT", stats[0], printModifier(stats[0], "", [], 0), printModifier(stats[0], "INT", saves, proficiency)),
-        statistic("WIS", stats[0], printModifier(stats[0], "", [], 0), printModifier(stats[0], "WIS", saves, proficiency)),
-        statistic("CHA", stats[0], printModifier(stats[0], "", [], 0), printModifier(stats[0], "CHA", saves, proficiency)),
+        statistic("INT", stats[0], getMod(stats[0], "", [], 0), getMod(stats[0], "INT", saves, proficiency)),
+        statistic("WIS", stats[0], getMod(stats[0], "", [], 0), getMod(stats[0], "WIS", saves, proficiency)),
+        statistic("CHA", stats[0], getMod(stats[0], "", [], 0), getMod(stats[0], "CHA", saves, proficiency)),
     ];
 
   /* prettier-ignore */
@@ -228,7 +129,6 @@ function getCharacterStats(json) {
 
 function getCharacterSkills(json) {
   const stats = json["stats"];
-  const saves = json["saves"];
   const proficiency = json["proficiency"];
   const skillsaves = json["skillsaves"];
   const expertise = json["expertise"];
@@ -239,10 +139,33 @@ function getCharacterSkills(json) {
     return `<li><strong>${title}</strong> ${value}</li>`;
   };
 
+  const parseSkillScores = () => {
+    let skillStringList = [];
+
+    for (let skill of skillsaves) {
+      let statName = skillStatMap.get(skill);
+      let statIdx = statistics.indexOf(statName);
+      let stat = stats[statIdx];
+      let value = calculateModifier(stat) + proficiency;
+      skillStringList.push(`${skill} ${value >= 0 ? `+${value}` : value}`);
+    }
+
+    for (let skill of expertise) {
+      let statName = skillStatMap.get(skill);
+      let statIdx = statistics.indexOf(statName);
+      let stat = stats[statIdx];
+      let value = calculateModifier(stat) + proficiency + proficiency;
+      skillStringList.push(`${skill} ${value >= 0 ? `+${value}` : value}`);
+    }
+
+    skillStringList.sort();
+    return skillStringList.join(", ");
+  };
+
   /* prettier-ignore */
   const skillList = [
     skill("Proficiency", `+${proficiency}`),
-    skill("Skills", printSkills(skillsaves, expertise, stats, proficiency)),
+    skill("Skills", parseSkillScores(skillsaves, expertise, stats, proficiency)),
     skill("Senses", senses),
     skill("Senses", languages.join(', '))
   ];
@@ -268,59 +191,36 @@ function getCharacterSpells(spells) {
 }
 
 function getCharacterTraits(traits) {
-  return `<h3>Traits</h3>${printNameDescList(traits)}`;
+  return `<h3>Traits</h3>${getNameDescriptionPairs(traits)}`;
 }
 
 function getCharacterActions(actions) {
-  return `<h3>Actions</h3>${printNameDescList(actions)}`;
+  return `<h3>Actions</h3>${getNameDescriptionPairs(actions)}`;
 }
 
 function getCharacterBonusActions(actions) {
-  return `<h3>Bonus Actions</h3>${printNameDescList(actions)}`;
+  return `<h3>Bonus Actions</h3>${getNameDescriptionPairs(actions)}`;
 }
 
 function getCharacterReactions(reactions) {
-  return `<h3>Reactions</h3>${printNameDescList(reactions)}`;
+  return `<h3>Reactions</h3>${getNameDescriptionPairs(reactions)}`;
 }
 
-function calculateModifier(stat) {
-  return Math.floor((stat - 10) / 2);
-}
+function getMod(stat, current, saves, proficiency) {
+  const calculateMod = (s) => {
+    return Math.floor((s - 10) / 2);
+  };
 
-function printModifier(stat, current, saves, proficiency) {
   if (current !== "" && saves.includes(current)) {
-    let value = calculateModifier(stat) + proficiency;
+    let value = calculateMod(stat) + proficiency;
     return value >= 0 ? `+${value}` : value;
   }
 
-  let value = calculateModifier(stat);
+  let value = calculateMod(stat);
   return value >= 0 ? `+${value}` : value;
 }
 
-function printSkills(skills, expertise, stats, proficiency) {
-  let skillStringList = [];
-
-  for (let skill of skills) {
-    let statName = skillStatMap.get(skill);
-    let statIdx = statistics.indexOf(statName);
-    let stat = stats[statIdx];
-    let value = calculateModifier(stat) + proficiency;
-    skillStringList.push(`${skill} ${value >= 0 ? `+${value}` : value}`);
-  }
-
-  for (let skill of expertise) {
-    let statName = skillStatMap.get(skill);
-    let statIdx = statistics.indexOf(statName);
-    let stat = stats[statIdx];
-    let value = calculateModifier(stat) + proficiency + proficiency;
-    skillStringList.push(`${skill} ${value >= 0 ? `+${value}` : value}`);
-  }
-
-  skillStringList.sort();
-  return skillStringList.join(", ");
-}
-
-function printNameDescList(nameDescList) {
+function getNameDescriptionPairs(nameDescList) {
   if (!nameDescList) {
     return "";
   }
@@ -333,62 +233,4 @@ function printNameDescList(nameDescList) {
   }
 
   return nameDescHTMLList.join("\n");
-}
-
-function printTraits(nameDescList) {
-  if (!nameDescList) {
-    return "";
-  }
-
-  return "<h3>Traits</h3>" + printNameDescList(nameDescList);
-}
-
-function printActions(nameDescList) {
-  if (!nameDescList) {
-    return "";
-  }
-
-  return "<h3>Actions</h3>" + printNameDescList(nameDescList);
-}
-
-function printBonusActions(nameDescList) {
-  if (!nameDescList) {
-    return "";
-  }
-
-  return "<h3>Bonus Actions</h3>" + printNameDescList(nameDescList);
-}
-
-function printReactions(nameDescList) {
-  if (!nameDescList) {
-    return "";
-  }
-
-  return "<h3>Reactions</h3>" + printNameDescList(nameDescList);
-}
-
-function printSpellLevel(spellEntry) {
-  const spellLevel = spellEntry["spell_level"];
-  return `<li><span>${spellLevelList[spellLevel]}</span>: <span>${spellEntry["spell_list"]}</span></li>`;
-}
-
-function printSpells(spells) {
-  if (!spells) {
-    return "";
-  }
-
-  let spellStringList = [];
-  for (let spellEntry of spells["spell_list"]) {
-    spellStringList.push(printSpellLevel(spellEntry));
-  }
-
-  const htmlString = `
-  <h3>Spells</h3>
-  <ul class="spells-wrapper">
-    <li><strong>Spellcasting</strong> ${spells["description"]}</li>
-    ${spellStringList.join("")}
-  </ul>
-  `;
-
-  return htmlString;
 }
