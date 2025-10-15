@@ -2,6 +2,7 @@ site_name: Frozen Wastes
 nav:
   - Home: index.md
   - Story: story
+  - Artifacts: world/artifacts
   - Atlas: world/atlas
   - Characters: world/characters
   - Creatures: world/creatures
@@ -14,6 +15,9 @@ exclude_docs: |
   z_Templates
   scratch_notes
   readme.md
+  Recently Created.md
+  Recently Edited.md
+  elements.md
 plugins:
   - search
   - include_dir_to_nav:

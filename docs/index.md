@@ -44,22 +44,22 @@ _Sylvanian Institute of Arcane, Department of Applied Curiosities_
 
 ## Recently Created
 
-| Page                                                                    | Creation Date              |
-| ----------------------------------------------------------------------- | -------------------------- |
-| [The White Lady Inn](world/atlas/The%20White%20Lady%20Inn)              | 3:14 PM - October 13, 2025 |
-| [Captain Imdra Arlaggath](world/characters/Captain%20Imdra%20Arlaggath) | 3:06 PM - October 13, 2025 |
-| [Caer-Dineval](world/atlas/Caer-Dineval)                                | 2:57 PM - October 13, 2025 |
-| [Kelvin's Cairn](world/atlas/Kelvin's%20Cairn)                          | 2:55 PM - October 13, 2025 |
-| [The Wet Trout](world/atlas/The%20Wet%20Trout)                          | 2:54 PM - October 13, 2025 |
+| Page                                                                       | Creation Date              |
+| -------------------------------------------------------------------------- | -------------------------- |
+| [The White Lady Inn](world/atlas/The%20White%20Lady%20Inn.md)              | 3:14 PM - October 13, 2025 |
+| [Captain Imdra Arlaggath](world/characters/Captain%20Imdra%20Arlaggath.md) | 3:06 PM - October 13, 2025 |
+| [Caer-Dineval](world/atlas/Caer-Dineval.md)                                | 2:57 PM - October 13, 2025 |
+| [Kelvin's Cairn](world/atlas/Kelvin's%20Cairn.md)                          | 2:55 PM - October 13, 2025 |
+| [The Wet Trout](world/atlas/The%20Wet%20Trout.md)                          | 2:54 PM - October 13, 2025 |
 
 <hr/>
 
 ## Recently Updated
 
-| Page                                                       | Modified Date               |
-| ---------------------------------------------------------- | --------------------------- |
-| [Hobbins](world/characters/Hobbins)                        | 1:28 PM - October 15, 2025  |
-| [Aronious](world/characters/Aronious)                      | 12:50 PM - October 15, 2025 |
-| [Yin Shen](world/characters/Yin%20Shen)                    | 9:01 AM - October 15, 2025  |
-| [Trail's End Tavern](world/atlas/Trail's%20End%20Tavern)   | 4:12 PM - October 13, 2025  |
-| [The White Lady Inn](world/atlas/The%20White%20Lady%20Inn) | 4:10 PM - October 13, 2025  |
+| Page                                                          | Modified Date               |
+| ------------------------------------------------------------- | --------------------------- |
+| [Hobbins](world/characters/Hobbins.md)                        | 1:28 PM - October 15, 2025  |
+| [Aronious](world/characters/Aronious.md)                      | 12:50 PM - October 15, 2025 |
+| [Yin Shen](world/characters/Yin%20Shen.md)                    | 9:01 AM - October 15, 2025  |
+| [Trail's End Tavern](world/atlas/Trail's%20End%20Tavern.md)   | 4:12 PM - October 13, 2025  |
+| [The White Lady Inn](world/atlas/The%20White%20Lady%20Inn.md) | 4:10 PM - October 13, 2025  |
