@@ -58,8 +58,9 @@ _Sylvanian Institute of Arcane, Department of Applied Curiosities_
 
 | Page                                                       | Modified Date              |
 | ---------------------------------------------------------- | -------------------------- |
+| [Yin Shen](world/characters/Yin%20Shen)                    | 12:46 AM - October 15, 2025 |
 | [Trail's End Tavern](world/atlas/Trail's%20End%20Tavern)   | 4:12 PM - October 13, 2025 |
 | [The White Lady Inn](world/atlas/The%20White%20Lady%20Inn) | 4:10 PM - October 13, 2025 |
 | [The Wet Trout](world/atlas/The%20Wet%20Trout)             | 4:09 PM - October 13, 2025 |
 | [The Eastway](world/atlas/The%20Eastway)                   | 4:07 PM - October 13, 2025 |
-| [Easthaven](world/atlas/Easthaven)                         | 4:06 PM - October 13, 2025 |
+
