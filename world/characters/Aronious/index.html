@@ -8,7 +8,7 @@
         
         
         <link rel="shortcut icon" href="../../../img/favicon.ico">
-        <title>Aronious - Frozen Wastes</title>
+        <title>Aronious III - Frozen Wastes</title>
         <link href="../../../css/bootstrap.min.css" rel="stylesheet">
         <link href="../../../css/fontawesome.min.css" rel="stylesheet">
         <link href="../../../css/brands.min.css" rel="stylesheet">
@@ -101,7 +101,7 @@
                                 <ul class="dropdown-menu">
                                     
 <li>
-    <a href="./" class="dropdown-item active" aria-current="page">Aronious</a>
+    <a href="./" class="dropdown-item active" aria-current="page">Aronious III</a>
 </li>
                                     
 <li>
@@ -122,10 +122,6 @@
                                     
 <li>
     <a href="../Sephek%20Kaltro/" class="dropdown-item">Sephek Kaltro</a>
-</li>
-                                    
-<li>
-    <a href="../Untitled/" class="dropdown-item">Untitled</a>
 </li>
                                     
 <li>
@@ -186,65 +182,80 @@
     
     <div id="toc-collapse" class="navbar-collapse collapse card bg-body-tertiary">
         <ul class="nav flex-column">
+            
+            <li class="nav-item" data-bs-level="1"><a href="#aronious-iii" class="nav-link">Aronious III</a>
+              <ul class="nav flex-column">
+            <li class="nav-item" data-bs-level="2"><a href="#stat-block" class="nav-link">Stat Block</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+              </ul>
+            </li>
         </ul>
     </div>
 </div></div>
                     <div class="col-md-9" role="main">
 
-<pre><code class="language-statblock">{
-  &quot;name&quot;: &quot;string&quot;,
-  &quot;size&quot;: &quot;string&quot;,
-  &quot;type&quot;: &quot;string&quot;,
-  &quot;subtype&quot;: &quot;string&quot;,
-  &quot;alignment&quot;: &quot;string&quot;,
-  &quot;ac&quot;: 1,
-  &quot;hp&quot;: 1,
-  &quot;hit_dice&quot;: &quot;string&quot;,
-  &quot;speed&quot;: &quot;string&quot;,
-  &quot;stats&quot;: [1, 1, 1, 1, 1, 1],
-  &quot;fage_stats&quot;: [1, 1, 1, 1, 1, 1, 1, 1, 1],
-  &quot;saves&quot;: {
-    &quot;&lt;ability-score&gt;&quot;: 1
+<h1 id="aronious-iii">Aronious III</h1>
+<p>Once a paladin serving faithfully to the pantheon above. Now having discarded his vows he has taken to the frozen wilderness to find and aid Yin Shen.</p>
+<h2 id="stat-block">Stat Block</h2>
+<pre><code class="language-character">{
+  &quot;name&quot;: &quot;Aronious III&quot;,
+  &quot;size&quot;: &quot;Medium&quot;,
+  &quot;type&quot;: &quot;Humanoid&quot;,
+  &quot;subtype&quot;: &quot;Human&quot;,
+  &quot;alignment&quot;: &quot;Neutral Good&quot;,
+  &quot;level&quot;: 2,
+  &quot;ac&quot;: 14,
+  &quot;hp&quot;: 9,
+  &quot;hit_dice&quot;: &quot;1d10&quot;,
+  &quot;speed&quot;: &quot;30&quot;,
+  &quot;stats&quot;: [12, 12, 12, 12, 12, 12],
+  &quot;saves&quot;: [&quot;STR&quot;, &quot;DEX&quot;],
+  &quot;proficiency&quot;: 2,
+  &quot;skillsaves&quot;: [],
+  &quot;expertise&quot;: [],
+  &quot;damage_vulnerabilities&quot;: &quot;&quot;,
+  &quot;damage_resistances&quot;: &quot;&quot;,
+  &quot;damage_immunities&quot;: &quot;&quot;,
+  &quot;condition_immunities&quot;: &quot;&quot;,
+  &quot;senses&quot;: &quot;Passive Perception 16&quot;,
+  &quot;languages&quot;: [&quot;Common&quot;],
+  &quot;spells&quot;: {
+    &quot;description&quot;: &quot;As a level 2 Ranger, Aronious III has learned to use the magical essence of nature to cast spells; much as a druid does&quot;,
+    &quot;spell_list&quot;: [
+        {
+            &quot;spell_level&quot;: 0,
+            &quot;spell_list&quot;: &quot;&quot;
+        },
+        {
+            &quot;spell_level&quot;: 1,
+            &quot;spell_list&quot;: &quot;&quot;
+        }
+  ]
   },
-  &quot;skillsaves&quot;: {
-    &quot;&lt;skill-name&gt;&quot;: 1
-  },
-  &quot;damage_vulnerabilities&quot;: &quot;string&quot;,
-  &quot;damage_resistances&quot;: &quot;string&quot;,
-  &quot;damage_immunities&quot;: &quot;string&quot;,
-  &quot;condition_immunities&quot;: &quot;string&quot;,
-  &quot;senses&quot;: &quot;string&quot;,
-  &quot;languages&quot;: [&quot;string&quot;],
-  &quot;cr&quot;: 1,
-  &quot;spells&quot;: [
-    {
-      &quot;description&quot;: &quot;string&quot;,
-      &quot;spell_level&quot;: 1,
-      &quot;spell_list&quot;: &quot;string&quot;
-    }
-  ],
   &quot;traits&quot;: [
     {
-      &quot;name&quot;: &quot;string&quot;,
-      &quot;description&quot;: &quot;string&quot;
+      &quot;name&quot;: &quot;Deft Explorer&quot;,
+      &quot;description&quot;: &quot;You are an unsurpassed explorer and survivor, both in the wilderness and in dealing with others on your travels. You gain the Canny benefit below, and you gain an additional benefit below when you reach 6th level and 10th level in this class.\n\n&lt;strong&gt;Canny&lt;/strong&gt;\nAronious has Canny Insight. Your proficiency bonus is doubled for any Insight check you make.&quot;
+    },
+    {
+      &quot;name&quot;: &quot;Favored Foe&quot;,
+      &quot;description&quot;: &quot;When you hit a creature with an attack roll, you can call on your mystical bond with nature to mark the target as your favored enemy for 1 minute or until you lose your concentration (as if you were concentrating on a spell).\nThe first time on each of your turns that you hit the favored enemy and deal damage to it, including when you mark it, you can increase that damage by 1d4.\nYou can use this feature to mark a favored enemy a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.\nThis feature's extra damage increases when you reach certain levels in this class: to 1d6 at 6th level and to 1d8 at 14th level.&quot;
+    },
+    {
+      &quot;name&quot;: &quot;Druidic Warrior&quot;,
+      &quot;description&quot;: &quot;You learn two cantrips of your choice from the druid spell list. They count as ranger spells for you, and Wisdom is your spellcasting ability for them. Whenever you gain a level in this class, you can replace one of these cantrips with another cantrip from the druid spell list.&quot;
     }
   ],
   &quot;actions&quot;: [
     {
-      &quot;name&quot;: &quot;string&quot;,
-      &quot;description&quot;: &quot;string&quot;
-    }
-  ],
-  &quot;legendary_actions&quot;: [
+      &quot;name&quot;: &quot;Shortbow&quot;,
+      &quot;description&quot;: &quot;Ranged Weapon Attack: +5 to hit, range 80 ft./320 ft., one target. Hit: 6 (1d6 + 3) piercing damage.&quot;
+    },
     {
-      &quot;name&quot;: &quot;string&quot;,
-      &quot;description&quot;: &quot;string&quot;
-    }
-  ],
-  &quot;reactions&quot;: [
-    {
-      &quot;name&quot;: &quot;string&quot;,
-      &quot;description&quot;: &quot;string&quot;
+      &quot;name&quot;: &quot;Shortsword&quot;,
+      &quot;description&quot;: &quot;Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage.&quot;
     }
   ]
 }
