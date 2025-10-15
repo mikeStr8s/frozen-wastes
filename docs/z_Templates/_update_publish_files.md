@@ -1,7 +1,7 @@
 <%*
 const dv = app.plugins.plugins["dataview"].api;
 const filename = "Recently Created";
-const query = `TABLE WITHOUT ID ("[" + file.name + "](../" + replace(file.path, " ", "%20") + ")") as Page, file.ctime as "Creation Date"
+const query = `TABLE WITHOUT ID ("[" + file.name + "](" + replace(file.path, " ", "%20") + ")") as Page, file.ctime as "Creation Date"
 from "world"
 sort file.ctime desc
 limit 5`;

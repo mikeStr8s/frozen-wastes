@@ -120,34 +120,87 @@ a:hover {
   border-radius: 0;
 }
 
-.stats-wrapper {
-  display: flex;
-  flex-direction: row;
-}
-
 .character-stat-wrapper {
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
 }
 
-.stat-col {
+.character-wrapper h2 {
+  border-bottom: 4px solid red;
+}
+
+.character-wrapper h3 {
+  border-bottom: 2px solid red;
+}
+
+.character-wrapper ul {
+  margin: 0;
+}
+
+.stats-wrapper {
   display: flex;
   flex-direction: column;
-  max-width: 50%;
 }
 
-.stats-grid {
-  display: grid;
-  grid-template-columns: repeat(4, 1fr);
-  grid-template-rows: repeat(3, 1fr);
-  grid-column-gap: 0px;
-  grid-row-gap: 2px;
+.stats-group {
+  display: flex;
+  flex-direction: row;
+  gap: var(--margin-xxs);
+  width: 100%;
+  justify-content: space-between;
+}
+
+.stats-group:nth-child(1) {
+  font: 0.5rem/1.5em var(--ff);
+  background: none;
+}
+
+.stats-group p {
+  margin: 0;
+  text-align: center;
+}
+
+/* Make the Stat name grow */
+.stats-group .stat-entry p:nth-child(1) {
+  flex-grow: 1;
+}
+
+/* Set the background colors of the stat grid */
+.stats-group:nth-child(2) .stat-entry p:nth-child(1),
+.stats-group:nth-child(2) .stat-entry p:nth-child(2) {
+  background-color: oklch(70% 0.00011 271.152);
+}
+.stats-group:nth-child(2) .stat-entry p:nth-child(3),
+.stats-group:nth-child(2) .stat-entry p:nth-child(4) {
+  background-color: oklch(80% 0.00011 271.152);
+}
+.stats-group:nth-child(3) .stat-entry p:nth-child(1),
+.stats-group:nth-child(3) .stat-entry p:nth-child(2) {
+  background-color: oklch(80% 0.00011 271.152);
+}
+.stats-group:nth-child(3) .stat-entry p:nth-child(3),
+.stats-group:nth-child(3) .stat-entry p:nth-child(4) {
+  background-color: oklch(90% 0.00011 271.152);
+}
+
+.stat-entry {
+  display: flex;
+  flex-direction: row;
+  flex-grow: 1;
+  justify-content: flex-end;
+}
+
+.stat-entry p {
+  font: inherit;
+  min-width: 3rem;
+}
+
+.stat-entry p:nth-child(1) {
+  text-align: right;
+  font-weight: bold;
 }
 
 .name-desc {
-  /* display: flex;
-  flex-direction: row;
-  gap: var(--margin-xxs); */
   margin-bottom: var(--margin-s);
 }
 
@@ -159,4 +212,7 @@ a:hover {
 
 .name-desc :nth-child(2) {
   white-space: pre-wrap;
+}
+
+.character-stat-wrapper hr {
 }

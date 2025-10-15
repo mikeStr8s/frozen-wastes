@@ -1,3 +1,9 @@
+# Yin Shen
+
+A former celestial trickster spirit, cast down and held in the frozen north of Icewind Dale.
+
+## Stat Block
+
 ```character
 {
   "name": "Yin Shen",
@@ -26,7 +32,7 @@
     "spell_list": [
         {
             "spell_level": 0,
-            "spell_list": "Fire Bolt"
+            "spell_list": "fire bolt"
         }
   ]
   },
@@ -57,8 +63,6 @@
       "name": "Shortsword",
       "description": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage."
     }
-  ],
-  "legendary_actions": [],
-  "reactions": []
+  ]
 }
 ```
