@@ -125,6 +125,10 @@
 </li>
                                     
 <li>
+    <a href="../Untitled/" class="dropdown-item">Untitled</a>
+</li>
+                                    
+<li>
     <a href="../Yin%20Shen/" class="dropdown-item">Yin Shen</a>
 </li>
                                 </ul>
@@ -187,7 +191,64 @@
 </div></div>
                     <div class="col-md-9" role="main">
 
-</div>
+<pre><code class="language-statblock">{
+  &quot;name&quot;: &quot;string&quot;,
+  &quot;size&quot;: &quot;string&quot;,
+  &quot;type&quot;: &quot;string&quot;,
+  &quot;subtype&quot;: &quot;string&quot;,
+  &quot;alignment&quot;: &quot;string&quot;,
+  &quot;ac&quot;: 1,
+  &quot;hp&quot;: 1,
+  &quot;hit_dice&quot;: &quot;string&quot;,
+  &quot;speed&quot;: &quot;string&quot;,
+  &quot;stats&quot;: [1, 1, 1, 1, 1, 1],
+  &quot;fage_stats&quot;: [1, 1, 1, 1, 1, 1, 1, 1, 1],
+  &quot;saves&quot;: {
+    &quot;&lt;ability-score&gt;&quot;: 1
+  },
+  &quot;skillsaves&quot;: {
+    &quot;&lt;skill-name&gt;&quot;: 1
+  },
+  &quot;damage_vulnerabilities&quot;: &quot;string&quot;,
+  &quot;damage_resistances&quot;: &quot;string&quot;,
+  &quot;damage_immunities&quot;: &quot;string&quot;,
+  &quot;condition_immunities&quot;: &quot;string&quot;,
+  &quot;senses&quot;: &quot;string&quot;,
+  &quot;languages&quot;: [&quot;string&quot;],
+  &quot;cr&quot;: 1,
+  &quot;spells&quot;: [
+    {
+      &quot;description&quot;: &quot;string&quot;,
+      &quot;spell_level&quot;: 1,
+      &quot;spell_list&quot;: &quot;string&quot;
+    }
+  ],
+  &quot;traits&quot;: [
+    {
+      &quot;name&quot;: &quot;string&quot;,
+      &quot;description&quot;: &quot;string&quot;
+    }
+  ],
+  &quot;actions&quot;: [
+    {
+      &quot;name&quot;: &quot;string&quot;,
+      &quot;description&quot;: &quot;string&quot;
+    }
+  ],
+  &quot;legendary_actions&quot;: [
+    {
+      &quot;name&quot;: &quot;string&quot;,
+      &quot;description&quot;: &quot;string&quot;
+    }
+  ],
+  &quot;reactions&quot;: [
+    {
+      &quot;name&quot;: &quot;string&quot;,
+      &quot;description&quot;: &quot;string&quot;
+    }
+  ]
+}
+</code></pre></div>
             </div>
         </div>
 
@@ -201,6 +262,7 @@
                 shortcuts = {"help": 191, "next": 78, "previous": 80, "search": 83};
         </script>
         <script src="../../../js/base.js"></script>
+        <script src="../../../character.js"></script>
         <script src="../../../search/main.js"></script>
 
         <div class="modal" id="mkdocs_search_modal" tabindex="-1" role="dialog" aria-labelledby="searchModalLabel" aria-hidden="true">

@@ -125,6 +125,10 @@
 </li>
                                     
 <li>
+    <a href="../Untitled/" class="dropdown-item">Untitled</a>
+</li>
+                                    
+<li>
     <a href="./" class="dropdown-item active" aria-current="page">Yin Shen</a>
 </li>
                                 </ul>
@@ -156,7 +160,7 @@
                             </a>
                         </li>
                             <li class="nav-item">
-                                <a rel="prev" href="../Sephek%20Kaltro/" class="nav-link">
+                                <a rel="prev" href="../Untitled/" class="nav-link">
                                     <i class="fa fa-arrow-left"></i> Previous
                                 </a>
                             </li>
@@ -187,7 +191,69 @@
 </div></div>
                     <div class="col-md-9" role="main">
 
-</div>
+<pre><code class="language-character">{
+  &quot;name&quot;: &quot;Yin Shen&quot;,
+  &quot;size&quot;: &quot;Medium&quot;,
+  &quot;type&quot;: &quot;Humanoid&quot;,
+  &quot;subtype&quot;: &quot;Kitsune&quot;,
+  &quot;alignment&quot;: &quot;Chaotic Good&quot;,
+  &quot;level&quot;: 2,
+  &quot;ac&quot;: 14,
+  &quot;hp&quot;: 15,
+  &quot;hit_dice&quot;: &quot;1d8&quot;,
+  &quot;speed&quot;: &quot;30&quot;,
+  &quot;stats&quot;: [7, 16, 12, 17, 12, 12],
+  &quot;saves&quot;: [&quot;INT&quot;, &quot;DEX&quot;],
+  &quot;proficiency&quot;: 2,
+  &quot;skillsaves&quot;: [&quot;Acrobatics&quot;, &quot;Arcana&quot;, &quot;Deception&quot;, &quot;Insight&quot;, &quot;Sleight of Hand&quot;],
+  &quot;expertise&quot;: [&quot;Investigation&quot;, &quot;Stealth&quot;],
+  &quot;damage_vulnerabilities&quot;: &quot;&quot;,
+  &quot;damage_resistances&quot;: &quot;&quot;,
+  &quot;damage_immunities&quot;: &quot;&quot;,
+  &quot;condition_immunities&quot;: &quot;&quot;,
+  &quot;senses&quot;: &quot;Darkvision 60ft&quot;,
+  &quot;languages&quot;: [&quot;Celestial&quot;, &quot;Common&quot;, &quot;Common Sign Language&quot;, &quot;Elvish&quot;, &quot;Thieves’ Cant&quot;],
+  &quot;spells&quot;: {
+    &quot;description&quot;: &quot;As a level 2 Rogue, Yin Shen is not capable of spellcasting. But her celestial origin provides her with a small modicum of her original power.&quot;,
+    &quot;spell_list&quot;: [
+        {
+            &quot;spell_level&quot;: 0,
+            &quot;spell_list&quot;: &quot;Fire Bolt&quot;
+        }
+  ]
+  },
+  &quot;traits&quot;: [
+    {
+      &quot;name&quot;: &quot;Sneak Attack&quot;,
+      &quot;description&quot;: &quot;Once per turn you can deal an extra 1d6 damage to one creature you hit with an attack if you have Advantage on the roll and the attack uses a Finesse or Ranged weapon. The extra damage's type is the same as the weapon's type. You don't need Advantage on the attack if at least one of your allies is within 5 ft. of the target, the ally doesn't have the Incapacitated condition, and you don't have Disadvantage on the attack roll.&quot;
+    },
+    {
+      &quot;name&quot;: &quot;Cunning Action&quot;,
+      &quot;description&quot;: &quot;On your turn, you can take one of the following actions as a Bonus Actions: Dash, Disengage, or Hide.&quot;
+    },
+    {
+      &quot;name&quot;: &quot;Wild Shape (Kitsune)&quot;,
+      &quot;description&quot;: &quot;You shape-shift into a Fox. You stay in that form for 1 hours or until you use Wild Shape again, have the Incapacitated condition, or die. You can also leave the form early as a Bonus Action.\n\nRules While Shape-Shifted. The following rules apply while you're shape-shifted:\n• You retain your personality, memories, and ability to speak.\n• When you assume a Wild Shape form, you gain 2 Temporary HP.\n• Your game statistics are replaced by the Beast's stat block, but you retain your creature type; HP; HP Dice; Int., Wis., and Cha. scores; class features; languages; and feats.\n• You retain your skill and saving throws and use your Proficiency Bonus for them, and gain any proficiencies of the creature. If the Beast's stat block has a higher skill or saving throw modifier, use the one in the stat block.\n• You can't cast spells, but shape-shifting doesn't break your Concentration.&quot;
+    },
+    {
+      &quot;name&quot;: &quot;Celestial Third Eye&quot;,
+      &quot;description&quot;: &quot;Your celestial origin lets you see the inward thoughts of others. Once per long rest you may gain +2 to insight rolls.&quot;
+    }
+  ],
+  &quot;actions&quot;: [
+    {
+      &quot;name&quot;: &quot;Shortbow&quot;,
+      &quot;description&quot;: &quot;Ranged Weapon Attack: +5 to hit, range 80 ft./320 ft., one target. Hit: 6 (1d6 + 3) piercing damage.&quot;
+    },
+    {
+      &quot;name&quot;: &quot;Shortsword&quot;,
+      &quot;description&quot;: &quot;Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage.&quot;
+    }
+  ],
+  &quot;legendary_actions&quot;: [],
+  &quot;reactions&quot;: []
+}
+</code></pre></div>
             </div>
         </div>
 
@@ -201,6 +267,7 @@
                 shortcuts = {"help": 191, "next": 78, "previous": 80, "search": 83};
         </script>
         <script src="../../../js/base.js"></script>
+        <script src="../../../character.js"></script>
         <script src="../../../search/main.js"></script>
 
         <div class="modal" id="mkdocs_search_modal" tabindex="-1" role="dialog" aria-labelledby="searchModalLabel" aria-hidden="true">
