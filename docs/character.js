@@ -51,6 +51,7 @@ function initCharacter() {
     getCharacterTypes(characterJson),
     getCharacterAttributes(characterJson),
     getCharacterStats(characterJson),
+    getCharacterStatsGrid(characterJson),
     getCharacterSkills(characterJson),
     getCharacterTraits(characterJson["traits"]),
     getCharacterSpells(characterJson["spells"]),
@@ -127,6 +128,39 @@ function getCharacterStats(json) {
   return `<div class="stats-wrapper">${headers}${statGroup(statisticsGroup1List.join(""))}${statGroup(statisticsGroup2List.join(""))}</div>`;
 }
 
+function getCharacterStatsGrid(json) {
+  const stats = json["stats"];
+  const saves = json["saves"];
+  const proficiency = json["proficiency"];
+
+  const statistic = (name, value, mod, save) => {
+    return `<p>${name}</p><p>${value}</p><p>${mod}</p><p>${save}</p>`;
+  };
+
+  const statGroup = (statEntries) => {
+    return `<div class="stats-grid-block">${statEntries}</div>`;
+  };
+
+  const headerStr = `<p></p><p></p><p>MOD</p><p>SAVE</p>`;
+  /* prettier-ignore */
+  const headers = `${statGroup([headerStr, headerStr, headerStr].join(""))}`;
+  /* prettier-ignore */
+  const statisticsGroup1List = [
+        statistic("STR", stats[0], getMod(stats[0], "", [], 0), getMod(stats[0], "STR", saves, proficiency)),
+        statistic("DEX", stats[0], getMod(stats[0], "", [], 0), getMod(stats[0], "DEX", saves, proficiency)),
+        statistic("CON", stats[0], getMod(stats[0], "", [], 0), getMod(stats[0], "CON", saves, proficiency)),
+    ];
+  /* prettier-ignore */
+  const statisticsGroup2List = [
+        statistic("INT", stats[0], getMod(stats[0], "", [], 0), getMod(stats[0], "INT", saves, proficiency)),
+        statistic("WIS", stats[0], getMod(stats[0], "", [], 0), getMod(stats[0], "WIS", saves, proficiency)),
+        statistic("CHA", stats[0], getMod(stats[0], "", [], 0), getMod(stats[0], "CHA", saves, proficiency)),
+    ];
+
+  /* prettier-ignore */
+  return `<div class="stats-grid">${headers}${statGroup(statisticsGroup1List.join(""))}${statGroup(statisticsGroup2List.join(""))}</div>`;
+}
+
 function getCharacterSkills(json) {
   const stats = json["stats"];
   const proficiency = json["proficiency"];
@@ -146,7 +180,7 @@ function getCharacterSkills(json) {
       let statName = skillStatMap.get(skill);
       let statIdx = statistics.indexOf(statName);
       let stat = stats[statIdx];
-      let value = calculateModifier(stat) + proficiency;
+      let value = calculateMod(stat) + proficiency;
       skillStringList.push(`${skill} ${value >= 0 ? `+${value}` : value}`);
     }
 
@@ -154,7 +188,7 @@ function getCharacterSkills(json) {
       let statName = skillStatMap.get(skill);
       let statIdx = statistics.indexOf(statName);
       let stat = stats[statIdx];
-      let value = calculateModifier(stat) + proficiency + proficiency;
+      let value = calculateMod(stat) + proficiency + proficiency;
       skillStringList.push(`${skill} ${value >= 0 ? `+${value}` : value}`);
     }
 
@@ -206,11 +240,11 @@ function getCharacterReactions(reactions) {
   return `<h3>Reactions</h3>${getNameDescriptionPairs(reactions)}`;
 }
 
-function getMod(stat, current, saves, proficiency) {
-  const calculateMod = (s) => {
-    return Math.floor((s - 10) / 2);
-  };
+function calculateMod(s) {
+  return Math.floor((s - 10) / 2);
+};
 
+function getMod(stat, current, saves, proficiency) {
   if (current !== "" && saves.includes(current)) {
     let value = calculateMod(stat) + proficiency;
     return value >= 0 ? `+${value}` : value;
