@@ -44,22 +44,22 @@ _Sylvanian Institute of Arcane, Department of Applied Curiosities_
 
 ## Recently Created
 
-| Page                                                                       | Creation Date              |
-| -------------------------------------------------------------------------- | -------------------------- |
-| [The White Lady Inn](world/atlas/The%20White%20Lady%20Inn.md)              | 3:14 PM - October 13, 2025 |
-| [Captain Imdra Arlaggath](world/characters/Captain%20Imdra%20Arlaggath.md) | 3:06 PM - October 13, 2025 |
-| [Caer-Dineval](world/atlas/Caer-Dineval.md)                                | 2:57 PM - October 13, 2025 |
-| [Kelvin's Cairn](world/atlas/Kelvin's%20Cairn.md)                          | 2:55 PM - October 13, 2025 |
-| [The Wet Trout](world/atlas/The%20Wet%20Trout.md)                          | 2:54 PM - October 13, 2025 |
+| Page                                                                                    | Creation Date               |
+| --------------------------------------------------------------------------------------- | --------------------------- |
+| [Knights of the Black Sword](world/organizations/Knights%20of%20the%20Black%20Sword.md) | 9:15 AM - November 03, 2025 |
+| [Hethyl Arkorran](world/characters/Hethyl%20Arkorran.md)                                | 9:06 AM - November 03, 2025 |
+| [Henry Davis](world/characters/Henry%20Davis.md)                                        | 9:01 AM - November 03, 2025 |
+| [The Caer](world/atlas/The%20Caer.md)                                                   | 8:59 AM - November 03, 2025 |
+| [Crannoc Siever](world/characters/Crannoc%20Siever.md)                                  | 8:58 AM - November 03, 2025 |
 
 <hr/>
 
 ## Recently Updated
 
-| Page                                                          | Modified Date               |
-| ------------------------------------------------------------- | --------------------------- |
-| [Hobbins](world/characters/Hobbins.md)                        | 1:28 PM - October 15, 2025  |
-| [Aronious](world/characters/Aronious.md)                      | 12:50 PM - October 15, 2025 |
-| [Yin Shen](world/characters/Yin%20Shen.md)                    | 9:01 AM - October 15, 2025  |
-| [Trail's End Tavern](world/atlas/Trail's%20End%20Tavern.md)   | 4:12 PM - October 13, 2025  |
-| [The White Lady Inn](world/atlas/The%20White%20Lady%20Inn.md) | 4:10 PM - October 13, 2025  |
+| Page                                                                                    | Modified Date               |
+| --------------------------------------------------------------------------------------- | --------------------------- |
+| [Torg's Trading Company](world/organizations/Torg's%20Trading%20Company.md)             | 9:18 AM - November 03, 2025 |
+| [Knights of the Black Sword](world/organizations/Knights%20of%20the%20Black%20Sword.md) | 9:17 AM - November 03, 2025 |
+| [Sephek Kaltro](world/characters/Sephek%20Kaltro.md)                                    | 9:14 AM - November 03, 2025 |
+| [Dzaan](world/characters/Dzaan.md)                                                      | 9:13 AM - November 03, 2025 |
+| [Henry Davis](world/characters/Henry%20Davis.md)                                        | 9:12 AM - November 03, 2025 |

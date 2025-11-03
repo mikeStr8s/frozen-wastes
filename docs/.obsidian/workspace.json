@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "story/Session 2.md",
+                "file": "index.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Session 2"
+              "title": "index"
             }
           },
           {
@@ -187,6 +187,10 @@
   },
   "active": "a5a5fbdcd629834c",
   "lastOpenFiles": [
+    "Recently Edited.md",
+    "index.md",
+    "Recently Created.md",
+    "story/Session 2.md",
     "world/atlas/Kelvin's Cairn.md",
     "world/atlas/The Caer.md",
     "world/atlas/The Eastway.md",
@@ -209,14 +213,10 @@
     "world/characters/Hethyl Arkorran.md",
     "world/atlas/Caer-Dineval.md",
     "world/characters/Yin Shen.md",
-    "scratch_notes/_reference.md",
     "img/shield-caer-dineval.webp",
     "img/Unconfirmed 773685.crdownload",
     "img/caer-dineval.webp",
     "img/Unconfirmed 489102.crdownload",
-    "world/atlas/Easthaven.md",
-    "scratch_notes/Session 3.md",
-    "story/Session 2.md",
     "Untitled.canvas",
     "character.js",
     "img/Bryn_shander_shield-5e.webp",
