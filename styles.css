@@ -162,7 +162,7 @@ a:hover {
 
 /* Make the Stat name grow */
 .stats-group .stat-entry p:nth-child(1) {
-  flex-grow: 1;
+  flex: 1 1 1rem;
 }
 
 /* Set the background colors of the stat grid */
@@ -192,7 +192,8 @@ a:hover {
 
 .stat-entry p {
   font: inherit;
-  min-width: 3rem;
+  flex: 1 1;
+  width: 3rem;
 }
 
 .stat-entry p:nth-child(1) {
