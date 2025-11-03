@@ -1,2 +1,27 @@
-## Prep
-
+- The party discussed plans and decided to take a caravan to Caer-Dineval
+- Yin Shen goes to see if he can detect any spirit presence. Something related to the white lady. She doesn't find anything.
+- Party goes to the tavern "The Uphill Climb".
+	- The Uphill Climb: This tavern is situated northwest of the Caer, where it offers a spectacular view of the lake and the frozen docks. The Climb serves hot chowder but is all out of beer and spirits. The proprietor, a rugged middle-aged man named Roark.
+- Yin Shen goes to Roark and asks about the white lady
+- Yin Shen asks for the name of the town speaker, he gives it as Crannoc Siever a human
+- party goes to the Caer
+	- The Caer: A sturdy, stone castle devoid of warmth and ostentation squats atop the cliffs overlooking the town and the frozen harbor. Warding the castle entrance are thick, battle-hardened wooden doors. Four cylindrical guard towers have wind-worn flags bearing the town's heraldry fluttering above their tiled, conical roofs. These towers are connected by icy battlements and parapets. Atop the castle walls and within the guard towers, torches flicker.
+- The party arrives and announces themselves at the castle, shouting up at the lantern lit guard tower
+- The captain ushers men to arrow slits and guards shoot 3 warning shots, Aronious got grazed
+- The captain told the party to leave and that the speaker was sick and couldn't see anyone. He also ushered even more guards to man the arrow slits.
+- as the leader got more people to man the tower, hobbins wanted to use charm person
+- Yin Shen faught to wrestle Hobbins so that she couldn't, but hobbins was too sly and charmed a guard, Henry Davis
+- Hobbins asks Henry to let them all inside the tower. Henry goes to captain and says they are on official business and they cautiously let them in. Opening the two large sturdy doors.
+- The party requests to be brought to the speaker.
+- Henry takes the party to the speakers office and there is no one there. Hobbins gets book "The history of caer-dineval".
+- The party asks Henry where the speaker is, but he doesn't know. He is a low ranking guard member and not from Ten-Towns.
+- Henry leads party to the soothsayer, Hethyl Arkorran
+	- Hethyl: Hethyl is a heartless creature—not cruel out of spite, just blunt in a mean, uncaring way.
+- The party inquires about the guards and herself. She says they are the "knights of the black sword"
+- The soothsayer  says duergar are coming and gives the prophecy
+	- Hidden away, buried in the mountains, lies a fortress, a villain, a crystal machine with a dragon's heart! O, mighty wings beating and breath like the sun! Bright enough to BURN away the Rime -- to burn us all if you do... not...stop
+- After this final prophecy she falls still, breathing stopped, dead
+- The party tries to figure out what to do, they decide to send Henry to get help.
+- Henry comes back a short while later with the captain and many other guards in tow.
+- The party tries to explain what happend but all talk over themselves, garbling their words.
+- Captain commands his men to restrain the party and points to Henry and tells them to clap the traitor in irons.

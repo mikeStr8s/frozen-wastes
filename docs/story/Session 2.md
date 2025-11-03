@@ -8,13 +8,13 @@ As they pondered their next course, the tavern door opened, letting in a gust of
 
 Behind him, a companion in studded leather lingered at the doorway, but before the group could take a good look, the door shut and the figure was gone.
 
-Dzaan placed a small [lantern of gentle blue fire](../world/artifacts/Lantern%20of%20Tracking.md) upon the table. “This,” he explained, “is attuned to the spirits. It glows when they are near. Bring me one, and twenty-five gold is yours.”
+**Dzaan** placed a small [lantern of gentle blue fire](../world/artifacts/Lantern%20of%20Tracking.md) upon the table. “This,” he explained, “is attuned to the spirits. It glows when they are near. Bring me one, and twenty-five gold is yours.”
 
 [Hobbins'](../world/characters/Hobbins.md) eager chatter — and [Yin Shen's](../world/characters/Yin%20Shen.md) foxlike grin — saw the wizard laugh and raise the offer. “A fine bit of negotiation,” he admitted, “and a sign of capable company. Thirty gold pieces it is.”
 
 The party accepted and returned to the forest, lantern in hand. There, beneath the whispering pines, they sought to coax the Chwingas from hiding. Remembering the tales that the spirits were fond of childish wonder, the group began to dance, sing, and play at circles in the snow — ring around the rosy beneath the moonlight.
 
-It was a comical sight: [Aronious](../world/characters/Aronious.md) trying, with some dignity, to keep pace; Yin Shen spinning with genuine delight; and Hobbins darting through the snow like a ribbon of fur and laughter. Yet for all their effort, no spirit appeared. The lantern’s flame flickered once, then stilled.
+It was a comical sight: [Aronious](../world/characters/Aronious.md) trying, with some dignity, to keep pace; **Yin Shen** spinning with genuine delight; and Hobbins darting through the snow like a ribbon of fur and laughter. Yet for all their effort, no spirit appeared. The lantern’s flame flickered once, then stilled.
 
 With frost clinging to their cloaks and little gained for their play, they decided to continue their travels east to [Easthaven](../world/atlas/Easthaven.md).
 
@@ -26,9 +26,9 @@ The next day as they warmed themselves by the hearth, a bard named **Rinaldo** a
 
 **Yin Shen** ventured into the square, where she stumbled upon a grim spectacle — **Dzaan**, the very wizard who had so warmly hired them, bound to a stake as the townsfolk gathered round. The flames climbed swiftly, and he met his end with unsettling calm.
 
-Beside Yin Shen stood [Captain Imdra Arlaggath](../world/characters/Captain%20Imdra%20Arlaggath.md), the stern leader of Easthaven’s guard. Seeing her disquiet, the captain muttered, “Do not pity him, stranger. He murdered those he hired — folk of Icewind Dale — after they aided his travels. He’s reaping what he sowed.”
+Beside **Yin Shen** stood [Captain Imdra Arlaggath](../world/characters/Captain%20Imdra%20Arlaggath.md), the stern leader of Easthaven’s guard. Seeing her disquiet, the captain muttered, “Do not pity him, stranger. He murdered those he hired — folk of Icewind Dale — after they aided his travels. He’s reaping what he sowed.”
 
-When the captain turned her questioning gaze to Yin Shen, the rogue answered plainly that she and her companions had only crossed Dzaan’s path briefly, and were in fact hunting **Sephek Kaltro**, the killer who had plagued Ten-Towns. Hearing that the murderer was no more, the captain’s demeanor softened.
+When the captain turned her questioning gaze to **Yin Shen**, the rogue answered plainly that she and her companions had only crossed **Dzaan’s** path briefly, and were in fact hunting **Sephek Kaltro**, the killer who had plagued Ten-Towns. Hearing that the murderer was no more, the captain’s demeanor softened.
 
 “You’ve a sharp eye and a steady hand,” she said. “We’ve fishermen gone missing out on the ice. Find them, and what Dzaan carried in life shall be yours in death.”
 
