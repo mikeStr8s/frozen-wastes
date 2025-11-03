@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "world/atlas/Caer-Dineval.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Caer-Dineval"
             }
           },
           {
@@ -187,8 +187,8 @@
   },
   "active": "a5a5fbdcd629834c",
   "lastOpenFiles": [
-    "Recently Edited.md",
     "index.md",
+    "Recently Edited.md",
     "Recently Created.md",
     "story/Session 2.md",
     "world/atlas/Kelvin's Cairn.md",

@@ -1,4 +1,4 @@
-![](../../img/caer-dineval.webp)
+![](caer-dineval.webp)
 
 ## In a Nutshell
 
