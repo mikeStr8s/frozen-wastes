@@ -1,4 +1,4 @@
-# The Many Whispers in Easthaven
+# Session 2: The Many Whispers in Easthaven
 
 When the travelers returned to the [Trail's End Tavern](../world/atlas/Trail's%20End%20Tavern.md), the night was calm and cold, and the road behind them lay silent. Yet one thing was amiss — [Torg's Company](../world/organizations/Torg's%20Trading%20Company.md) was gone, their sleds and dogs no where to be seen. Left while the part was away.
 

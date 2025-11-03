@@ -1,4 +1,4 @@
-# The Blade in the Snow
+# Session 1: The Blade in the Snow
 
 The tale begins in the frozen town of [Bryn Shander](../world/atlas/Bryn%20Shander.md), where the wind never ceases and hope flickers like a dying hearth. Within the stout walls of [The Northlook Inn](../world/atlas/The%20Northlook%20Inn.md), travelers gathered to warm their bones and share rumor. Among them that night were three figures who, by fate or folly, would soon be bound by blood and ice.
 

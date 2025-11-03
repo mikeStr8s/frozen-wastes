@@ -1,4 +1,4 @@
-# The Prophecy at Caer-Dineval
+# Session 3: The Prophecy at Caer-Dineval
 
 The morning after the séance brought no answers, only the lingering echo of a spirit's whisper: _Caer-Dineval._ By dawn, the decision was made.
 
