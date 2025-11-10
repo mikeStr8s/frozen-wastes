@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "world/atlas/Caer-Dineval.md",
+                "file": "index.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Caer-Dineval"
+              "title": "index"
             }
           },
           {
@@ -187,9 +187,13 @@
   },
   "active": "a5a5fbdcd629834c",
   "lastOpenFiles": [
-    "index.md",
     "Recently Edited.md",
     "Recently Created.md",
+    "index.md",
+    "story/Session 4.md",
+    "world/atlas/Caer-Dineval.md",
+    "scratch_notes/_reference.md",
+    "story/Session 3.md",
     "story/Session 2.md",
     "world/atlas/Kelvin's Cairn.md",
     "world/atlas/The Caer.md",
@@ -201,7 +205,6 @@
     "world/atlas/Trail's End Tavern.md",
     "world/organizations/Torg's Trading Company.md",
     "world/organizations/Knights of the Black Sword.md",
-    "story/Session 3.md",
     "world/characters/Sephek Kaltro.md",
     "world/characters/Hobbins.md",
     "world/characters/Hiln Trollbane.md",
@@ -210,9 +213,6 @@
     "world/characters/Crannoc Siever.md",
     "world/characters/Captain Imdra Arlaggath.md",
     "world/characters/Aronious.md",
-    "world/characters/Hethyl Arkorran.md",
-    "world/atlas/Caer-Dineval.md",
-    "world/characters/Yin Shen.md",
     "img/shield-caer-dineval.webp",
     "img/Unconfirmed 773685.crdownload",
     "img/caer-dineval.webp",

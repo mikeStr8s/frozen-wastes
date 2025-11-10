@@ -1,0 +1,45 @@
+- aronious bolts toward the door with Hobbins on shoulders
+  - He dodges first guard, but hobbins gets grabbed while on his shoulders
+  - He is able to beat away the grabbing hands and gets Hobbins back on his shoulders
+  - He dodges another guard, hobbins again gets knocked off
+  - Aronious spins around, winds up, and punches the guy who grabbed hobbins knocking him out and allowing them both to escape
+- meanwhile Yin Shen melds into the shadows and hides under the bed
+- Yin Shen wild shapes to fox
+- guard captain searches room, throwing furnature out of his way and eventually finds her
+- Grabs her by her tail and carries her uncermoniouly to the castles frozen cistern they are using as a makeshift dungeon.
+- Yin shen notes that there are dead guards wearing city heraldry, frozen in the layer of damp wet earth. All the guards in the tower so far have had a different or no heraldry at all.
+- In the cell there are 5 others who worked at the castle and were being held and mistreated
+- Yin shen uses fire bolt to weaken permafrost layer and create a hole to let them climb out to the surface.
+- As the group rounds the hunting kennels, the hounds bark wildly and a castle alert is raised.
+- Aronious and Hobbins are waiting outside castle for any sign of Yin Shen
+- they hear the alarms and can see Yin Shen and the other prisoners from their hiding point outside the castle walls, but the gates start closing
+- Yin Shen and Aronious hold the door open as Aronious also uses his bow to prevent it from closing
+- All members escape and make it to the tavern where they debrief
+- Party sleeps the night and heads to Easthaven next day
+- After arriving they reserve a room for their stay and head straight to the lake to find missing fishers
+- They walk out on the ice of Lac Dinneshere for a while until Easthaven is out of view. They find an area of open water and ice flows, and within is an abandoned boat and caves in a cliff face
+- Yin Shen investigates boat. There is no one there and the fishers dont seem to have been taken by violence
+- The group decides to enter the cave entrance that used to be an underground river but has now frozen into a walking path level with the lake. The other cave enterences were 20-30ft up to climb and the party decided not to risk it.
+- Party then sees a fork in the path. They could continue on the frozen river or leave the ice onto the river bank and into another cave opening.
+- They take cave path and it leads up into another open room full of gore and a large Giant's Skeleton slumped in the middle of the room and frozen to the floor.
+- The party carefully steps into cave room, skeleton wakes up and tries to escape the ice pinning it to the floor
+- Combat:
+  - Yin shen shortsword attack
+  - Hobbins gets shot from aronious' bow to land on the giants face and uses fire bolt
+  - Aronious Shortbow attack
+  - Giant frees one arm holding an axe the size of a human man
+  - Yin shen shortsword attack
+  - Hobbins fire bolt
+  - Aronious thorn whip to hold the arm restrained to prevent it freeing itself.
+  - Giant restrained and couldn't break the vine
+  - Yin Shen shortsword attack
+  - Hobbins uses her last vial of ink to try and snuff out the glowing blue flame in the eyes of the giant. Successfully puts one eye out and this causes the giant's bones to howl in rage and shake hobbins off
+  - Aronious shortbow attack
+  - Giant frees itself from the vines and breaks its other arm free
+  - Yin shen shortsword attack
+  - Hobbins gets shot back onto the face of the giant by Aronious' bow and attacks
+  - Aronious uses thorn whip again to restrain the axe wielding arm
+  - Giant breaks free and yanks Aronious into melee range
+  - Yin shen runs up to the giant and launches herself onto its head, then uncorks her waterskin and forces it into the other eye socket of the giant and douses the flame.
+  - Another howl and then the bones start to crumble and the armor/weapons rust away.
+- blue light shoots from skeleton and out of cave. Bones crumble and iron rots away as the party wins the fight
