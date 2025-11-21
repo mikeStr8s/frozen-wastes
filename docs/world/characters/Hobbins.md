@@ -1,3 +1,9 @@
+---
+ac: "13"
+hp: 9
+level: 2
+modifier: 2
+---
 # Hobbins
 
 A Ferret Wizard who called the frozen north home. Constantly battling against the curiosity she felt looking out at the world from her little shop. Enough was enough, she saw the sky turn dark and a star fall from the heavens. It's time she finally went out there and lived a little.

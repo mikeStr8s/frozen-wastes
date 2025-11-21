@@ -1,5 +1,7 @@
 [
   "dataview",
   "templater-obsidian",
-  "obsidian-5e-statblocks"
+  "obsidian-5e-statblocks",
+  "initiative-tracker",
+  "obsidian-dice-roller"
 ]
