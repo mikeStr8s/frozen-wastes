@@ -31,23 +31,21 @@ _Sylvanian Institute of Arcane, Department of Applied Curiosities_
 <hr/>
 
 ## Recently Created
-
 | Page                                                                                    | Creation Date               |
 | --------------------------------------------------------------------------------------- | --------------------------- |
+| [Lupine](world/characters/Lupine.md)                                                    | 3:45 PM - December 15, 2025 |
 | [Knights of the Black Sword](world/organizations/Knights%20of%20the%20Black%20Sword.md) | 9:15 AM - November 03, 2025 |
 | [Hethyl Arkorran](world/characters/Hethyl%20Arkorran.md)                                | 9:06 AM - November 03, 2025 |
 | [Henry Davis](world/characters/Henry%20Davis.md)                                        | 9:01 AM - November 03, 2025 |
 | [The Caer](world/atlas/The%20Caer.md)                                                   | 8:59 AM - November 03, 2025 |
-| [Crannoc Siever](world/characters/Crannoc%20Siever.md)                                  | 8:58 AM - November 03, 2025 |
 
 <hr/>
 
 ## Recently Updated
-
-| Page                                                                                    | Modified Date               |
-| --------------------------------------------------------------------------------------- | --------------------------- |
-| [Caer-Dineval](world/atlas/Caer-Dineval.md)                                             | 9:24 AM - November 03, 2025 |
-| [Torg's Trading Company](world/organizations/Torg's%20Trading%20Company.md)             | 9:18 AM - November 03, 2025 |
-| [Knights of the Black Sword](world/organizations/Knights%20of%20the%20Black%20Sword.md) | 9:17 AM - November 03, 2025 |
-| [Sephek Kaltro](world/characters/Sephek%20Kaltro.md)                                    | 9:14 AM - November 03, 2025 |
-| [Dzaan](world/characters/Dzaan.md)                                                      | 9:13 AM - November 03, 2025 |
+| Page                                        | Modified Date               |
+| ------------------------------------------- | --------------------------- |
+| [Lupine](world/characters/Lupine.md)        | 3:50 PM - December 15, 2025 |
+| [Hobbins](world/characters/Hobbins.md)      | 5:39 PM - December 14, 2025 |
+| [Yin Shen](world/characters/Yin%20Shen.md)  | 5:38 PM - December 14, 2025 |
+| [Aronious](world/characters/Aronious.md)    | 5:37 PM - December 14, 2025 |
+| [Caer-Dineval](world/atlas/Caer-Dineval.md) | 9:24 AM - November 03, 2025 |

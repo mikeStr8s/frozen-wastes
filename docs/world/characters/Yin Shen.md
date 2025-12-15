@@ -1,3 +1,9 @@
+---
+ac: "14"
+hp: 21
+level: 3
+modifier: 2
+---
 # Yin Shen
 
 A former celestial trickster spirit, cast down and held in the frozen north of Icewind Dale.
@@ -11,7 +17,7 @@ A former celestial trickster spirit, cast down and held in the frozen north of I
   "type": "Humanoid",
   "subtype": "Kitsune",
   "alignment": "Chaotic Good",
-  "level": 2,
+  "level": 3,
   "ac": 14,
   "hp": 15,
   "hit_dice": "1d8",

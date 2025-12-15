@@ -1,0 +1,29 @@
+- The party discusses where to go now that the hag is dead and her eye safely with Hobbins
+- Yin Shen beheads the hag to take as proof of her demise since the fishermen were killed by her on their outing.
+- Hobbins traverses the frozen river back toward the entrance and decides she MUST get to the arched bridge they saw overhead and investigate.
+- After brief discussion on the aerodynamics of a ferret, Yin Shen now fed up and sick of talk, balled Hobbins up and threw her with all her might.
+- Unfurling in the air and landing in a pile of frost, Hobbins landed safely.
+- Aronious then grabbed Yin Shen by her ankles and spun in circles building momentum. Letting loose, Yin Shen went flying toward the cavern bridge but was not thrown high enough and thudded against the wall and again the floor.
+- Aronious and Yin Shen decide to just climb up instead.
+- Hobbins runs off to explore the other end of the bridge while they were fooling around trying to get up.
+- She found an old campsite. Abandoned bedroll, campfire remnants, scraps of paper with scribbles.
+- Hobbins rejoins the party at the other end of the bridge and relays the information gathered.
+- The party decides to leave the cave and travel through this new cavern following the sound of the gusting winder winds
+- They continue onwards and find a room with floor to ceiling pillars of cavern stone. Along the walls are cave paintings displaying uncommonly large animals surrounded by smaller animals looking towards the large. The large creatures have a blue aura painted around them and bands on their necks.
+- Hobbins wanted to learn more, but could find no clues. The party decided to continue on and find the exit.
+- Once outside they are reminded of the final cave entrance they never investigated.
+- Hobbins scurries across a narrow ledge easily. Waiting for Aronious and Yin Shen
+- Aronious grins, throws his hand out and a magical thorned vine shoots out to wrap on a catch above them. Before she can object, he grabs Yin Shen and swings for the other side where Hobbins watched.
+- Yin Shen's feet easily find purchase, but Aronious falls off balance by the icy surface. Yin Shen reacting in a flash, grabs him by his shirt and pulls him to safety.
+- The party hears growling and whimpering in the cave.
+- Hobbins sneaks to try and catch a glimpse and finds a monstrously large Dire Wolf. Easily twice the size of the largest normal Dire Wolf. It is heavily wounded and trying to tend to them with licking. Tears in sides and flanks from what must have been a devastating fight.
+- After discussing this with the party, they all decide that Hobbins should attempt to disguise herself as a direwolf puppy and to attempt to communicate.
+- Hobbins casts two spells to transform and comprehend and approaches the large wolf.
+- Hobbins unfortunately cannot fully communicate, and only is able to get impressions, feelings, emotions. She informs him they are safe, they want to help. The wolf allows the party to enter.
+- Hobbins uses her medicine kit to tend to wounds wrapping, knitting, and applying balm to flesh.
+- Aronious uses Speak with Animals to be able to understand and truly communicate with this Dire Wolf.
+- Introduces himself as Lupine. An awakened Dire Wolf turned godling. He was badly wounded after a confrontation with Ursa the polar bear, another awakened godling. He says she is no longer content with the size of her domain and the power she has. She attacked him in hopes of being able to usurp and consume his domain.
+- The party offers to try and fight Ursa, but Lupine gets a wild look in his eyes as he urges them to never seek her out alone.
+- The party asks for a way to help. Lupine softens at this, and requests the party investigate and eliminate the deranged godling Skree. He is a minor godling with a domain that is bound exclusively by a single cave, southeast of Easthaven. Skree is an awakened Bat. He explains that the dangers of a violent and chaotic godling (meaning Skree) outweigh "an ambitious cub" (meaning Ursa).
+- Before the party leaves Lupine, Hobbins walks back to him in her natural ferret form. She asks him kindly if he would be willing to join them once he is healed. To which he responds that if they prove themselves, they will gain an ally.
+- The Party ends leaving to Easthaven in with winter cold.

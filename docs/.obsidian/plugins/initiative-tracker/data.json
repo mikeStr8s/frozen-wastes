@@ -4,27 +4,31 @@
       "note": "Hobbins",
       "path": "world/characters/Hobbins.md",
       "name": "Hobbins",
-      "level": 2,
-      "hp": 9,
-      "ac": "13",
+      "level": 3,
+      "hp": 11,
+      "ac": "10",
       "modifier": 2,
       "player": true
     },
     {
       "name": "Aronious",
-      "level": 2,
-      "hp": 9,
-      "ac": "13",
+      "level": 3,
+      "hp": 17,
+      "ac": 13,
       "modifier": 2,
-      "player": true
+      "player": true,
+      "note": "Aronious",
+      "path": "world/characters/Aronious.md"
     },
     {
       "name": "Yin Shen",
-      "level": 2,
-      "hp": 9,
-      "ac": "13",
+      "level": 3,
+      "hp": 21,
+      "ac": "14",
       "modifier": 2,
-      "player": true
+      "player": true,
+      "note": "Yin Shen",
+      "path": "world/characters/Yin Shen.md"
     }
   ],
   "parties": [
@@ -140,14 +144,14 @@
         "initiative": 19,
         "static": false,
         "modifier": 2,
-        "hp": 9,
-        "currentMaxHP": 9,
-        "ac": "13",
-        "currentAC": "13",
+        "hp": 11,
+        "currentMaxHP": 11,
+        "ac": "10",
+        "currentAC": "10",
         "note": "Hobbins",
         "path": "world/characters/Hobbins.md",
-        "id": "ID_589b789a1bbb",
-        "currentHP": 9,
+        "id": "ID_db498beb2bb9",
+        "currentHP": 11,
         "tempHP": 0,
         "status": [],
         "enabled": true,
@@ -162,12 +166,12 @@
         "initiative": 5,
         "static": false,
         "modifier": 2,
-        "hp": 9,
-        "currentMaxHP": 9,
+        "hp": 17,
+        "currentMaxHP": 17,
         "ac": "13",
         "currentAC": "13",
-        "id": "ID_8a7bab3aca19",
-        "currentHP": 9,
+        "id": "ID_3a88ab98e9f8",
+        "currentHP": 17,
         "tempHP": 0,
         "status": [],
         "enabled": true,
@@ -182,12 +186,12 @@
         "initiative": 8,
         "static": false,
         "modifier": 2,
-        "hp": 9,
-        "currentMaxHP": 15,
-        "ac": "13",
-        "currentAC": "13",
-        "id": "ID_4b8bda9928f8",
-        "currentHP": 6,
+        "hp": 21,
+        "currentMaxHP": 21,
+        "ac": "14",
+        "currentAC": "14",
+        "id": "ID_190a8b6a7abb",
+        "currentHP": 3,
         "tempHP": 0,
         "status": [],
         "enabled": true,
@@ -230,9 +234,148 @@
   "rollHP": false,
   "descending": true,
   "builder": {
-    "showParty": true,
-    "showXP": true,
-    "sidebarIcon": true
+    "showParty": false,
+    "showXP": false,
+    "sidebarIcon": true,
+    "headers": [
+      {
+        "text": "CR",
+        "field": "cr",
+        "type": 1
+      },
+      {
+        "text": "Type",
+        "field": "type",
+        "type": 0
+      },
+      {
+        "text": "Size",
+        "field": "size",
+        "type": 0
+      },
+      {
+        "text": "Alignment",
+        "field": "alignment",
+        "type": 0
+      }
+    ],
+    "filters": {
+      "filters": [
+        {
+          "type": 0,
+          "text": "CR",
+          "fields": [
+            "cr"
+          ],
+          "options": [
+            0,
+            30
+          ],
+          "id": "ID_DEFAULT_CR_FILTER",
+          "derive": true
+        },
+        {
+          "type": 2,
+          "text": "Size",
+          "fields": [
+            "size"
+          ],
+          "options": [
+            "large",
+            "medium",
+            "huge",
+            "gargantuan",
+            "small",
+            "tiny"
+          ],
+          "id": "ID_DEFAULT_SIZE_FILTER",
+          "derive": true
+        },
+        {
+          "type": 2,
+          "text": "Type",
+          "fields": [
+            "type"
+          ],
+          "options": [
+            "aberration",
+            "humanoid",
+            "dragon",
+            "undead",
+            "elemental",
+            "monstrosity",
+            "construct",
+            "beast",
+            "plant",
+            "fiend",
+            "ooze",
+            "fey",
+            "giant",
+            "celestial",
+            "swarm of tiny beasts"
+          ],
+          "id": "ID_DEFAULT_TYPE_FILTER",
+          "derive": true
+        },
+        {
+          "type": 2,
+          "text": "Alignment",
+          "fields": [
+            "alignment"
+          ],
+          "options": [
+            "lawful evil",
+            "any alignment",
+            "chaotic evil",
+            "chaotic good",
+            "lawful good",
+            "neutral",
+            "lawful neutral",
+            "unaligned",
+            "any non-good alignment",
+            "any non-lawful alignment",
+            "neutral evil",
+            "any chaotic alignment",
+            "neutral good",
+            "chaotic neutral",
+            "neutral good (50%) or neutral evil (50%)",
+            "any evil alignment"
+          ],
+          "id": "ID_DEFAULT_ALIGNMENT_FILTER",
+          "derive": true
+        }
+      ],
+      "layout": [
+        {
+          "nested": [
+            {
+              "id": "ID_DEFAULT_CR_FILTER",
+              "type": "filter"
+            }
+          ],
+          "id": "ID_DEFAULT_NESTED_CR",
+          "type": "nested"
+        },
+        {
+          "id": "ID_DEFAULT_NESTED_LAYOUT",
+          "type": "nested",
+          "nested": [
+            {
+              "id": "ID_DEFAULT_SIZE_FILTER",
+              "type": "filter"
+            },
+            {
+              "id": "ID_DEFAULT_TYPE_FILTER",
+              "type": "filter"
+            },
+            {
+              "id": "ID_DEFAULT_ALIGNMENT_FILTER",
+              "type": "filter"
+            }
+          ]
+        }
+      ]
+    }
   },
   "rollPlayerInitiatives": 0
 }

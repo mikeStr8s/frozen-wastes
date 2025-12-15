@@ -1,7 +1,7 @@
 ---
-ac: "13"
-hp: 9
-level: 2
+ac: "10"
+hp: 11
+level: 3
 modifier: 2
 ---
 # Hobbins

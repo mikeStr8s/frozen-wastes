@@ -1,3 +1,9 @@
+---
+ac: "13"
+hp: 17
+level: 3
+modifier: 2
+---
 # Aronious III
 
 Once a paladin serving faithfully to the pantheon above. Now having discarded his vows he has taken to the frozen wilderness to find and aid Yin Shen.
