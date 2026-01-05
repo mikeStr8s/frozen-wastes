@@ -1,3 +1,5 @@
+# Easthaven
+
 ![](../../img/east-haven.png)
 
 ## In a Nutshell

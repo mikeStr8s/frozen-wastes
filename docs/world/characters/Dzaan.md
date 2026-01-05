@@ -1,3 +1,5 @@
+# Dzaan
+
 A red mage of Thay. He was put to death by burning at the stake as an offering to Auril. His crimes were that of murdering the folk of Ten Towns according to [Captain Imdra Arlaggath](Captain%20Imdra%20Arlaggath.md).
 
 ## Party Interactions

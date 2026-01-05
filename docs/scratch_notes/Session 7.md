@@ -1,0 +1,41 @@
+- The party starts off heading to "The White Lady Inn" to rest after their adventure into the caves of Lac Dinneshere.
+- The inn keeper is kind to them and offers a discount for their stay. 1s instead of the normal 5s for recurring stays
+- While Yin Shen gets rest and recovers in their room, Hobbins recruits Aronious to help him attune to the Frozen Hag's Eye.
+- Without explanation Hobbins directs Aronious back to the frozen lake where he is commanded to cut a hole in the ice. It is backbreaking work but Aronious makes it through the 4ft of ice.
+- Without a word Hobbins launches herself into the hole holding the eye in her outstretched paw. Aronious catches her right before landing in the frigid water.
+- Just an inch away from the water Hobbins tells Aronious not to move a muscle for 1 hour, much to his dismay. Hobbins squeaks in icy pain as her paws plunge the eye into the frozen lake.
+- For 1 hour she keeps her paws under the water. Her small digits blue with cold and body shaking with exhaustion. The whole time the eye turned this way and that, as if trying to look and find something.
+- Finally the eye ceased movement and the chill grey blue cloudiness returned to the cornea. Hobbins gained understanding, attunement. She pulled her paws from  the water in victory.
+- Aronious took a few minutes to stretch out his sore muscles. He was bent fully over the entire time and his back and arms were screaming with protest at every movement.
+- The two of them return to the inn and rest up with Yin Shen.
+- Once rested the party agrees that the best course of action is to go and take care of the Corrupt Godling Bat, Skree.
+- Yin Shen begins building a plan in her head. Without a word to the party she sets off into town searching for a music store. Shrugging to each other, Hobbins and Aronious follow along.
+- Yin Shen walks for a short time and heads down an allyway where she sees a wood and string instrument store.
+- Strings and sundries - string instrument store - finkle shortfuse
+- Yin Shen wants cymbals, the gnome store clerk appologizes but says his cousin in the shop down the road will have them. Hands Yin Shen a "coupon" for "ONE DISCOWNT". Mispelled and written on a scrap of old newspaper.
+- Drums emporium - drums and percussion - hansel wiresnap
+- Party goes to the drums store and upon entering hear a bit of commotion from the back room. Out walks an identical gnome clerk but instead of a red shirt, they have a blue shirt on.
+- gnome owner is the same for both stores, but says they are cousins
+- party goes between the shops trying to catch the gnome in the lie that they are different people
+- aronious ends up using wolf to carry gnome against will from one shop to the other to prove they are the same
+- gnome divulges whole history.
+	- He opened the string instrument shop but business was bad.
+	- He thought competition would drive business but no other music stores around.
+	- Opened another music store to sell drums and percussion.
+	- Two stores do not compete since they don't sell the same merchandise.
+	- Now he has two failing businesses and has a hard time running them alone.
+	- He pretends to be two people in hopes the "family business" will pull more sales since the competition aspect was a flop.
+- hobbins gives him business advice. Hire another clerk to run one of the shops, merge inventory so that both shops offer the same stuff and actually have competition. Find a unique or novel way to build or make a product that is better than anyone else. Literally anything other than what he is doing at this moment.
+- The gnome is super gracious and thanks everyone for helping him break out of this wacky routine. He promises next time they visit, they won't even recognize these stores.
+- party goes out to wilderness to find awakened bat
+- party gets about half way to mountains and aronious notices prints in the snow
+- Aronious is able to identify them as owlbear prints, recent, close by
+- Aronious goes to investigate owlbear, finds it scavenging on a dead elk in a small forested area nearby.
+- When investigating Aronious snaps a twig, the owlbear scans the treeline and almost sees him, he is able to throw a rock to distract the owlbear and so he can escape back the way he came.
+- party continues to trek through the frozen wilderness with Aronious able to guide party to the cave.
+- Upon entering the cave they hear chittering and see 3 large spiders. Yin Shen grabs her heart as she is shaken by her arachnophobia. A few deep breaths later and it passes. Without hesitation her hands snap down to her sides and ignite with magical fire. Hurling bolts at the spiders with little regard for the cave surrounding.
+- With that the party begins to let arrows and spells fly. Hobbins hurling chromatic orbs and obliterating the carapace of one unsuspecting spider.
+- Aronious directing his Dire wolf companion to savage a spider while he peppers it with arrows.
+- Yin Shen now fully engrossed in the fight throws her hand into her satchel. She removes a small furry ball and tosses it at the spider furthest back. A giant badger emerges magically from the small ball of fluff. With all the savagery and ferociousness known to a badger it swipes and bites at the spider before falling to  the venomous bite.
+- The spiders now fallen and the cave now quiet, the party breaths a sigh of relief.
+- They wait now; on the precipice of the winter storm raging outside the cave and the dank, gloomy, and off-putting aura of the cave they now dwell within.

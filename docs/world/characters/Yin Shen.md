@@ -19,7 +19,7 @@ A former celestial trickster spirit, cast down and held in the frozen north of I
   "alignment": "Chaotic Good",
   "level": 3,
   "ac": 14,
-  "hp": 15,
+  "hp": 21,
   "hit_dice": "1d8",
   "speed": "30",
   "stats": [7, 16, 12, 17, 12, 12],
@@ -38,7 +38,11 @@ A former celestial trickster spirit, cast down and held in the frozen north of I
     "spell_list": [
         {
             "spell_level": 0,
-            "spell_list": "fire bolt"
+            "spell_list": "fire bolt, mage hand, minor illusion, toll the dead"
+        },
+        {
+            "spell_level": 1,
+            "spell_list": "witch bolt"
         }
   ]
   },

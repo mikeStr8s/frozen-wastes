@@ -12,7 +12,7 @@ Ah! You’ve found it — my humble compendium of curious exploits, obscure crea
 
 What you hold in your hands is no mere storybook, dear reader. It is an _account_. A scholarly work! (Well, mostly scholarly.)
 
-In these pages I endeavor to record the true and terrible _Tale of the Frozen Three_ — a fellowship bound not by destiny (though it seems to have had an opinion on the matter), but by circumstance, courage, and a most inconvenient frost. You shall meet **Aronious**, the ranger who turned his back on the gods to chase redemption in the snow; **Bone**, a clever and wily kitsune rogue whose smile hides more than her daggers; and **Hobbins**, a wizard whose knack for mischief rivals his arcane prowess — heroes, villains, beasts, and beings best left unnamed before dusk.
+In these pages I endeavor to record the true and terrible _Tale of the Frozen Three_ — a fellowship bound not by destiny (though it seems to have had an opinion on the matter), but by circumstance, courage, and a most inconvenient frost. You shall meet **Aronious**, the ranger who turned his back on the gods to chase redemption in the snow; **Yin Shen**, a clever and wily kitsune rogue whose smile hides more than her daggers; and **Hobbins**, a wizard whose knack for mischief rivals his arcane prowess — heroes, villains, beasts, and beings best left unnamed before dusk.
 
 Expect here a union of two disciplines:
 
@@ -31,21 +31,23 @@ _Sylvanian Institute of Arcane, Department of Applied Curiosities_
 <hr/>
 
 ## Recently Created
-| Page                                                                                    | Creation Date               |
-| --------------------------------------------------------------------------------------- | --------------------------- |
-| [Lupine](world/characters/Lupine.md)                                                    | 3:45 PM - December 15, 2025 |
-| [Knights of the Black Sword](world/organizations/Knights%20of%20the%20Black%20Sword.md) | 9:15 AM - November 03, 2025 |
-| [Hethyl Arkorran](world/characters/Hethyl%20Arkorran.md)                                | 9:06 AM - November 03, 2025 |
-| [Henry Davis](world/characters/Henry%20Davis.md)                                        | 9:01 AM - November 03, 2025 |
-| [The Caer](world/atlas/The%20Caer.md)                                                   | 8:59 AM - November 03, 2025 |
+
+| Page                                                                      | Creation Date               |
+| ------------------------------------------------------------------------- | --------------------------- |
+| [Music Shop Conspiracy](world/organizations/Music%20Shop%20Conspiracy.md) | 10:14 AM - January 05, 2026 |
+| [Hansel Wiresnap](world/characters/Hansel%20Wiresnap.md)                  | 10:11 AM - January 05, 2026 |
+| [Finkle Shortfuse](world/characters/Finkle%20Shortfuse.md)                | 10:08 AM - January 05, 2026 |
+| [Skree](world/characters/Skree.md)                                        | 10:04 AM - January 05, 2026 |
+| [Sea Hag's Frozen Eye](world/artifacts/Sea%20Hag's%20Frozen%20Eye.md)     | 10:02 AM - January 05, 2026 |
 
 <hr/>
 
 ## Recently Updated
-| Page                                        | Modified Date               |
-| ------------------------------------------- | --------------------------- |
-| [Lupine](world/characters/Lupine.md)        | 3:50 PM - December 15, 2025 |
-| [Hobbins](world/characters/Hobbins.md)      | 5:39 PM - December 14, 2025 |
-| [Yin Shen](world/characters/Yin%20Shen.md)  | 5:38 PM - December 14, 2025 |
-| [Aronious](world/characters/Aronious.md)    | 5:37 PM - December 14, 2025 |
-| [Caer-Dineval](world/atlas/Caer-Dineval.md) | 9:24 AM - November 03, 2025 |
+
+| Page                                                                  | Modified Date               |
+| --------------------------------------------------------------------- | --------------------------- |
+| [Hobbins](world/characters/Hobbins.md)                                | 11:28 AM - January 05, 2026 |
+| [Yin Shen](world/characters/Yin%20Shen.md)                            | 11:24 AM - January 05, 2026 |
+| [Aronious](world/characters/Aronious.md)                              | 11:22 AM - January 05, 2026 |
+| [Caer-Dineval](world/atlas/Caer-Dineval.md)                           | 10:50 AM - January 05, 2026 |
+| [Sea Hag's Frozen Eye](world/artifacts/Sea%20Hag's%20Frozen%20Eye.md) | 10:48 AM - January 05, 2026 |

@@ -1,4 +1,6 @@
-![](caer-dineval.webp)
+# Caer-Dineval
+
+![Caer-Dineval](../../img/caer-dineval.webp)
 
 ## In a Nutshell
 
@@ -12,7 +14,7 @@
 
 A crenellated stone watchtower (three merlons, two crenellations) on a dark blue field, with a horizontal red fish facing right beneath the tower, representing the town's vigilance, harbor, and proud fishing tradition.
 
-![Easthaven Heraldry](shield-caer-dineval.webp){: .m-image }
+![Easthaven Heraldry](../../img/shield-caer-dineval.webp){: .m-image }
 
 ## Connections
 

@@ -1,3 +1,5 @@
+# The Caer
+
 _Castle residence of the town speaker_
 
-> A sturdy, stone castle devoid of warmth and ostentation squats atop the cliffs overlooking the town and the frozen harbor. Warding the castle entrance are thick, battle-hardened wooden doors. Four cylindrical guard towers have wind-worn flags bearing the town's heraldry fluttering above their tiled, conical roofs. These towers are connected by icy battlements and parapets. Atop the castle walls and within the guard towers, torches flicker.
+A sturdy, stone castle devoid of warmth and ostentation squats atop the cliffs overlooking the town and the frozen harbor. Warding the castle entrance are thick, battle-hardened wooden doors. Four cylindrical guard towers have wind-worn flags bearing the town's heraldry fluttering above their tiled, conical roofs. These towers are connected by icy battlements and parapets. Atop the castle walls and within the guard towers, torches flicker.

@@ -17,9 +17,9 @@ A Ferret Wizard who called the frozen north home. Constantly battling against th
   "type": "Beast",
   "subtype": "Awakened Ferret",
   "alignment": "Chaotic Good",
-  "level": 2,
+  "level": 3,
   "ac": 10,
-  "hp": 8,
+  "hp": 11,
   "hit_dice": "1d6",
   "speed": "30",
   "stats": [9, 11, 9, 17, 16, 11],
@@ -38,7 +38,11 @@ A Ferret Wizard who called the frozen north home. Constantly battling against th
         },
         {
             "spell_level": 1,
-            "spell_list": "charm person, comprehend languages, disguise self, ice knife, magic missile, thunderwave"
+            "spell_list": "charm person, chromatic orb, comprehend languages, disguise self, ice knife, magic missile, thunderwave"
+        },
+        {
+            "spell_level": 2,
+            "spell_list": "aganazzar's scorcher"
         }
   ]
   },
@@ -54,6 +58,10 @@ A Ferret Wizard who called the frozen north home. Constantly battling against th
     {
       "name": "Ritual Adept",
       "description": "You can cast any spell as a Ritual if that spell has the Ritual tag and the spell is in your spellbook. You needn’t have the spell prepared, but you must read from the book to cast a spell in this way."
+    },
+    {
+      "name": "Potent Cantrip",
+      "description": "When you cast a cantrip at a creature and you miss with the attack roll or the target succeeds on the saving throw, the target takes half the damage (if any) but suffers no additional effect."
     }
   ],
   "actions": [

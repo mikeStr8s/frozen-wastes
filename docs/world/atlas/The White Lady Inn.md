@@ -1,3 +1,5 @@
+# The White Lady Inn
+
 _Inn_
 
 This musty old inn is named after a local legend known as the White Lady—a ghost rumored to walk on Lac Dinneshere, haunting the spot where her rich husband drowned. Rinaldo, a self-styled bard kept around to entertain guests, is fond of plucking his fiddle while recounting his tale: that the White Lady's husband was a miser who kept his treasure in a heavy, locked chest that never left his side.
