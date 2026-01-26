@@ -1,0 +1,19 @@
+- As a group the party moved forward into the dark cave after taking care of the spiders.
+- They crept deeper into the darkness, fearful of additional spiders. As they moved further whispering could be heard in the dark.
+- The group found an alcove filled with refuse and hatched spider egg sacks. Yin Shen saw the remnants of armor and pulled hard to extricate. Once freed she was dismayed to see that it was a full breastplate. Something much too cumbersome for her use as a rogue.
+- Aronious took a brief pause to clean the plate well enough for use and strapped it over his leather armor.
+- Aronious wanted to have his direwolf companion move in front of them to scout the darkness.
+- The direwolf was discovered as it walked out into an area with swarms of bats frantically flying around the mad godling Skree.
+- He was in terrible condition. Wounds were visible across his body. Pustules and rot seeping into him. A wrongness about him.
+- With wild rage Skree and the swarms of bats attacked.
+- Yin Shen used the grey bag of tricks and pulled a small furry ball and threw it into the cave with the wolf. A large rat appeared and aided the party in combat.
+- Aronious and his direwolf faught as one. The former from range with druidic magics to aid and the later with tooth and claw, ripping the winged beasts from the air.
+- Hobbins conjured arcane magics within her paws. Hurling thundering orbs through the caves using the sound based attacks she knew would be extra effective against Skree.
+- Yin Shen utilized her stealth to stay out of harms way while taking tactical strikes and thinning the ever present flurry of bats.
+- Skree raged and shook the caves with a sonic pulse. Hobbins and Aronious were hit and Aronious was knocked unconcious. Yin Shen ran behind a near rock wall for cover.
+- With additional rage seeing their friend be thrown bodily to the ground, both hobbins and yin shen doubled down with their assault and brought Skree down.
+- With Skrees death the bats dispersed and fled.
+- Hobbins gathers the collar and charm from Skree's neck.
+- The party continues to feel the terrible wrongness in the area, not necessarily from Skree.
+- Exploring deeper they find a totem. Hobbins takes the totem, covers it to dull its influence and puts it in her bag.
+- With haste, the party leaves the cave for the open air. Glad to be free of the corrupted cavern.
