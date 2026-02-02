@@ -1,3 +1,5 @@
+# Off-putting Effigy
+
 *Wonderous Item, Uncommon*
 
 Puts off an aura of unease that can cloud even the most insightful.

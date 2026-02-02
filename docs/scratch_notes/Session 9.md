@@ -1,0 +1,36 @@
+- party fights through blizzard
+- avalanch happens
+- aronious doesnt see it coming is caught off guard
+- yin shen sees it coming just in time to brace for impact
+- hobbins sees it and uses thunderwave to blast a path into avalanch and disapate its energy
+- it works and floods around them, the party is almost burried by the falling snow but Yin shen saves hobbins from this fate and sends fire for Aronious to use as a wall against the wind and snow
+- party goes back to easthaven. By the time the party has arrived it is dusk the next day. They see two glowing warm dots in the distance, the guard post.
+- party goes to strings and sundries to visit the gnome to see how shop is doing.
+- Polard Hinscrop (paul) is reavealed to be the real name of the gnome owner, hes embarrased by it as it feels distinctly not gnomish
+- The party leaves to go to the town hall.
+- Streets are dark and quiet. The party goes to the entrance of the town hall and walks in. The entryway is dark, no lanturns are lit, its the three of them alone.
+- They move as a group continuing further into the town hall. The move through the clerks offices and then reach the promenade area. A large room with stairs leading up to the second floor. In the center is a ships figurehead. Wooden and carved into the shape of a demon. In the chest of the sculpture there is an empty hole.
+- Party investigates and sees that there is black crystaline shards around the hole and some splinters on the ground near the statue. There was clearly something that used to be in that hole that was broken out.
+- The party continues to look around the town hall, still with no one around. Hobbins grows antsy at this and checks the main entrance. She sees that the town hall is actually closed right now and the party is accidentally trespassing. But why are the doors unlocked and askew?
+- After regrouping with the party they all agree that something fishy is happening.
+- They decide to go to the lower dungeon level of the town hall. Hobbins leaps onto the thick oaken door and uses her dagger to pry the lock off the door. With all her might she gets the knife between the gears and breaks her way in.
+- The others catch up to Hobbins once they are finished investigating a few other mundane rooms in the town hall. Nothing of import or note.
+- In the dungeon area Hobbins decides to clear the area off to the east. She makes her way to the door at the end of the hallway.
+- Inside she is shocked to find three guards bound, gagged, and unconsous in the corner. The wall at the far end of the room is caved in and a tunnel leads out to the cold streets.
+- Hobbins and the party stabalize the guard and get him talking. He is first suspicious that the party did all this, but they let him know this is a "wrong place right time" situation for them.
+- The party and guards go upstairs into the large statue room and at the sight of the damaged ship figurehead the guard exclaims that the "Chardalyn" crystal had been taken. There used to be a large black crystal jutting from the old ship figurehead.
+- Yin Shen decides to take a deeper look at the missing crystal and sees some scattered remains headed into the corner of the room.
+- She follows this trail before bumping into an invisible figure. In an instant there is now a Duergar in front of her shoving her over and running for the door. Grey, dark, bundled in furs and ornage armor, and with a clinking sack over his shoulder.
+- Hobbins quick as ever tosses out magic missile intending on knocking him down.
+- Yin shen runs in to close the gap but is ineffective at stopping
+- Aronious lets loose a thorn whip but strikes the air with a crack
+- The Duergar continues to run for the exit
+- Hobbins lets another magic missile fly hitting the Duergar again with him grunting in pain.
+- Yin Shen tosses another ball from her grey bag of tricks and a badger materializes after bouncing between the shoulders of the Duergar.
+- Aronious trys another thorn whip but again strikes the air near him
+- Hobbins growning frustrated hurst an acidic chromatic orb singing the clothing of the Duergar and staggering him
+- Yin Shen throws herself bodily at the Dwarf and wraps her limbs around his, grappling to the ground
+- Hobbins runs over and before putting too much thought into it, rams her dagger through the hand of the Duergar to lock him to the floor. The party then binds him with rope and brings him in font of the guard to interrogate.
+- The party learns that the Duergar are stockpiling "Chardalyn". Yin Shen remembers the prophecy from Lady Hethyl, soothsayer for the Knights of the Black Sword, and asks about a mechanical dragon.
+- Without directly confirming, his eyes dart side to side and he starts to sweat "You'll get no more from me" as he stopped speaking
+- The party leaves him with the guards to finish the interrogation and get to the bottom of this issue.
