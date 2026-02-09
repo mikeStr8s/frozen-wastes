@@ -113,14 +113,14 @@ function getCharacterStats(json) {
   /* prettier-ignore */
   const statisticsGroup1List = [
         statistic("STR", stats[0], getMod(stats[0], "", [], 0), getMod(stats[0], "STR", saves, proficiency)),
-        statistic("DEX", stats[0], getMod(stats[0], "", [], 0), getMod(stats[0], "DEX", saves, proficiency)),
-        statistic("CON", stats[0], getMod(stats[0], "", [], 0), getMod(stats[0], "CON", saves, proficiency)),
+        statistic("DEX", stats[1], getMod(stats[1], "", [], 0), getMod(stats[1], "DEX", saves, proficiency)),
+        statistic("CON", stats[2], getMod(stats[2], "", [], 0), getMod(stats[2], "CON", saves, proficiency)),
     ];
   /* prettier-ignore */
   const statisticsGroup2List = [
-        statistic("INT", stats[0], getMod(stats[0], "", [], 0), getMod(stats[0], "INT", saves, proficiency)),
-        statistic("WIS", stats[0], getMod(stats[0], "", [], 0), getMod(stats[0], "WIS", saves, proficiency)),
-        statistic("CHA", stats[0], getMod(stats[0], "", [], 0), getMod(stats[0], "CHA", saves, proficiency)),
+        statistic("INT", stats[3], getMod(stats[3], "", [], 0), getMod(stats[3], "INT", saves, proficiency)),
+        statistic("WIS", stats[4], getMod(stats[4], "", [], 0), getMod(stats[4], "WIS", saves, proficiency)),
+        statistic("CHA", stats[5], getMod(stats[5], "", [], 0), getMod(stats[5], "CHA", saves, proficiency)),
     ];
 
   /* prettier-ignore */
@@ -139,22 +139,22 @@ function getCharacterSkills(json) {
     return `<li><strong>${title}</strong> ${value}</li>`;
   };
 
-  const parseSkillScores = () => {
+  const parseSkillScores = (s, e, st, p) => {
     let skillStringList = [];
 
-    for (let skill of skillsaves) {
+    for (let skill of s) {
       let statName = skillStatMap.get(skill);
       let statIdx = statistics.indexOf(statName);
-      let stat = stats[statIdx];
-      let value = calculateMod(stat) + proficiency;
+      let stat = st[statIdx];
+      let value = calculateMod(stat) + p;
       skillStringList.push(`${skill} ${value >= 0 ? `+${value}` : value}`);
     }
 
-    for (let skill of expertise) {
+    for (let skill of e) {
       let statName = skillStatMap.get(skill);
       let statIdx = statistics.indexOf(statName);
-      let stat = stats[statIdx];
-      let value = calculateMod(stat) + proficiency + proficiency;
+      let stat = st[statIdx];
+      let value = calculateMod(stat) + p + p;
       skillStringList.push(`${skill} ${value >= 0 ? `+${value}` : value}`);
     }
 
