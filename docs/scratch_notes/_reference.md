@@ -7,9 +7,6 @@
 ## Hooks
 
 - Sephek dead, bone has knife. Hiln Trollbane giving 100gp for this
-- Lantern from Dzaan (he's dead)
-- missing fisherman, Imdra for reward.
-- White lady saying "Caer Dinival". This is just to get them out there
 - Aronious heard blackiron blades missing shipment in Bryn Shander
 
 ## future

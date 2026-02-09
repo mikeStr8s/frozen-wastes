@@ -1,0 +1,31 @@
+- party heads to the inn and gets some well needed rest
+- Yin Shen asks about leader of all of ten towns, innkeeper says that Danneth Waylen is the speaker of Easthaven
+- Hobbins asks halfling woman attendant where to get a drink
+- She remarks its very early, but "The Wet Trout" a more seedy bar may be serving at this hour.
+- Imdra meets party at the at the town hall and she asks if they have any knowledge of why they would be there to steal
+- Yin Shen tells them all about the prophecy and the dragon. Imdra finds it all hard to believe and asks for proof before bringing it in front of the speaker.
+- Yin Shen goes to basement to investigate cell. The dust is disturbed where the dwarf was thrown into the cell. Clear signs of struggle to stand while bound and then footprints that get progressively smaller until leading out the door. From there the signs disappear.
+- Party goes to Lupine to talk
+- They discuss all that transpired with Skree and Yin Shen asked if Lupine would accompany them as a companion. Lupine is unable to as he is needed to uphold his domain, but he lets the party know that he is an ally should there be a threat too large for them.
+- As a boon for service Lupine stands large, begins to glow a subtle blue. Tells the party to hold their weapons aloft and exhales frozen air. The fog coalesed on their weapons forming small ice crystals then disappearing. They have been given a blessing by Lupine.
+- The party heads back to town and goes to the music shop. When they get there they see a sign on the door "undr neu menagament". When they walk in they greet the gnome and ask about the sign. He explains that he "sold" it to his "brother" with lots of winks. This way the shops are a single business and no longer needing the two gnome disguise. He says his "brother" is leaving.
+- Aronious still unaware of the gnomes duplicitus nature rushes to say goodbye to the brother in the other shop.
+- Once Aronious arrives to the other shop he hears a commotion and the gnome emerges from the back room with a bead of sweat and a change of shirt.
+- Aronious gets the details of the gnomes departure, leaving to go home in the south, tired of the cold, etc. Aronious is so saddened by the departure of this "brother" that he pleads with him to join the party on their adventures. After a long and silly discussion between Aronious and "Finkle Shortfuse" it was agreed that by the next day he would be ready to set out with the party.
+- After the party finished catching up about Aronious' visit to the other music shop and their new companion, Hobbins lets out a sigh. She was growing bored traveling around and doing nothing. Not even a drop of Firebrandy to keep her busy. Without hesitation once she saw her chance she lept from Aronious' shoulder squeaking with joy. "Sorry guys! I need a drink! I am off to The Wet Trout!"
+- chase happens
+	- hobbins breaks away to run to wet trout for a drink saying "last one there is a rotten egg"
+	- aronious trips yinshen and is determined to not be a rotten egg
+	- yin shen gets up and chases back
+	- aronious uses jump spell to vault onto rooftops and then thorn whip to swing between buildings
+	- hobbins uses thunderwave to propell her forward flying through the air
+	- Yin shen uses magic hand to fly through the air as she transformed into a small fox light enough to be carried
+	- aronious continues to jump and swing
+	- hobbins uses chromatic orb blastingherself in her chest to throw herself across town. She is too powerful for her own good and drops to 0 health and falls into snowbank
+	- yinshen flys to the door of the wet trout and aronious uses thorn whip to pull them away
+	- as aronious goes to grab doorknob and opens the door a crack hobbins sneaks through the crack and straight to the bar. Aronious darts down to grab her and misses, Hobbins grabs a shot glass from the bar and downs the contents wihotut looking or thinking. Determined to get the drink in her asap
+
+
+- (hidden from party) Duergar escapes during the night by shrinking and going invisible again. They don't steal anything though.
+- (party gets +1 hit and +1 damage buff from wolf - need to add custom dndbeyond and hero diary)
+- Aronious recruited the gnome shopkeep as a sidekick, either a bard or a group tank.

@@ -8,10 +8,28 @@ Long suspected by the residents of [Easthaven](../atlas/Easthaven.md) to be twin
 
 As it happens, they didn't skip over Strings and Sundries. After meeting Finkle Shortfuse he directed them to the other shop. Once there the Frozen Three quickly noticed the similarities and could see through the hasty clothes swap. They were able to corner Finkle and he divulged everything. He had opened **Strings and Sundries** first, but business had been poor. Believing competition would drive customers, he opened a second shop — only to realize that selling different merchandise meant no competition at all. Now he had two failing businesses and no time to run either properly. The charade of being "cousins" was a desperate attempt to make the shops feel like a thriving family enterprise.
 
+## Developments
+
+Below are the updates based on party interactions.
+
+## Real Ownership
+
+The party made their way to **Strings and Sundries** to check on the gnome shopkeeper. Inside, they found him busily reorganizing inventory, a look of genuine contentment on his face. When pressed for his real name, he grew sheepish and admitted it: [Polard Hinscrop](../world/characters/Polard%20Hinscrop.md). He was embarrassed by it — the name felt distinctly _un-gnomish_ to his ears.
+
+## New Management
+
+The party returned to Easthaven and made their way to **Strings and Sundries**. A new sign hung on the door: **"UNDR NEU MENAGAMENT"** — misspelled, but unmistakable.
+
+[Polard Hinscrop](../world/characters/Polard%20Hinscrop.md) explained with several conspiratorial winks that he had "sold" the shop to his "brother." This way, both shops could operate as a single business, and he no longer needed the two-gnome charade. He added, still winking, that his "brother" was leaving town.
+
+Aronious asked about the departure. The gnome explained he was leaving for the south — tired of the cold, homesick, eager to return to warmer lands. Aronious was so saddened by this news that he pleaded with "Finkle" to join the party on their adventures instead.
+
+After a long and absurd discussion between Aronious and "Finkle Shortfuse," it was agreed: by the next day, the gnome would be ready to set out with the party.
 ## Known Members
 
 - [Finkle Shortfuse](../characters/Finkle%20Shortfuse.md)
 - [Hansel Wiresnap](../characters/Hansel%20Wiresnap.md)
+- [Polard Hinscrop](../characters/Polard%20Hinscrop.md)
 - [Aronious](../characters/Aronious.md)
 - [Yin Shen](../characters/Yin%20Shen.md)
 - [Hobbins](../characters/Hobbins.md)
