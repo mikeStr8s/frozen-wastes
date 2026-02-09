@@ -14,13 +14,13 @@ Below are the updates based on party interactions.
 
 ## Real Ownership
 
-The party made their way to **Strings and Sundries** to check on the gnome shopkeeper. Inside, they found him busily reorganizing inventory, a look of genuine contentment on his face. When pressed for his real name, he grew sheepish and admitted it: [Polard Hinscrop](../world/characters/Polard%20Hinscrop.md). He was embarrassed by it — the name felt distinctly _un-gnomish_ to his ears.
+The party made their way to **Strings and Sundries** to check on the gnome shopkeeper. Inside, they found him busily reorganizing inventory, a look of genuine contentment on his face. When pressed for his real name, he grew sheepish and admitted it: [Polard Hinscrop](../characters/Polard%20Hinscrop.md). He was embarrassed by it — the name felt distinctly _un-gnomish_ to his ears.
 
 ## New Management
 
 The party returned to Easthaven and made their way to **Strings and Sundries**. A new sign hung on the door: **"UNDR NEU MENAGAMENT"** — misspelled, but unmistakable.
 
-[Polard Hinscrop](../world/characters/Polard%20Hinscrop.md) explained with several conspiratorial winks that he had "sold" the shop to his "brother." This way, both shops could operate as a single business, and he no longer needed the two-gnome charade. He added, still winking, that his "brother" was leaving town.
+[Polard Hinscrop](../characters/Polard%20Hinscrop.md) explained with several conspiratorial winks that he had "sold" the shop to his "brother." This way, both shops could operate as a single business, and he no longer needed the two-gnome charade. He added, still winking, that his "brother" was leaving town.
 
 Aronious asked about the departure. The gnome explained he was leaving for the south — tired of the cold, homesick, eager to return to warmer lands. Aronious was so saddened by this news that he pleaded with "Finkle" to join the party on their adventures instead.
 
