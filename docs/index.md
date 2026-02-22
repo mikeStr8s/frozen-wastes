@@ -31,23 +31,21 @@ _Sylvanian Institute of Arcane, Department of Applied Curiosities_
 <hr/>
 
 ## Recently Created
-
-| Page                                                          | Creation Date               |
-| ------------------------------------------------------------- | --------------------------- |
-| [Danneth Waylen](world/characters/Danneth%20Waylen.md)        | 9:31 AM - February 09, 2026 |
-| [Duergar](world/creatures/Duergar.md)                         | 9:16 AM - February 02, 2026 |
-| [Polard Hinscrop](world/characters/Polard%20Hinscrop.md)      | 9:10 AM - February 02, 2026 |
-| [Off-putting Effigy](world/artifacts/Off-putting%20Effigy.md) | 2:49 PM - January 26, 2026  |
-| [Skree's Collar](world/artifacts/Skree's%20Collar.md)         | 2:46 PM - January 26, 2026  |
+| Page                                                            | Creation Date               |
+| --------------------------------------------------------------- | --------------------------- |
+| [Ravison](world/characters/Ravison.md)                          | 1:43 PM - February 22, 2026 |
+| [The Northern Light](world/atlas/The%20Northern%20Light.md)     | 1:40 PM - February 22, 2026 |
+| [Frozenfar Expeditions](world/atlas/Frozenfar%20Expeditions.md) | 1:38 PM - February 22, 2026 |
+| [Caer-Konig](world/atlas/Caer-Konig.md)                         | 1:21 PM - February 22, 2026 |
+| [Bremen](world/atlas/Bremen.md)                                 | 1:15 PM - February 22, 2026 |
 
 <hr/>
 
 ## Recently Updated
-
-| Page                                                                      | Modified Date                |
-| ------------------------------------------------------------------------- | ---------------------------- |
-| [Music Shop Conspiracy](world/organizations/Music%20Shop%20Conspiracy.md) | 10:18 AM - February 09, 2026 |
-| [Polard Hinscrop](world/characters/Polard%20Hinscrop.md)                  | 10:16 AM - February 09, 2026 |
-| [Danneth Waylen](world/characters/Danneth%20Waylen.md)                    | 9:33 AM - February 09, 2026  |
-| [Duergar](world/creatures/Duergar.md)                                     | 9:17 AM - February 02, 2026  |
-| [Off-putting Effigy](world/artifacts/Off-putting%20Effigy.md)             | 5:58 PM - February 01, 2026  |
+| Page                                                            | Modified Date               |
+| --------------------------------------------------------------- | --------------------------- |
+| [Maer Dualdon](world/atlas/Maer%20Dualdon.md)                   | 1:47 PM - February 22, 2026 |
+| [Ravison](world/characters/Ravison.md)                          | 1:44 PM - February 22, 2026 |
+| [Cori and Allie](world/characters/Cori%20and%20Allie.md)        | 1:42 PM - February 22, 2026 |
+| [The Northern Light](world/atlas/The%20Northern%20Light.md)     | 1:42 PM - February 22, 2026 |
+| [Frozenfar Expeditions](world/atlas/Frozenfar%20Expeditions.md) | 1:39 PM - February 22, 2026 |

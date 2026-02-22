@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "6f224c5da5a47d2e",
+        "id": "f97ff092e15f0f79",
         "type": "tabs",
         "children": [
           {
-            "id": "7bc5ff34078700a6",
+            "id": "832f293ee7c0767e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "index"
+              "title": "New tab"
             }
           }
         ]
@@ -208,7 +204,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 454.5
+    "width": 454.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -224,34 +221,42 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "7bc5ff34078700a6",
+  "active": "832f293ee7c0767e",
   "lastOpenFiles": [
-    "elements.md",
-    "Recently Created.md",
+    "z_Templates/_town_city_article.md",
+    "Untitled.md",
+    "world/atlas/Bremen.md",
+    "z_Templates/_generic_article.md",
     "Recently Edited.md",
     "index.md",
-    "world/characters/Aronious.md",
-    "world/characters/Polard Hinscrop.md",
-    "world/organizations/Music Shop Conspiracy.md",
-    "story/Session 9.md",
-    "story/Session 10.md",
-    "world/characters/Finkle Shortfuse.md",
+    "Recently Created.md",
+    "story/Session 12.md",
+    "world/atlas/Lac Dinneshere.md",
+    "world/atlas/Maer Dualdon.md",
+    "world/characters/Ravison.md",
+    "world/atlas/Frozenfar Expeditions.md",
+    "world/atlas/The Northern Light.md",
+    "world/characters/Cori and Allie.md",
+    "world/atlas/Caer-Konig.md",
+    "world/characters/Dorbulgruf Shalescar.md",
+    "z_Templates/_update_edit_files.md",
+    "img/shield-caer-konig.webp",
+    "img/Unconfirmed 383673.crdownload",
+    "img/caer-konig.webp",
+    "img/Unconfirmed 465741.crdownload",
+    "img/shield-bremen.webp",
+    "img/Unconfirmed 293862.crdownload",
+    "img/Unconfirmed 262284.crdownload",
+    "img/bremen.webp",
+    "world/atlas/Caer-Dineval.md",
+    "scratch_notes/Session 12.md",
+    "world/characters/Hiln Trollbane.md",
+    "story/Session 11.md",
+    "world/characters/Crannoc Siever.md",
     "world/characters/Danneth Waylen.md",
-    "world/characters/Skree.md",
-    "world/characters/Lupine.md",
-    "world/characters/Hethyl Arkorran.md",
-    "world/characters/Captain Imdra Arlaggath.md",
-    "world/atlas/The Wet Trout.md",
-    "world/characters/Yin Shen.md",
-    "world/atlas/The White Lady Inn.md",
-    "scratch_notes/Session 10.md",
-    "scratch_notes/_reference.md",
-    "world/creatures/Duergar.md",
-    "world/creatures/Chwinga.md",
-    "world/characters/Hobbins.md",
+    "world/characters/Dzaan.md",
     "world/characters/Hansel Wiresnap.md",
-    "world/organizations/Knights of the Black Sword.md",
-    "scratch_notes/Session 9.md",
+    "world/characters/Henry Davis.md",
     "img/caer-dineval.webp",
     "scratch_notes/encounters",
     "img/shield-caer-dineval.webp",
@@ -264,14 +269,6 @@
     "img/east-haven.png",
     "img/bryn shander map.webp",
     "world/artifacts",
-    "world/organizations",
-    "world/creatures",
-    "world/characters",
-    "world/atlas",
-    "img/paper-border-small.png",
-    "img/dark-paper-border-small.png",
-    "img/dark-paper-border.png",
-    "img/paper-border.png",
-    "img/idrotf-cover-1k.png"
+    "img/paper-border-small.png"
   ]
 }

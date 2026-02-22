@@ -1,0 +1,33 @@
+- The party decides to head out to Caer-Konig after finishing up business in Bremen
+- They hire a caravan to take them through the night right away straight there.
+- As they travel Aronious doses while Hobbins rests, not fully asleep, and Yin Shen stays up.
+- The temp drops, the stars disappear, and the world is sucked into total darkness.
+- Streaking across the sky, hardly visible against the black Auril flies casting her magics to keep the Rime continuing reletlessly.
+- Hobbins is stirred by this and with rage casts magic missile at the flying visage. The magic darts falter and fade before reaching the goddesses avatar. She takes no notice.
+- The caravan arrives and the party heads to the closest building to see if hey can figure out where the speaker or town hall is.
+- As they are walking the street a silver dragonborn buried in a snowdrift erupts out, spraying snow everywhere and drunkenly swinging for Yin Shen's wrist "Who goes there? Is it thieves? Have I found those creeping bastards?". She dodges his grabs and they confront him.
+- They ask why he did that and what he was hoping to accomplish.
+- "The town has had some thievery troubles. No one's seen anything, really. Just the other night, the lantern over at the Northern Light was stolen. Cori won't let me hear the end of it because I haven't been able to find those responsible. Not yet, anyway. But I have a knack for this stuff."
+- After informing the party about the thieves, Yin Shen asks if there is an inn around. He offers to bring them there himself and its the same inn that had its lantern stolen. He spends the time regaling his time as an adventurer and how it suits him to be the lead investigator given his experience.
+- The party ask about the town speaker and he spins around informing them that he is the town speaker. That is why he is head investigator.
+- Once at the inn he opens the door for the party and ushers them inside. The moment he opens the door the party hears "Heat up something for Trovus. He's been out 'patrolling' again."
+- He grins sheepishly and takes a seat waiting for a meal.
+- The party meets Cori and Allie, owners of the inn.
+- Allie conspiratorially says that she thinks its Dwarves who are looking for food or money for food. Cori says that is absurd, "who's ever heard of a sneaky dwarf?"
+- This makes Yin Shen bring up how its probably not a dwarf, but maybe a Duergar. Then tells them about the party's encounter with the Duergar thieves in Easthaven.
+- After Yin Shen brings up the footprints in the jail cell that got smaller and smaller before disappearing, Allie goes white and asks the party to come out to the back entrance behind the store room.
+- There in the snow are the same kind of footprints. Leading away from the inn and getting smaller before entering the road and vanishing in the other foot traffic.
+- Yin Shen asks Allie to write down her account and give her name as valid testimony for this conspiracy.
+- While Yin Shen is distracted investigating. Hobbins gets Cori's attention. Asking if she could try "that clear liquid up there" pointing with her small paws and making the largest cutest eyes possible. Cori, unprepared for this type of assault was no match and began pouring a glass.
+- Aronious saw Hobbins out of the corner of his eye and quickly darted over to smack the small glass from her paws. Hobbins reacting quickly  tosses the glass back in an attempt to get any of the liquor into her mouth. Aronious was too quick and slaps it away, Hobbins gets nothing more than a single drop.
+- Cori without words holds out a rag and points at the wet floor with a stern expression. Aronious shrinks under the gaze and begins cleaning his mess.
+- Allie and Cori offer free room and board while they are investigating the missing lantern. They don't have money to offer as a reward, but getting that lantern back not only helps them but also helps repair the identity of the town and the trust they have in Torvus.
+- The party agrees to investigate since they need room and board and since they are in the area anyways to head northeast and investigate the area marked on the map that Yin Shen had gotten the previous session.
+- The party decides to rest for the night and get up early in the morning to begin.
+- Yin Shen and Aronious go out to buy gear for their wilderness adventure. Hobbins decides to stay back at the inn.
+- They go to Frozenfar Expeditions, the best adventuring outfitter in the region according to Torvus.
+- As they leave the inn they are clearly the first ones up for the day. There is a fresh layer of snow on the ground and a single set of footprints that dont go into any building but goes to the windows, near doors, and between buildings. Yin Shen compares them to the prints from the inn and from easthaven and is pretty confident they have tracks for a Duergar.
+- The two of them continue on and see that the track lead out of the northernmost part of the city. They eventually stop in an area that looks to have had a dogsled waiting. Then the footprints stop, but two very large feet are seen leaving tracks away from town with the dogsled tracks going with.
+- Yin Shen decides its still best to go to Frozenfar Expeditions first before continuing their investigation.
+- Yin Shen negotiates renting a dogsled, food, water, and all necessary supplies for roughly 10 days of travel putting down a deposit before leaving.
+- They get training on how to travel by dogsled and then head to the inn to prepare for their wilderness trek.

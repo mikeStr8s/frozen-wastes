@@ -1,4 +1,3 @@
-
 # Henry Davis
 
 Guard stationed at [The Caer](../atlas/The%20Caer.md). Member of The Knights of the Black Sword.
