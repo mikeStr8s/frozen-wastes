@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f97ff092e15f0f79",
+        "id": "9171583fe8f02256",
         "type": "tabs",
         "children": [
           {
-            "id": "832f293ee7c0767e",
+            "id": "f442d053cf842d5d",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -221,8 +221,16 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "832f293ee7c0767e",
+  "active": "f442d053cf842d5d",
   "lastOpenFiles": [
+    "world/characters/Dorbulgruf Shalescar.md",
+    "world/characters/Cori and Allie.md",
+    "world/atlas/Caer-Konig.md",
+    "world/characters/Torvus.md",
+    "world/atlas/Targos.md",
+    "scratch_notes/encounters/Goblin Encounter.md",
+    "scratch_notes/_reference.md",
+    "scratch_notes/_food drink lodging.md",
     "z_Templates/_town_city_article.md",
     "Untitled.md",
     "world/atlas/Bremen.md",
@@ -236,9 +244,6 @@
     "world/characters/Ravison.md",
     "world/atlas/Frozenfar Expeditions.md",
     "world/atlas/The Northern Light.md",
-    "world/characters/Cori and Allie.md",
-    "world/atlas/Caer-Konig.md",
-    "world/characters/Dorbulgruf Shalescar.md",
     "z_Templates/_update_edit_files.md",
     "img/shield-caer-konig.webp",
     "img/Unconfirmed 383673.crdownload",
@@ -252,11 +257,6 @@
     "scratch_notes/Session 12.md",
     "world/characters/Hiln Trollbane.md",
     "story/Session 11.md",
-    "world/characters/Crannoc Siever.md",
-    "world/characters/Danneth Waylen.md",
-    "world/characters/Dzaan.md",
-    "world/characters/Hansel Wiresnap.md",
-    "world/characters/Henry Davis.md",
     "img/caer-dineval.webp",
     "scratch_notes/encounters",
     "img/shield-caer-dineval.webp",

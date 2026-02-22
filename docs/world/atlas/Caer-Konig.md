@@ -29,5 +29,5 @@ A three-mile-long, snow-covered path links Caer-Konig to the neighboring town of
 
 ### Locations in Caer-Konig
 
-- [The Northern Light](../world/atlas/The%20Northern%20Light)
-- [Frozenfar Expeditions](../world/atlas/Frozenfar%20Expeditions)
+- [The Northern Light](The%20Northern%20Light.md)
+- [Frozenfar Expeditions](Frozenfar%20Expeditions.md)
