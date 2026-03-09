@@ -20,7 +20,7 @@ They returned to Caer-Konig, and [Aronious](../world/characters/Aronious.md) and
 
 The conversation then turned to the prisoner.
 
-Yin Shen explained the situation at the frozen stronghold. [Trovus](../world/characters/Trovus.md) was shocked to hear of such a grand conspiracy. "And here I thought I was looking for petty thieves," he muttered, taking a long pull from his wine bottle.
+Yin Shen explained the situation at the frozen stronghold. [Torvus](../world/characters/Torvus.md) was shocked to hear of such a grand conspiracy. "And here I thought I was looking for petty thieves," he muttered, taking a long pull from his wine bottle.
 
 Yin Shen asked if he would be willing to speak to other town Speakers and help them understand the threat. "I can do you one better!" Trovus exclaimed. "Cori! Quill and parchment, if you don't mind."
 
