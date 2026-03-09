@@ -7,6 +7,7 @@ nav:
   - Characters: world/characters
   - Creatures: world/creatures
   - Organizations: world/organizations
+  - Reference: reference
 extra_css:
   - styles.css
 extra_javascript:

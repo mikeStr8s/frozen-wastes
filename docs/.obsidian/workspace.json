@@ -227,6 +227,9 @@
   },
   "active": "d19bb943352456aa",
   "lastOpenFiles": [
+    "reference/Crafting.md",
+    "reference/crafting.md",
+    "reference",
     "scratch_notes/Session 14.md",
     "story/Session 14.md",
     "story/Session 13.md",
@@ -251,8 +254,6 @@
     "world/atlas/Lac Dinneshere.md",
     "world/atlas/Maer Dualdon.md",
     "world/characters/Ravison.md",
-    "world/atlas/Frozenfar Expeditions.md",
-    "world/atlas/The Northern Light.md",
     "img/shield-caer-konig.webp",
     "img/Unconfirmed 383673.crdownload",
     "img/caer-konig.webp",
@@ -272,7 +273,6 @@
     "img/Unconfirmed 312326.crdownload",
     "img/east-haven.png",
     "img/bryn shander map.webp",
-    "world/artifacts",
     "img/paper-border-small.png"
   ]
 }
