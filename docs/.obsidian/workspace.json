@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "story/Session 14.md",
+                "file": "scratch_notes/Session 15.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Session 14"
+              "title": "Session 15"
             }
           }
         ]
@@ -227,11 +227,13 @@
   },
   "active": "d19bb943352456aa",
   "lastOpenFiles": [
+    "story/Session 15.md",
+    "story/Session 14.md",
+    "scratch_notes/Session 15.md",
     "reference/Crafting.md",
     "reference/crafting.md",
     "reference",
     "scratch_notes/Session 14.md",
-    "story/Session 14.md",
     "story/Session 13.md",
     "story/Session 12.md",
     "world/creatures/Duergar.md",
@@ -252,8 +254,6 @@
     "index.md",
     "Recently Created.md",
     "world/atlas/Lac Dinneshere.md",
-    "world/atlas/Maer Dualdon.md",
-    "world/characters/Ravison.md",
     "img/shield-caer-konig.webp",
     "img/Unconfirmed 383673.crdownload",
     "img/caer-konig.webp",

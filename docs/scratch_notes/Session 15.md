@@ -1,0 +1,20 @@
+- The party spent the next week recovering a bit while Aronious waited for his bow to be crafted and Hobbins met daily to train the dwarven apprentice.
+- Once the week was up Aronious was awake and waiting at the fletcher's shop bright and early. Eager to get his bow as soon as possible.
+- Aronious and Hobbins entered the fletcher's and were introduced to the bow. A Giant's Bone longbow, ivory white with intricate scrimshaw inlaid along the length. Golden thread binds the grip and the same golden thread is used as the bowstring.
+- With Hobbins trading services for the helmet for Polard and Aronious getting his new weapon, the party was ready to begin adventuring again.
+- They regrouped and headed to the town hall. There they met with Imdra and she had news to share. The scouts had come back during the last week and their report was that there was something out in the frozen wilderness near the location the man at the inn indicated on the map.
+- The party agrees that they would like to investigate.
+- They take the caravan north to Caer Konig and once again gear up at Frozenfar Expeditions.
+- Yin Shen uses the scroll of fireball that used to belong to Dzaan for scent so the sled dogs could follow and know where to go.
+- They travel for hours in the wilderness, the wind biting at their faces. The hills roll and the white expanse goes for what looks like forever. With this lack of change to the landscape a small scuffle breaks out over the correct heading. Hobbins wins out when she jumps bodily on the reigns and the dogs veer hard to the right.
+- As the sled mounts the hill to the right, the party notices its not a hill, but a cliff to a ravine. With quick thinking the three of them throw all their weight opposite the cliff and yank the reigns to get the dogs moving correctly again.
+- As the party leaves the ravine behind they hear low growls and shrieks similar to that of human yelling.
+- They continue to travel in the wilderness until the dogs begin to slow. The growling and yowling has returned but this time three large Crag Cats stalk out of the wind blown snow. Near invisible against the white backdrop and flurries in the air.
+- A quick fight breaks out. The Cats pouncing in and out, but in the end Hobbins, Aronious, and Yin Shen fight them back taking one down with blade and arcane. The other two hurt and down one decide to flee. As they are running away, Hobbins sends a final Chromatic Orb and another Cat falls as it fled.
+- Aronious quickly takes out his skinning knife and collects the meat and fur from the cats. Extra food and something to sell in town never hurt.
+- They hopped back on the dogsled and continued on their way, once again using the scroll to aid in their heading.
+- Finally a smooth shape emerged on the horizon. Sticking about 20ft out with completely smooth black walls, a large structure jutted from the frozen earth.
+- There was a doorway on the outside with a small corridor leading in. The party entered and saw an upside down room. Anything not bolted to the floor (ceiling now) has been scattered and thrown around the place.
+- They find little here but rubble and books. Yin Shen picks up and keeps a few that are on the ancient Netherese empire.
+- They descend down a hole in the "floor" and are presented with a labratory like room. There is glass shattered everywhere and strange liquids mingling on the floor. There is a chest hanging upside down from the "ceiling", looks like it was bolted to the floor. Yin Shen awkwardly picks the lock and when the contents spill out into open air she is quick enough to snag the falling phials. 4 potions of resistance are pocketed by Yin Shen.
+- The party gathered as they prepared to head down one more floor, deeper into this strange spire.
