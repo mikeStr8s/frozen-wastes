@@ -8,6 +8,10 @@ modifier: 2
 
 A former celestial trickster spirit, cast down and held in the frozen north of Icewind Dale.
 
+Yin Shen was once a lesser divine being, born to a minor god of order and law and raised in devotion to **Tyr**. Yet where others in that stern heavenly line carried judgment and discipline, Yin Shen became something stranger: a patron of tricks, pranks, and joyous laughter. Children whispered her name before mischief, trusting that a well-placed jest and a quick hiding place might earn her blessing.
+
+Her fall came not through malice, but through folly. In the course of a prank aimed at her own sister, another servant of Tyr, Yin Shen gave her favor to a reveler at a festival, hoping only to stir the night into merriment. Instead, the celebration ended in flame, with mortals injured and sacred offerings lost before they could reach the heavens. Her sister carried word of the disaster to Tyr, and judgment was swift. Before Yin Shen could plead her case, she was cast from the celestial realms and sent hurtling down to the mortal world.
+
 ## Stat Block
 
 ```character

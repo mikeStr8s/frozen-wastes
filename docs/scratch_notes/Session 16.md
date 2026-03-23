@@ -1,0 +1,51 @@
+- Yin Shen drops down the opening to the third level
+- The party follows behind, being careful not to hurt themselves on the decent
+- They drop into a room that was clearly a wizards laboratory. Empty shelves, shattered glass, and alchemical equipment strewn everywhere
+- Yin shen hears murmuring from an adjacent room
+- The party moves toward the doorway and they hear bits and pieces of a conversation between a robed individual and an undead. muttering muttering "failed experiment", muttering muttering "life spark"
+- Yin Shen goes in closer to listen to their conversation without entering. "Dammit, all experiments failed", the robed figure says while slamming hands on the table. "I need a life spark". They go back to writing on parchment.
+- The party discusses for a short time before agreeing that it is best to just introduce themselves. Yin Shen knocks on the doorway when entering
+- the robed figure turns around and it is Dzaan, though his figure seems to blur at the edges.
+- "Ahh! Visitors! I am Dzaan, or almost."
+- The party freaked out when seeing him. "I saw you burned at the stake!" Yin Shen exclaimed
+- Dzaan explains that he is a simulacrum, not Dzaan himself. But he is trying to gain full corporeal body. He doesn't share any memories with Dzaan after his creation, so he is unaware of the burning at the stake or the crimes hes accused.
+- He explains how there is an ancient Netherese machine in the lowest level that will make him fully real. Dzaan not only in name but in body. He offers a medalion sitting on the table as payment, Yin Shen negotiates to also include all info he has on Chardalyn.
+- The party goes to the lowest level after talking with Dzaan, he warns of "failed experiments" waiting for them.
+- Once down, the party is assualted by black slimes. They strike out with pseudopods the moment the party descended.
+- Many strikes went out and Aronious's wolf companion was brought to critical contition, his fur melted away in patches after strikes from the ooze.
+- Hobbins in a desparate bid to take down the oozes uses Aganazzar's Scorcher creating a wall of flame tearing through the oozes. This move put her out of position in the battle
+- The last remaining ooze strikes out with a pseudopod and slams Hobbins and bringing her to the brink of death. Unconsious with fur and clothing sizzling from the oozes acids
+- Aronious and his wolf dispatch this final ooze before Yin Shen is able to stabilize Hobbins
+- Finally the party survives, oozes destroyed and the lower level available to explore.
+- The party explores an adjacent room that used to be a bedchamber. There they find the corpse of a wizard long dead, buried in rubble. The corpse is alive with evil and magical energies.
+- The party decides to send the undead companion of Dzaan to investigate. As it walked toward the corpse it stumbled over something. Hobbins called quickly for Krintas to stop moving and hold still.
+- Hobbins investigated and could see something hidden amongst the remains.
+- She told Aronious to investigate and he walked into the area and his shin slammed against something unseen
+- Yin shen entered determined to identify and found that there was a chest that was completely invisible and locked shut. She attempted to open the lock but was unable. Hobbins then asked Aronious to hold the chest aloft while she cast Acid chromatic orb at the lock. The invisible lock fell to the floor and the chest was opened.
+- Yin Shen pulled the contents out, a leather book. Once out, the book began crumbling to ash and dust.
+- Hobbins is able to identify the chest now that the lock is gone. It is airtight, watertight, and holds all content at 68 degrees Fahrenheit. Anything inside the container is in temporal stasis.
+- The book experienced 2000 years of aging in an instant.
+- Hobbins quickly climbs into the chest and curls up, she believes this to be the safest place since she had taken such a beating in that fight with the oozes. She closes the lid on herself.
+- The party then explored further with Dzaan to find the machine chamber, the invisible chest holding Hobbins being carried by Krintas.
+- The walls of the chamber and machine were etched with ancient runes. Cracks running along many walls and into the runes that were inscribed there.
+- Yin Shen opens the chest "What do these runes do Hobbins?", "Huh, wha? Didn't you just close this!" After some investigation Hobbins is unable to identify more than they are ancient Netherese and there is likely no one around anymore who knows how this was made.
+- With this news Yin Shen closes the chest on Hobbins mid sentence.
+- Dzaan goes to stand on the center platform of the machine, once there he looks at Yin Shen "well, go on. Touch that pedistal"
+- After some hesitation Yin Shen does touch it gingerly with a single finger. A bolt of golden light shot from her finger into the machine. The runes ignited with blue and gold light as the machine began to whir and come to life.
+- "YES! This is what I needed! A lifespark! I will finally be whole!"
+- A magic vortex around Dzaan forms and Krintas shoves the party out of the room.
+- The chest spilled from his arms and the lid opens again. Hobbins is exposed to the struggling party and demands the door be opened. She casts Chromatic Orb to blast the door down.
+- The door splintered away and behind the vortex of magic was getting out of hand. A bright golden flash and radiant energy erupted from the room. Aronious was the only on able to act fast enough and he quickly slammed the lid shut on the chest.
+- Yin Shen and Aronious were hit by bolts of radiant energy, Krintas was sent hurtling back into the wall and laid there crumpled with burning and singed flesh. The radiant blast had a much deeper effect on him as a Wight.
+- The machine winds down and out walks Dzaan, fully corporeal and no longer a simulacrum
+- He quickly hands the party the amulet he promised as payment for their help.
+- Yin Shen and Aronious discuss with Dzaan to see where his loyalties are and if they can trust him.
+- Thinking quickly Aronious opens the chest again and Hobbins pops back out still wanting to fight her way into the room before realizing everyone is calmly talking.
+- "Hobbins, are you still able to see the influences of demonic magics?" asks Aronious. Hobbins then gazed into the ethereal taking advantage of the Detect Good and Evil spell she had used before activating the machine. She saw no stain of those magics on Dzaan.
+- The party decided to trust him and gave him the information on what happened since running into the original Dzaan.
+- He agrees to join the party with Krintas, Hobbins agrees to write down all the spells she knows so Dzaan can start building up his spellbook again, and Dzaan agrees to try and teach Yin Shen magic.
+- The five of them ascend back up the tower and meet up with Polard. He is bummed out he didn't get to "be part of the adventure", but he's sure that he will be valuable on the next one!
+- Just as they were going to leave, Hobbins tells everyone to stop! "Why don't we keep using that machine?" The party stopped in their tracks and in unison the six of them descended again.
+- The party went back to the machine room and all investigated the machine again. The cracks on the wall had progressed further and some runes can be seen flickering. Hobbins is not confident there are many uses left before it breaks down.
+- They brainstorm and agree that Yin Shen needs a tool to aid in combat at range. She casts minor illusion onto the platform and a blowgun with 25 poison darts and 25 sleep darts appear. Hobbins presses on the pedestal and the machine whirs to life again. This time without the radiant energies flowing. The blowgun and darts fall to the floor, solid, real.
+- "I don't think this has more than one use left" remarked Hobbins as she investigated the widening cracks. "We better make the next one good!" And with that the party went silent, brainstorming what best to create next.

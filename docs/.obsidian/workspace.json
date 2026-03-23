@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scratch_notes/Session 15.md",
+                "file": "scratch_notes/Session 16.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Session 15"
+              "title": "Session 16"
             }
           }
         ]
@@ -227,9 +227,15 @@
   },
   "active": "d19bb943352456aa",
   "lastOpenFiles": [
+    "story/Session 16.md",
+    "scratch_notes/Session 1.md",
     "story/Session 15.md",
-    "story/Session 14.md",
+    "world/characters/Yin Shen.md",
+    "world/characters/Torvus.md",
+    "scratch_notes/_yin_shen_gb.md",
+    "scratch_notes/Session 16.md",
     "scratch_notes/Session 15.md",
+    "story/Session 14.md",
     "reference/Crafting.md",
     "reference/crafting.md",
     "reference",
@@ -241,7 +247,6 @@
     "world/characters/Dorbulgruf Shalescar.md",
     "world/characters/Cori and Allie.md",
     "world/atlas/Caer-Konig.md",
-    "world/characters/Torvus.md",
     "world/atlas/Targos.md",
     "scratch_notes/encounters/Goblin Encounter.md",
     "scratch_notes/_reference.md",
@@ -249,11 +254,6 @@
     "z_Templates/_town_city_article.md",
     "Untitled.md",
     "world/atlas/Bremen.md",
-    "z_Templates/_generic_article.md",
-    "Recently Edited.md",
-    "index.md",
-    "Recently Created.md",
-    "world/atlas/Lac Dinneshere.md",
     "img/shield-caer-konig.webp",
     "img/Unconfirmed 383673.crdownload",
     "img/caer-konig.webp",
