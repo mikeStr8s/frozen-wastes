@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "story/Session 17.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Session 17"
+              "title": "index"
             }
           }
         ]
@@ -227,9 +227,16 @@
   },
   "active": "d19bb943352456aa",
   "lastOpenFiles": [
-    "story/Session 16.md",
+    "Recently Created.md",
+    "index.md",
+    "Recently Edited.md",
+    "world/characters/Spellix Romwood.md",
+    "world/characters/Mylbor Tarrfak.md",
+    "story/Session 18.md",
+    "scratch_notes/Session 18.md",
     "story/Session 17.md",
     "scratch_notes/Session 17.md",
+    "story/Session 16.md",
     "scratch_notes/_aronious.md",
     "scratch_notes/_hobbins.md",
     "scratch_notes/_yin_shen.md",
@@ -247,13 +254,6 @@
     "story/Session 13.md",
     "story/Session 12.md",
     "world/creatures/Duergar.md",
-    "scratch_notes/Session 13.md",
-    "world/characters/Dorbulgruf Shalescar.md",
-    "world/characters/Cori and Allie.md",
-    "world/atlas/Caer-Konig.md",
-    "world/atlas/Targos.md",
-    "scratch_notes/encounters/Goblin Encounter.md",
-    "scratch_notes/_reference.md",
     "img/shield-caer-konig.webp",
     "img/Unconfirmed 383673.crdownload",
     "img/caer-konig.webp",

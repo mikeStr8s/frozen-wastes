@@ -1,0 +1,45 @@
+- They headed out into the snow on their new sled with the six scrawny dogs. As they travelled the snow picked up and a blizzard rolled through.
+- They pushed on guided by the amulet
+- after some time they saw a glowing spot in the distance
+- Yin Shen and the party were curious enough to want to investigate
+- The snow still coming down thickly, the light source got closer. The party saw a stout dwarven adventurer trudging through waist deep snow holding a torch aloft. He was barrel chested and had long bright red hair and beard packed with snow. Strapped to his back is a metal tube with a wooden frame and a hemp wick.
+- He greets the party happily asking if they're on the hunt for the dangerous Red Yeti that has been roaming the area. The party say no, and inquire about his purpose.
+- He is Mylbor Tarrfak, a trophy hunter in Icewind Dale who has a cabin farther north east. He's hunting this dangerous yeti as a test for his "Thunder Stick" (crude blunderbuss described above, very uncommon in this universe the party doesn't recognize it). He says it will pack a punch but its a shame its a single shot.
+- He bets the party 300g that he can find the Yeti before them, they don't take the bet.
+- Yin Shen speaks up asking if he's interested in hunting a dragon. He lights up at the idea and Yin Shen explains the Chardalyn Dragon. He seems to not be so interested after learning that this is some construct, but Yin Shen mentions that its being controlled by Duergar. Mylbor grows red with ancestral anger at the mention of Duergar and says "That certainly sweetens the deal!"
+- They agree to meet in Bremen at the tavern in two days to reconnect
+- They part ways and his torch grows dim in the snowy distance
+- The amulet in Aronious's hands pulls them toward the mountains. As they get closer they approached a ravine cut into the mountain sheltering from the storm and winds but descending slowly into the earth, the sky growing dimmer above
+- the ravine opened up into an internal clearing where a ramshackle goblin town was constructed. There are watch towers and timber walls. The goblins set to watch are more interested in staying warm by their braziers than keeping watch.
+- Aronious could tell that the Shield guardian was somewhere in the center.
+- Yin Shen and Hobbins believe they can act like they are supposed to be here and just try to walk in. Yin Shen begins to walk and as she enters view of some goblin guards an arrow is loosed and lands in front of her.
+- A goblin shouts out asking why they are there and that the next shots won't miss.
+- Yin Shen says that they're expected at the town
+- The goblin goes to run off alerting others of the party
+- Arrows are knocked and many yellow eyes narrow on the party before the large gates open slowly revealing a larger goblin riding a worg
+- Are you the emissaries? the large goblin asks
+- Yin Shen decides to play along and agrees they are. Here to discuss with the goblin chief.
+- They are invited within the goblin stronghold
+- Polard's armor begins to rattle as he shakes and hides between all party members. Hobbins asks what is wrong and he explains how goblins and gnomes are natural enemies and they are not going to be happy to see him here. Hobbins jumps to his shoulders and channels magic to disguise him as a Dwarf. While not ideal, its better than a gnome
+- They are brought through the center of the camp where the Shield guardian is tied up and hanging like a puppet doll
+- Yin Shen takes up the disguise magic as Hobbins hops over to the guardian unseen.
+- The rest of the party continues on to the chief's house building
+- Once escorted in they encounter an odd looking goblin Chief Yarb Nog
+- He escorts them into a room he calls the "chatting chamber"
+- Once the door closes the pulls off his goblin head revealing a gnome underneith. He re-introduces himself as Spellix Romwood, a gnome merchant now unintentional chief and captive of the goblins.
+- they party asks how he got here and he explains how his caravan was headed through the mountain pass off to the west, getting good from the southlands up to the dale. Goblins ambushed them and stole everything and took the people. He was able to hide and decided to make his goblin disguise to try and rescue his partners. Things went south immediately as he somehow stumbled into the role of chief and is now sure that there are elders amongst the goblins who are aware of his ruse and are plotting against him.
+- He asks the party for help getting out of here alive. They agree since they want the Shield Guardian in the center.
+- The party decides to stay until dusk and once the goblins head to bed and the guards have lowered their guard they go to break the shield guardian down.
+- This goes poorly as they are caught out once the construct activates. An alarm is raised and all arms are called for.
+- Chaos erupts as goblins wake and grab weapons, worgs are let loose, and the shaman healers are alerted of the threat.
+- Hobbins hurls chromatic orbs around with reckless abandon, each goblin who is unlucky enough to find themselves on the receiving end falls lifelessly to the ground
+- Aronious calls his spirit guardian and an Icewind Dale Reindeer manifests as a spirit of nature aid him. He looses arrows across the battlefield, striking true and commanding nature to aid him as thorny vines pull goblins to the ground ending them quickly.
+- Yin Shen navigates the goblin buildings alerting Polard, Dzaan, and Spellix of what is happening and commands them to follow her to get out safetly. She bolts to the battlements and pulls out a rope and grapple hook for the party to use as a descent. She stood defensively protecting the exit corridor from assault.
+- Dzaan lurks around the outside of the battle trying his best to move while still so exhausted. He slowly makes his way to Yin Shen.
+- Polard walks out of the goblin building and shouts at the goblins sending volly after volly of arrows at the party. "Not at my friends!" and with that his armor shimmers, all seams meld together leaving no gap. This now immaculate armor grows to 10ft tall as a deep voice echos within "Time to play to my tune!". He opens his fist and a lightning hammer manifests in his fist and he enters the frey pummeling goblins.
+- Aronious was feeling the connection to the Shield Guardian and he commanded it to defend him and the party with all its ability. The 10ft golem stomped around the battlefield slamming its large gauntleted hands into any goblin within reach.
+- All the while between each attack the party made Volly upon volly of arrow falls.
+- The party reunites as a whole on top of the battlement and all begin to descend the rope. As Yin Shen descends more arrows from the watch towers outside the fortress fly. Aronious with a single arrow for each goblin makes quick work as they fall from the ramparts.
+- Hobbins sets fire to the goblin fortress before leaving, better to have a distraction keep them from follwoing.
+- By the time each of them is down the rope and is on their way out the ravine shouts and commands can be heard from goblins to stop pursuing and to get the fire out.
+- The group gasps in the cold air outside the ravine, now free of the goblins and franticly getting to their dogsled to retreat to Bremen one gnome more and one shield guardian richer.

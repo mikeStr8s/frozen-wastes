@@ -33,19 +33,19 @@ _Sylvanian Institute of Arcane, Department of Applied Curiosities_
 ## Recently Created
 | Page                                                            | Creation Date               |
 | --------------------------------------------------------------- | --------------------------- |
+| [Mylbor Tarrfak](world/characters/Mylbor%20Tarrfak.md)          | 1:10 PM - April 13, 2026    |
+| [Spellix Romwood](world/characters/Spellix%20Romwood.md)        | 1:09 PM - April 13, 2026    |
 | [Ravison](world/characters/Ravison.md)                          | 1:43 PM - February 22, 2026 |
 | [The Northern Light](world/atlas/The%20Northern%20Light.md)     | 1:40 PM - February 22, 2026 |
 | [Frozenfar Expeditions](world/atlas/Frozenfar%20Expeditions.md) | 1:38 PM - February 22, 2026 |
-| [Caer-Konig](world/atlas/Caer-Konig.md)                         | 1:21 PM - February 22, 2026 |
-| [Bremen](world/atlas/Bremen.md)                                 | 1:15 PM - February 22, 2026 |
 
 <hr/>
 
 ## Recently Updated
-| Page                                                            | Modified Date               |
-| --------------------------------------------------------------- | --------------------------- |
-| [Maer Dualdon](world/atlas/Maer%20Dualdon.md)                   | 1:47 PM - February 22, 2026 |
-| [Ravison](world/characters/Ravison.md)                          | 1:44 PM - February 22, 2026 |
-| [Cori and Allie](world/characters/Cori%20and%20Allie.md)        | 1:42 PM - February 22, 2026 |
-| [The Northern Light](world/atlas/The%20Northern%20Light.md)     | 1:42 PM - February 22, 2026 |
-| [Frozenfar Expeditions](world/atlas/Frozenfar%20Expeditions.md) | 1:39 PM - February 22, 2026 |
+| Page                                                               | Modified Date               |
+| ------------------------------------------------------------------ | --------------------------- |
+| [Spellix Romwood](world/characters/Spellix%20Romwood.md)           | 1:12 PM - April 13, 2026    |
+| [Mylbor Tarrfak](world/characters/Mylbor%20Tarrfak.md)             | 1:11 PM - April 13, 2026    |
+| [Yin Shen](world/characters/Yin%20Shen.md)                         | 2:07 PM - March 18, 2026    |
+| [Dorbulgruf Shalescar](world/characters/Dorbulgruf%20Shalescar.md) | 2:37 PM - February 22, 2026 |
+| [Cori and Allie](world/characters/Cori%20and%20Allie.md)           | 2:37 PM - February 22, 2026 |
