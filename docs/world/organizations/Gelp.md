@@ -2,6 +2,8 @@
 
 _Notice Board Agency_
 
+![Gelp Icon](../../img/gelp.webp){: .m-image }
+
 No one remembers when the first board appeared.
 
 That is the part that unsettles people most, when they stop to think about it — which most don't, because the boards are useful, and useful things tend to stop being questioned. One morning a board was simply there, bolted to a post outside the inn at [Bryn Shander](../atlas/Bryn%20Shander.md), and within a week there was one in every town across Ten-Towns. Sturdy. Weatherproofed. Unmarked by any craftsman's seal or merchant's brand.
