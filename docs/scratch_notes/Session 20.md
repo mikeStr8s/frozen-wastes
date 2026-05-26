@@ -1,0 +1,30 @@
+- the party strikes out into the wilderness to find the dragons lair
+- they travel for an entire day, dogs need to rest before they continue
+- Yin Shen takes first watch
+- during first watch Dzaan wakes frantically and draws a teleportation circle in the snow
+- words blending together he describes how the red wizards of thay are here in Ten Towns
+- they want him and he needs to make sure they do not find him or the party
+- Yin Shen asks about magic training and without hesitation he hands her a small folio he hand wrote with some simple instructions "keep practicing" he tried to smile before producing arcane energy in his hands and alighting the teleportation circle.
+- Once everyone is rested and they talk about the disappearance of Dzaan Aronious takes over watch
+- While the others are resting Aronious feels a sharp poke in the side. A chwinga just jabbed him and was tinkling with laughter
+- Aronious instead of being mad plays along for a bit. Then eventually the chwinga disappears behind the rock Aronious is resting on before re-emerging with an overlarge snowflake. It bestowed a Chwinga Charm to him. The two interract a bit more before the chwinga shows two more charms on the ground for the other two party members. It then disappears behind the rock.
+- they awake and continue onward to the frozen sea and to the dragons lair
+- find shipwreck frozen in the ice, hull open clearly by a dragon
+- loud banging and bestial noises from inside
+- party investigates and a frost troll emerges and attacks
+- archer cunning, roguish speed, wizard spells, and artificer contraptions clash with the talons and teeth of the troll
+- despite the power of the frigid cold and its natural regeneration, Hobbins strikes with fire negating both and allowing the party to defeat the enemy. The final strike is the sheild guardian breaking through the frozen and rotten hull in one punch and then punching the troll so hard it flys back into the other wall of the hull and due to the fire Hobbins used was truly dead.
+- They find the dragons horde and begin to build a fire with rotten wood to try and melt the thick layer of ice over top
+- while resting in the hull after the battle yin shen explores and find four kobolds locked away in the room that the troll was beating against.
+- they do not attack the party. the party asks them about the dragon and they say they serve it. They ask if the dragon and them are friendly to ten towns and the kobolds laugh and say no.
+- The party deliberates on what to do, periodically sending flaming arrows or fire bolts into the sky as a flare to signal to the dragon they arrived.
+- some time passes and the dragon arrives with thunderous wingbeats and the cracking of ice
+- "Ahh, I smell the tender flesh and hear the panicked heartbeat of the meal that so eagerly delivered itself to me"
+- The kobolds all cackle and hide
+- the party tries to hide, they see the dragon's eyes are very cloudy. Likely so old that its sight has now failed.
+- as the serpentine head entered the hold a shout could be heard from outside "I think you could use some help". An incantation and then a fog cloud rolled in completely concealing the party. "to me!"
+- the party ran to the voice, they emerged from the ship to see a 9 ft tall female giant in walrus pelts. "quick to my cave"
+- The party ran and the dragon howled with anger sending its icy breath into the air.
+- spears of ice fell from the sky slamming into the ground. Hobbins just barely dodged one that landed next to her but it threw her forward, Yin Shen picked her up and continued running
+- Aronious was tripped up twice by the falling ice but Yin Shen again found him and pulled him up to continue
+- the party arrived in the cave and as the giant was putting away its club and shield it bent near a rock and a small chwinga appeared, with a familiar pattern, it reached up to the giant and the giant put out its little finger. This seemed like some sort of greeting.
