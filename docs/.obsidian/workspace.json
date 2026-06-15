@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recently Created.md",
+                "file": "story/Session 20.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Recently Created"
+              "title": "Session 20"
+            }
+          },
+          {
+            "id": "5a9cf4c320508c94",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "world/characters/Tinjong.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Tinjong"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -228,7 +243,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 454.5
+    "width": 454.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -244,16 +260,25 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "d19bb943352456aa",
+  "active": "5a9cf4c320508c94",
   "lastOpenFiles": [
+    "world/characters/Foreman Lancastor.md",
+    "world/characters/Tinjong.md",
+    "index.md",
     "Recently Edited.md",
     "Recently Created.md",
-    "story/Session 20.md",
+    "story/Session 21.md",
+    "Untitled 1.md",
     "Untitled.md",
+    "world/characters/Auril.md",
+    "world/characters/Oarus Masthew.md",
+    "world/characters/Captain Imdra Arlaggath.md",
+    "scratch_notes/Session 21.md",
+    "scratch_notes/_aronious.md",
+    "story/Session 20.md",
     "scratch_notes/Session 20.md",
     "I need a session summary for session 20. Use previous entries as a reference for style context.md",
     "scratch_notes/Session 19.md",
-    "index.md",
     "world/characters/Spellix Romwood.md",
     "world/characters/Mylbor Tarrfak.md",
     "story/Session 18.md",
@@ -261,17 +286,8 @@
     "story/Session 17.md",
     "scratch_notes/Session 17.md",
     "story/Session 16.md",
-    "scratch_notes/_aronious.md",
     "scratch_notes/_hobbins.md",
     "scratch_notes/_yin_shen.md",
-    "world/characters/Yin Shen.md",
-    "scratch_notes/Session 16.md",
-    "scratch_notes/Session 1.md",
-    "story/Session 15.md",
-    "world/characters/Torvus.md",
-    "scratch_notes/Session 15.md",
-    "story/Session 14.md",
-    "reference/Crafting.md",
     "reference",
     "img/shield-caer-konig.webp",
     "img/Unconfirmed 383673.crdownload",

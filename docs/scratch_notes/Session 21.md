@@ -1,0 +1,19 @@
+- The party learns about Tinjong, the 9ft tall Verbeeg that saved them
+- Servant of Sylvanas, god of nature, not interested in the fight with the Duergar or Ten Towns. Willing to aid in an assault against Auril as the rime goes against nature.
+- Aronious spends some time talking to Tinjong
+- They eventually take their leave and travel back to Termalaine
+- Once in town they head to the Gelp board and see that many of the postings have changed but the one calling for aid in the mines is still there
+- They make their way to the mining offices and meet Foreman Lancastor, gruff straight forward human leader of the local miners guild
+- Miners are missing and Kobolds have moved in
+- The party heads to the mines, there is a sign "NO ENTRY KOBOLDS ONLY" out front written in fine handwriting
+- some exploration and some casual picking at the walls rewards the party with a few gemstones and clues indicating that the kobolds are further in
+- they find a central shaft that seemingly has no bottom with a narrow wooden walkway along the edge overhanging
+- Hobbins hears sawing over the noise of the waterfall and peeks below the walkway to see two Kobolds sawing at the supports
+- Hobbins casts thunderwave and blasts the two Kobolds into the pit
+- after more exploration and deeper delving they find another room with gemstones in the walls. Hobbins tries to pry some from the stone but a Grell descended from the ceiling and went to strike at the party
+- quickly dispatched the party moved on to find a crack in the stone where more Kobolds were
+- They talk to the Kobolds and one with fake wings does all the talking. Also more eloquent than a Kobold should be
+- Interrogation and intimidation reveal that the kobold is possessed and the party swipes a dirty pouch from his waist. They toss it into the bottomless pit and the ghost erupted from the Kobold in rage and pursued the pouch.
+- Now free of possession the party determines the Kobolds just want warmth and a home. The party convinces them to work for free in the mines for Termalaine in exchange for meals and lodging in the town.
+- They eagerly agree and the Yin Shen tosses them a blanket to hide under when they are in Termalaine explaining the deal to the foreman and town speaker
+- The three Kobolds hop onto each others shoulders and the one at the top ties the blanket around its shoulders like a hooded cloak. The three of them make a decently convincing silhouette of a dragonborn
