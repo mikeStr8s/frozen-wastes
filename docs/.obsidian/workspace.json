@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "world/characters/Tinjong.md",
+                "file": "story/Session 22.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Tinjong"
+              "title": "Session 22"
             }
           }
         ],
@@ -93,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "bbc30cd28e9d9f3f",
@@ -262,8 +262,13 @@
   },
   "active": "5a9cf4c320508c94",
   "lastOpenFiles": [
-    "world/characters/Foreman Lancastor.md",
+    "scratch_notes/Session 22.md",
+    "story/Session 22.md",
+    "world/characters/Mylbor Tarrfak.md",
+    "world/characters/Captain Imdra Arlaggath.md",
+    "scratch_notes/Session 21.md",
     "world/characters/Tinjong.md",
+    "world/characters/Foreman Lancastor.md",
     "index.md",
     "Recently Edited.md",
     "Recently Created.md",
@@ -272,22 +277,17 @@
     "Untitled.md",
     "world/characters/Auril.md",
     "world/characters/Oarus Masthew.md",
-    "world/characters/Captain Imdra Arlaggath.md",
-    "scratch_notes/Session 21.md",
     "scratch_notes/_aronious.md",
     "story/Session 20.md",
     "scratch_notes/Session 20.md",
     "I need a session summary for session 20. Use previous entries as a reference for style context.md",
     "scratch_notes/Session 19.md",
     "world/characters/Spellix Romwood.md",
-    "world/characters/Mylbor Tarrfak.md",
     "story/Session 18.md",
     "scratch_notes/Session 18.md",
     "story/Session 17.md",
     "scratch_notes/Session 17.md",
     "story/Session 16.md",
-    "scratch_notes/_hobbins.md",
-    "scratch_notes/_yin_shen.md",
     "reference",
     "img/shield-caer-konig.webp",
     "img/Unconfirmed 383673.crdownload",
