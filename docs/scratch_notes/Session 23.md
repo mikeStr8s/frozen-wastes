@@ -1,0 +1,32 @@
+- the party continues down the western hallway choosing to open the closest northern door
+- Inside is an old duergar woman with long black hair streaked with ribbons of white and fingernails like shards of iron. She is devouring a hearty buffet of cooked meats, mushrooms, and strange Underdark fare
+- She invites the party to sit and partake in her meal while signalling to her duergar guards to put away weapons and go back to cooking her meal
+- Hobbins chooses to partake in the meal and is able to force a single bite down before needing to leave the room to be sick as respectfully as she could
+- The party talks with her.
+	- She is Grandolpha Muzgardt, paramour of Xardorok Sunblight the leader of the icewind dale duergar.
+	- She wishes to leave and has no true alliegence to him
+	- She has been working from within toward a sort of coup trying to pull the duergar forces from Xardorok and into her influence.
+	- She wishes to bring the duergar back to the underdark and revive the failing realm she holds and that Xardorok abandoned.
+- The party asks if her men could do a shift change with Xardorok's and allow them to find and rescue Imdra from the prison section of the lower level
+- She agrees and they make a plan to be escorted away into the prison cells by her guards and from there they will be able to find Imdra quickly
+- They wait for the change of guard and are then escorted to one of the service elevators that brought them behind the lower throne room.
+- They are escorted passed a few duergar wearing Xardorok's sigil, throne room guards who refused the unscheduled shift change.
+- They are escorted out of the throne room and are brought to the main forge. Smoke fills this warm cavern, which has a ceiling that ranges from forty feet high down to twenty feet high along the south wall. The source of the smoke and heat is a ten-foot-tall stone forge shaped like a pyramid with its peak sheared off. Ripples of heat and flashes of firelight spew from the top of the forge, which emits a deep, pulsating heartbeat. A five-foot-deep trough extends east from the forge, with rows of black anvils on either side of the depression.
+- Chained under an opening in the ceiling is a massive black crystaline dragon with duergar chanting at runic chains.
+- Xardorok is overseeing from atop a raised platform
+- the party is pulled roughly through and quickly escorted to the prison area
+- they find Imdra, free her from her cell, and arm her in case a fight breaks out
+- the party concocts a plan to have Grandolpa's duergar position close to the chanting duergar and have Hobbins hide in the beard of an ally duergar so she can get close to the group of chanting duergar and use her most powerful magic to remove them quickly. Aronious and Yin Shen will support with ranged attacks to finish off any straglers. Once clear of enemy duergar focus fire on Xardorok and have the ally duergar secure the dragon. Hobbins will only initiate the fight once Polard, Mylbor, and the Shield Guardian enter the room after fighting their way to them.
+- They enact their plan:
+	- The Shield Guardian, Polard, and Mylbor burst into the room after dealing with the Xardorok loyalists in the throne room
+	- Hobbins unleashes magical fury and ends 2 of the 4 duergar holding the chains
+	- Aronious ends one of the remaining and preps to finish the remaining one
+	- Yin Shen summons all animals from her grey bag of tricks and has them swarm Xardorok to keep him busy
+	- The ally duergar grab the chains and begin to take up the chant the dead ones were interrupted chanting. The runes flicker and the dragon thrashes
+	- Yin Shen uses her scroll of fireball on Xardorok and while effective, he turns his black crystal gauntlet in her direction and pulls hellfire from another plane under her feet
+	- Polard, Mylbor, the shield guardian and Aronious's icewind dale reindeer companion assaulted the enemy duergar and the bound dragon
+	- Hobbins flashed a spell at Xardorok and he responded with another bout of hellfire below her too. The party watched in horror as a singed hobbins collapsed under this fiendish assault
+	- The fight continued around her body, Aronious throwing caution to the wind ran to her and with a prayer to Sylvanas, god of nature, he outstretched his hand and healing energies passed from him to her small body. With a shuddering gasp Hobbins awoke
+	- Xardorok went invisible but to no avail, Yin Shen had him bound with witch bolt and Aronious was sure to tag him with hunters mark. He emerged from the shroud to throw a lever on the other side of the room. A cascade of ice fell from the hole in the ceiling
+	- As his arm pulled the lever the party descended on him with spell and arrow. He fell. Alone and betrayed
+- As Xardorok died the dragon broke free from the chains. It let out a burst of radiant breath vaporizing the duergar constructs before it. Its wings flew out to their full width and with a powerful ascent the dragon disappeared into the hole in the ceiling and out into icewind dale.
