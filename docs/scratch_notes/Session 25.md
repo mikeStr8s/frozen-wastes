@@ -1,0 +1,10 @@
+- time skip polard leaves party to rebuild
+- yin shen goes to jeweler to sell loads of stuff
+- the winter flower rave speakeasy
+- terrance brightbrow gnome partymancer
+- guards gate crash hobbins hides in box just as they enter
+- aronious goes to jewler that yin shen went to - dwarven shopkeep short behind counter, pointy nose, pointy ears, monicle, dirty, tophat, suit, wringing hands
+- learns all about the stuff yin shen sold, hes livid
+- they chase each other around before hobbins breaks up the fight
+- head to the pinging signal in yin shen's head
+- nautaloid ship asking for psi crystal

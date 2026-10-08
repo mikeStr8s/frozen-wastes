@@ -25,6 +25,28 @@ The party returned to Easthaven and made their way to **Strings and Sundries**. 
 Aronious asked about the departure. The gnome explained he was leaving for the south — tired of the cold, homesick, eager to return to warmer lands. Aronious was so saddened by this news that he pleaded with "Finkle" to join the party on their adventures instead.
 
 After a long and absurd discussion between Aronious and "Finkle Shortfuse," it was agreed: by the next day, the gnome would be ready to set out with the party.
+## The Empty Shop
+
+On the party's return to Easthaven after the business at Kelvin's Cairn, **Drums Emporium** was closed and locked, with no lights inside. The shelves were empty, dust hung in the air, and the back room door stood askew. [Aronious](../characters/Aronious.md) kicked the door down in fear and haste and found nothing — no wood shavings, no metal dust, and the broken trapdoor between the two shops replaced with seamless, newly installed flooring.
+
+**Strings and Sundries** was still lit and still stocked, now run by a tall, slender woman in a red dress who explained she was the new store manager, the gnome owner having stepped back from day-to-day operations.
+
+## The Dragon
+
+The Chardalyn Dragon's radiant breath went straight down [Polard](../characters/Polard%20Hinscrop.md)'s lane and left nothing standing. He went to his knees in the rubble and wept. Asked whether the shop had been insured, he produced the pamphlet the party had given him, turned to the last page, and showed them the final unchecked box.
+
+> "I never got it notarized."
+
+## The Musical Empolardium
+
+A week later the plot was twice its old size, Easthaven's thanks for his part in the defense, holding a tent, a sign, a fresh workbench, and no merchandise of any kind. The rebuilt shop is larger than the old one and about half finished, with a hired assistant named **Samantha** on the counter. The party offered a better name — a pun — and Polard did not need to think about it.
+
+> "Samantha, we need to change the sign immediately."
+
+Asked after his brother one more time, he hesitated, stepped into the back room, and came out in a different shirt as **Finkle Shortfuse**. [Aronious](../characters/Aronious.md) caught the flicker of confusion and accepted the brother anyway. [Yin Shen](../characters/Yin%20Shen.md) and [Hobbins](../characters/Hobbins.md) played along.
+
+The conspiracy is, by every reasonable measure, still running.
+
 ## Known Members
 
 - [Finkle Shortfuse](../characters/Finkle%20Shortfuse.md)

@@ -6,7 +6,9 @@ nav:
   - Atlas: world/atlas
   - Characters: world/characters
   - Creatures: world/creatures
+  - Deities: world/deities
   - Organizations: world/organizations
+  - Lore: world/lore
   - Reference: reference
 extra_css:
   - styles.css

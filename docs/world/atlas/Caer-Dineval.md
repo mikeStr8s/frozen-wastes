@@ -18,7 +18,7 @@ A crenellated stone watchtower (three merlons, two crenellations) on a dark blue
 
 ## Connections
 
-A snow-covered path leads from Caer-Dineval to the Eastway. Other paths lead to Caer-Konig and Good Mead. Travel times in the Overland Travel from Caer-Dineval table assume that characters are on foot; mounts and dogsleds can shorten these times by as much as 50 percent.
+A snow-covered path leads from Caer-Dineval to the Eastway. Other paths lead to Caer-Konig and Goodmead. Travel times in the Overland Travel from Caer-Dineval table assume that characters are on foot; mounts and dogsleds can shorten these times by as much as 50 percent.
 
 ### Overland Travel from Caer-Dineval
 
@@ -26,9 +26,10 @@ A snow-covered path leads from Caer-Dineval to the Eastway. Other paths lead to 
 | ------------ | ----------- |
 | Bryn Shander | 10½ hours   |
 | Caer-Konig   | 2 hours     |
-| Good Mead    | 8 hours     |
+| Goodmead     | 8 hours     |
 | Easthaven    | 9 hours     |
 
 ### Locations in Caer Dineval
 
+- [The Caer](The%20Caer.md)
 - [The Uphill Climb](The%20Uphill%20Climb.md)

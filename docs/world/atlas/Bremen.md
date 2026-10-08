@@ -28,3 +28,7 @@ Heavy snow has obliterated a trail that once guided travelers to Targos. Adventu
 
 
 ### Locations in Bremen
+
+- **Buried Treasures** — the town inn, and the first door the party walked through on arrival. Speaker [Dorbulgruf Shalescar](../characters/Dorbulgruf%20Shalescar.md) keeps a table here and introduced himself by thumping his chest.
+- **The town hall records room** — a single sparse shelf, but enough. [Hobbins](../characters/Hobbins.md) found _Nature and the Divine_ on it and learned how divine energy and godlings work.
+- **An expedition shack** — a weather-beaten outfitter at the edge of town with an elderly owner, a pipe, and a sled one hard turn from becoming firewood. [Aronious](../characters/Aronious.md) bought half ownership of that sled for one gold rather than renting it; [Hobbins](../characters/Hobbins.md) refused to ride it and commissioned a fresh build from a local carpenter for eight.

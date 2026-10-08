@@ -1,12 +1,31 @@
 ---
 ac: 14
-hp: 17
-level: 3
-modifier: 2
+hp: 41
+level: 7
+modifier: 3
 ---
 # Aronious III
 
-Once a paladin serving faithfully to the pantheon above. Now having discarded his vows he has taken to the frozen wilderness to find and aid Yin Shen.
+Once a paladin serving faithfully to the pantheon above. He discarded his vows and took to the frozen wilderness to find and aid [Yin Shen](Yin%20Shen.md) — and in the years since, the oath has found its way back to him by a different road.
+
+## The Road Back to the Oath
+
+Aronious came into [Bryn Shander](../atlas/Bryn%20Shander.md) as a ranger and nothing more: a hunter, a tracker, a man who had put the gods behind him on purpose. What the Dale gave back to him was not the pantheon he had left but something older and closer to the ground.
+
+It began with small things. A dire wolf nursed back from the brink in a cave east of [Easthaven](../atlas/Easthaven.md). A herd of reindeer crossing a clearing under an aurora, and one deer that did not run when he reached for it — a bond offered and accepted, so that when he calls in need, the herd may hear. A [Chwinga](../creatures/Chwinga.md) that jabbed him in the ribs on a night watch and stayed to keep him company in the cold.
+
+By the assault on Xardorok Sunblight's forge, it was no longer subtle. With [Hobbins](Hobbins.md) lying singed and still on the stone, Aronious broke from his position, pressed his hand to her chest, and called on **Sylvanas**, god of nature — the same force behind the reindeer and the Chwinga and the herd in the snow. She drew breath and came back.
+
+He now walks as both ranger and paladin, sworn to the Ancients.
+
+## Deeds
+
+- Hunted and killed [Sephek Kaltro](Sephek%20Kaltro.md) in a moonlit glade, the first night out of Bryn Shander.
+- Carried the party out of [The Caer](../atlas/The%20Caer.md) through the front gate and held the portcullis open with his bow.
+- Healed [Lupine](Lupine.md) alongside Hobbins and earned the godling's friendship and blessing.
+- Commissioned the **Giant's Bone Longbow** from an Easthaven fletcher, paid for with a frost giant's bone Hobbins had been carrying.
+- Bonded to the Netherese **Shield Guardian** through the amulet recovered from the black spire, and has commanded it since.
+- Lashed the Chardalyn Dragon's jaw shut with _thorn whip_ at the walls of Easthaven, then put an arrow clean through the core at its heart.
 
 ## Stat Block
 
@@ -17,80 +36,98 @@ Once a paladin serving faithfully to the pantheon above. Now having discarded hi
   "type": "Humanoid",
   "subtype": "Human",
   "alignment": "Neutral Good",
-  "level": 3,
+  "level": 7,
   "ac": 14,
-  "hp": 17,
-  "hit_dice": "1d10",
-  "speed": "30",
-  "stats": [13, 15, 12, 6, 14, 12],
+  "hp": 41,
+  "hit_dice": "4d10 + 3d10",
+  "speed": "30 ft.",
+  "stats": [13, 15, 12, 6, 14, 13],
   "saves": ["STR", "DEX"],
-  "proficiency": 2,
-  "skillsaves": [],
-  "expertise": [],
+  "proficiency": 3,
+  "skillsaves": ["Athletics", "Intimidation", "Perception", "Survival"],
+  "expertise": ["Insight"],
   "damage_vulnerabilities": "",
   "damage_resistances": "",
   "damage_immunities": "",
   "condition_immunities": "",
-  "senses": "Passive Perception 16",
-  "languages": ["Druidic", "Common", "Elvish", "Gnomish", "Celestial"],
+  "senses": "Passive Perception 14, Passive Insight 17",
+  "languages": ["Common", "Celestial", "Elvish", "Gnomish"],
   "spells": {
-    "description": "As a level 2 Ranger, Aronious III has learned to use the magical essence of nature to cast spells; much as a druid does",
+    "description": "Ranger 4 / Paladin 3 (Oath of the Ancients). Ranger spells are cast with Wisdom (save DC 13, +5 to hit); paladin spells with Charisma (save DC 12, +4 to hit).",
     "spell_list": [
         {
             "spell_level": 0,
-            "spell_list": "control flames, thorn whip"
+            "spell_list": "thorn whip, guidance, sacred flame"
         },
         {
             "spell_level": 1,
-            "spell_list": "speak with animals, jump, ensnaring strike, alarm, hail of thorns"
+            "spell_list": "hail of thorns, alarm, jump, detect magic, cure wounds, purify food and drink, bless, divine smite, hunter's mark, ensnaring strike, speak with animals"
         }
   ]
   },
   "traits": [
     {
-      "name": "Deft Explorer",
-      "description": "You are an unsurpassed explorer and survivor, both in the wilderness and in dealing with others on your travels. You gain the Canny benefit below, and you gain an additional benefit below when you reach 6th level and 10th level in this class.\n\n<strong>Canny</strong>\nAronious has Canny Insight. Your proficiency bonus is doubled for any Insight check you make."
+      "name": "Favored Enemy",
+      "description": "Aronious always has <em>hunter's mark</em> prepared and can cast it twice per long rest without expending a spell slot."
     },
     {
-      "name": "Favored Foe",
-      "description": "When you hit a creature with an attack roll, you can call on your mystical bond with nature to mark the target as your favored enemy for 1 minute or until you lose your concentration (as if you were concentrating on a spell).\n\tThe first time on each of your turns that you hit the favored enemy and deal damage to it, including when you mark it, you can increase that damage by 1d4.\n\tYou can use this feature to mark a favored enemy a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.\n\tThis feature's extra damage increases when you reach certain levels in this class: to 1d6 at 6th level and to 1d8 at 14th level."
+      "name": "Deft Explorer",
+      "description": "An unsurpassed explorer and survivor. Aronious has Expertise in Insight, doubling his proficiency bonus on any Insight check he makes."
     },
     {
       "name": "Druidic Warrior",
-      "description": "You learn two cantrips of your choice from the druid spell list. They count as ranger spells for you, and Wisdom is your spellcasting ability for them. Whenever you gain a level in this class, you can replace one of these cantrips with another cantrip from the druid spell list."
+      "description": "Two druid cantrips count as ranger spells for Aronious, cast with Wisdom."
     },
     {
-	  "name": "Primal Awareness",
-	  "description": "You can focus your awareness through the interconnections of nature: you learn additional spells when you reach certain levels in this class if you don't already know them, as shown in the Primal Awareness Spells table. These spells don't count against the number of ranger spells you know.\n<table><tbody><tr><td>3rd</td><td>speak with animals</td></tr><tr><td>5th</td><td>beast sense</td></tr><tr><td>9th</td><td>speak with plants</td></tr><tr><td>13th</td><td>locate creature</td></tr><tr><td>17th</td><td>commune with nature</td></tr></tbody></table>\nYou can cast each of these spells once without expending a spell slot. Once you cast a spell in this way, you can't do so again until you finish a long rest."
+      "name": "Primal Companion (Beast of the Land)",
+      "description": "Aronious summons a primal beast bearing markings of its supernatural origin — for most of his travels a dire wolf, and since the night of the aurora, a reindeer of Icewind Dale.\n\n<strong>Beast of the Land</strong> — AC 15, HP 25 (4d8), Speed 40 ft., Climb 40 ft. Saves: Str +5, Dex +5, Con +5, Int +2, Wis +5, Cha +3.\n\n<strong>Primal Bond</strong> Add Aronious's proficiency bonus to any ability check or saving throw the beast makes.\n\nThe beast is Friendly to Aronious and his allies and obeys his commands. It vanishes if he dies. In combat it acts on his turn, taking only the Dodge action unless he spends a Bonus Action to command it otherwise."
     },
     {
-	  "name": "Primal Companion",
-	  "description": "You magically summon a primal beast, which draws strength from your bond with nature. Choose its stat block: Beast of the Land, Beast of the Sea, or Beast of the Sky. You also determine the kind of animal it is, choosing a kind appropriate for the stat block. Whatever beast you choose, it bears primal markings indicating its supernatural origin.\n\tThe beast is Friendly to you and your allies and obeys your commands. It vanishes if you die.\n\tThe Beast in Combat. In combat, the beast acts during your turn. It can move and use its Reaction on its own, but the only action it takes is the Dodge action unless you take a Bonus Action to command it to take an action in its stat block or some other action. You can also sacrifice one of your attacks when you take the Attack action to command the beast to take the Beast’s Strike action. If you have the Incapacitated condition, the beast acts on its own and isn’t limited to the Dodge action.\n\tRestoring or Replacing the Beast. If the beast has died within the last hour, you can take a Magic action to touch it and expend a spell slot. The beast returns to life after 1 minute with all its Hit Points restored.\n\tWhenever you finish a Long Rest, you can summon a different primal beast, which appears in an unoccupied space within 5 feet of you. You choose its stat block and appearance. If you already have a beast from this feature, the old one vanishes when the new one appears."
+      "name": "Lay on Hands",
+      "description": "A pool of 15 hit points of healing that replenishes on a long rest. As a Bonus Action, Aronious can touch a creature and restore hit points from the pool, or spend 5 points to remove the Poisoned condition."
+    },
+    {
+      "name": "Paladin's Smite",
+      "description": "Aronious always has <em>divine smite</em> prepared and can cast it once per long rest without expending a spell slot."
+    },
+    {
+      "name": "Channel Divinity",
+      "description": "Aronious can channel energy directly from the Outer Planes to fuel magical effects, twice per long rest, regaining one expended use on a short rest. Save DC 12."
     }
   ],
   "actions": [
     {
-      "name": "Shortbow",
-      "description": "Ranged Weapon Attack: +5 to hit, range 80 ft./320 ft., one target. Hit: 6 (1d6 + 3) piercing damage."
+      "name": "Giant's Bone Longbow",
+      "description": "Ranged Weapon Attack: +8 to hit, range 150 ft./600 ft., one target. Hit: 1d8 + 3 piercing damage. Heavy, two-handed. Carved from frost giant bone by an Easthaven fletcher, scrimshawed along the full length of the limbs and strung with golden thread."
     },
     {
       "name": "Shortsword",
-      "description": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage."
+      "description": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 1d6 + 2 piercing damage. Finesse, light, vex."
+    },
+    {
+      "name": "Thorn Whip",
+      "description": "Melee Spell Attack: +5 to hit, reach 30 ft., one target. Hit: 2d6 piercing damage, and Aronious can pull the target up to 10 feet toward him."
+    },
+    {
+      "name": "Unarmed Strike",
+      "description": "Melee Attack Roll: +4 to hit, reach 5 ft., one target. Hit: 2 bludgeoning damage."
     }
   ],
   "bonusactions": [
     {
-      "name": "Beast Strike (Land)",
-      "description": "Melee Attack Roll: Bonus equals your spell attack modifier, reach 5 ft. Hit: 1d8 + 2 plus your Wisdom modifier Bludgeoning, Piercing, or Slashing damage (your choice when you summon the beast).\n\nIf the beast moved at least 20 feet straight toward the target before the hit, the target takes an extra 1d6 damage of the same type, and the target has the Prone condition if it is a Large or smaller creature."
+      "name": "Beast's Strike (Land)",
+      "description": "Melee Attack Roll: +5 to hit, reach 5 ft. Hit: 1d8 + 4 bludgeoning, piercing, or slashing damage (chosen when the beast is summoned).\n\nIf the beast moved at least 20 feet straight toward the target before the hit, the target takes an extra 1d6 damage of the same type and has the Prone condition if it is Large or smaller."
     },
     {
-      "name": "Beast Strike (Sea)",
-      "description": "Melee Attack Roll: Bonus equals your spell attack modifier, reach 5 ft. Hit: 1d6 + 2 plus your Wisdom modifier Bludgeoning or Piercing damage (your choice when you summon the beast), and the target has the Grappled condition (escape DC equals your spell save DC)."
-    },
-    {
-      "name": "Beast Strike (Sky)",
-      "description": "Melee Attack Roll: Bonus equals your spell attack modifier, reach 5 ft. Hit: 1d4 + 3 plus your Wisdom modifier Slashing damage."
+      "name": "Lay on Hands",
+      "description": "Touch a creature and restore hit points from the healing pool, or spend 5 points to remove the Poisoned condition."
     }
   ]
 }
 ```
+
+## Allies
+
+- The **Shield Guardian** (64 HP), bound to the amulet he carries
+- His primal companion, most recently a reindeer of Icewind Dale
+- A **Charm of the Ice Troll** — the snowflake a [Chwinga](../creatures/Chwinga.md) pressed into his hand on a night watch

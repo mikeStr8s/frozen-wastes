@@ -18,7 +18,7 @@ Black antlers above a vertical shaft of golden wheat on a white field, signifyin
 
 ## Connections
 
-Bryn Shander is connected to Easthaven by the Eastway, a snow-covered road. In addition, there are snowy paths to Caer-Dineval, Good Mead, Targos, and Termalaine. Travel times in the Overland Travel from Bryn Shander table assume that characters are on foot; mounts and dogsleds can shorten these times by as much as 50 percent.
+Bryn Shander is connected to Easthaven by the Eastway, a snow-covered road. In addition, there are snowy paths to Caer-Dineval, Goodmead, Targos, and Termalaine. Travel times in the Overland Travel from Bryn Shander table assume that characters are on foot; mounts and dogsleds can shorten these times by as much as 50 percent.
 
 ### Overland Travel from Bryn Shander
 
@@ -26,7 +26,7 @@ Bryn Shander is connected to Easthaven by the Eastway, a snow-covered road. In a
 | ------------ | ----------- |
 | Caer-Dineval | 10½ hours   |
 | Easthaven    | 7½ hours    |
-| Good Mead    | 6 hours     |
+| Goodmead     | 6 hours     |
 | Targos       | 2 hours     |
 | Termalaine   | 6 hours     |
 
