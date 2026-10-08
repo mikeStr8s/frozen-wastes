@@ -1,0 +1,806 @@
+<!DOCTYPE html>
+<html lang="en" data-bs-theme="light">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        
+        
+        
+        <link rel="shortcut icon" href="../../img/favicon.ico">
+        <title>Session 27: A Dock Built For Giants - Frozen Wastes</title>
+        <link href="../../css/bootstrap.min.css" rel="stylesheet">
+        <link href="../../css/fontawesome.min.css" rel="stylesheet">
+        <link href="../../css/brands.min.css" rel="stylesheet">
+        <link href="../../css/solid.min.css" rel="stylesheet">
+        <link href="../../css/v4-font-face.min.css" rel="stylesheet">
+        <link href="../../css/base.css" rel="stylesheet">
+        <link id="hljs-light" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/styles/github.min.css" >
+        <link id="hljs-dark" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/styles/github-dark.min.css" disabled>
+        <link href="../../styles.css" rel="stylesheet">
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/highlight.min.js"></script>
+        <script>hljs.highlightAll();</script> 
+    </head>
+
+    <body>
+        <div class="navbar fixed-top navbar-expand-lg navbar-dark bg-primary">
+            <div class="container">
+                <a class="navbar-brand" href="../..">Frozen Wastes</a>
+                <!-- Expander button -->
+                <button type="button" class="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#navbar-collapse" aria-controls="navbar-collapse" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+
+                <!-- Expanded navigation -->
+                <div id="navbar-collapse" class="navbar-collapse collapse">
+                        <!-- Main navigation -->
+                        <ul class="nav navbar-nav">
+                            <li class="nav-item">
+                                <a href="../.." class="nav-link">Home</a>
+                            </li>
+                            <li class="nav-item dropdown">
+                                <a href="#" class="nav-link dropdown-toggle active" aria-current="page" role="button" data-bs-toggle="dropdown"  aria-expanded="false">Story</a>
+                                <ul class="dropdown-menu">
+                                    
+<li>
+    <a href="../Session%201/" class="dropdown-item">Session 1: The Blade in the Snow</a>
+</li>
+                                    
+<li>
+    <a href="../Session%2010/" class="dropdown-item">Session 10: The Gnome's Brother and the Race to the Trout</a>
+</li>
+                                    
+<li>
+    <a href="../Session%2011/" class="dropdown-item">Session 11: The Awakened Depths</a>
+</li>
+                                    
+<li>
+    <a href="../Session%2012/" class="dropdown-item">Session 12: The Footprints in the Snow</a>
+</li>
+                                    
+<li>
+    <a href="../Session%2013/" class="dropdown-item">Session 13: The Dragon and the Stronghold</a>
+</li>
+                                    
+<li>
+    <a href="../Session%2014/" class="dropdown-item">Session 14: The Return to Easthaven</a>
+</li>
+                                    
+<li>
+    <a href="../Session%2015/" class="dropdown-item">Session 15: The Black Spire</a>
+</li>
+                                    
+<li>
+    <a href="../Session%2016/" class="dropdown-item">Session 16: The Lifespark and the Machine</a>
+</li>
+                                    
+<li>
+    <a href="../Session%2017/" class="dropdown-item">Session 17: Masks, Militia, and Old Tracks</a>
+</li>
+                                    
+<li>
+    <a href="../Session%2018/" class="dropdown-item">Session 18: The Goblin's Crown</a>
+</li>
+                                    
+<li>
+    <a href="../Session%2019/" class="dropdown-item">Session 19: Thunder, Ale, and the Dragon's Answer</a>
+</li>
+                                    
+<li>
+    <a href="../Session%202/" class="dropdown-item">Session 2: The Many Whispers in Easthaven</a>
+</li>
+                                    
+<li>
+    <a href="../Session%2020/" class="dropdown-item">Session 20: The White and the Wanderer</a>
+</li>
+                                    
+<li>
+    <a href="../Session%2021/" class="dropdown-item">Session 21: The Mines of Termalaine</a>
+</li>
+                                    
+<li>
+    <a href="../Session%2022/" class="dropdown-item">Session 22: The Fortress in the Spine</a>
+</li>
+                                    
+<li>
+    <a href="../Session%2023/" class="dropdown-item">Session 23: The Heart of Sunblight</a>
+</li>
+                                    
+<li>
+    <a href="../Session%2024/" class="dropdown-item">Session 24: Eight Hours to Easthaven</a>
+</li>
+                                    
+<li>
+    <a href="../Session%2025/" class="dropdown-item">Session 25: Crew Safe, Vessel in Peril</a>
+</li>
+                                    
+<li>
+    <a href="../Session%2026/" class="dropdown-item">Session 26: Squidlings in the Snow</a>
+</li>
+                                    
+<li>
+    <a href="./" class="dropdown-item active" aria-current="page">Session 27: A Dock Built For Giants</a>
+</li>
+                                    
+<li>
+    <a href="../Session%203/" class="dropdown-item">Session 3: The Prophecy at Caer-Dineval</a>
+</li>
+                                    
+<li>
+    <a href="../Session%204/" class="dropdown-item">Session 4: The Giant Beneath the Ice</a>
+</li>
+                                    
+<li>
+    <a href="../Session%205/" class="dropdown-item">Session 5: Granny Maud and the Frozen Eye</a>
+</li>
+                                    
+<li>
+    <a href="../Session%206/" class="dropdown-item">Session 6: The Touch of Divinity</a>
+</li>
+                                    
+<li>
+    <a href="../Session%207/" class="dropdown-item">Session 7: The Gnome's Gambit and the Spider's Den</a>
+</li>
+                                    
+<li>
+    <a href="../Session%208/" class="dropdown-item">Session 8: The Deranged Godling</a>
+</li>
+                                    
+<li>
+    <a href="../Session%209/" class="dropdown-item">Session 9: The Chardalyn Thief</a>
+</li>
+                                </ul>
+                            </li>
+                            <li class="nav-item dropdown">
+                                <a href="#" class="nav-link dropdown-toggle" role="button" data-bs-toggle="dropdown"  aria-expanded="false">Artifacts</a>
+                                <ul class="dropdown-menu">
+                                    
+<li>
+    <a href="../../world/artifacts/Lantern%20of%20Tracking/" class="dropdown-item">Lantern of Tracking</a>
+</li>
+                                    
+<li>
+    <a href="../../world/artifacts/Off-putting%20Effigy/" class="dropdown-item">Off-putting Effigy</a>
+</li>
+                                    
+<li>
+    <a href="../../world/artifacts/Professor%20Skant/" class="dropdown-item">Professor Skant</a>
+</li>
+                                    
+<li>
+    <a href="../../world/artifacts/Sea%20Hag%27s%20Frozen%20Eye/" class="dropdown-item">Sea Hag's Frozen Eye</a>
+</li>
+                                    
+<li>
+    <a href="../../world/artifacts/Skree%27s%20Collar/" class="dropdown-item">Skree's Collar</a>
+</li>
+                                    
+<li>
+    <a href="../../world/artifacts/The%20Codicil%20of%20White/" class="dropdown-item">The Codicil of White</a>
+</li>
+                                </ul>
+                            </li>
+                            <li class="nav-item dropdown">
+                                <a href="#" class="nav-link dropdown-toggle" role="button" data-bs-toggle="dropdown"  aria-expanded="false">Atlas</a>
+                                <ul class="dropdown-menu">
+                                    
+<li>
+    <a href="../../world/atlas/Auril%27s%20Island/" class="dropdown-item">Auril's Island</a>
+</li>
+                                    
+<li>
+    <a href="../../world/atlas/Blackiron%20Blades/" class="dropdown-item">Blackiron Blades</a>
+</li>
+                                    
+<li>
+    <a href="../../world/atlas/Bremen/" class="dropdown-item">Bremen</a>
+</li>
+                                    
+<li>
+    <a href="../../world/atlas/Bryn%20Shander/" class="dropdown-item">Bryn Shander</a>
+</li>
+                                    
+<li>
+    <a href="../../world/atlas/Caer-Dineval/" class="dropdown-item">Caer-Dineval</a>
+</li>
+                                    
+<li>
+    <a href="../../world/atlas/Caer-Konig/" class="dropdown-item">Caer-Konig</a>
+</li>
+                                    
+<li>
+    <a href="../../world/atlas/Dougan%27s%20Hole/" class="dropdown-item">Dougan's Hole</a>
+</li>
+                                    
+<li>
+    <a href="../../world/atlas/Easthaven%20Town%20Hall/" class="dropdown-item">Easthaven Town Hall</a>
+</li>
+                                    
+<li>
+    <a href="../../world/atlas/Easthaven/" class="dropdown-item">Easthaven</a>
+</li>
+                                    
+<li>
+    <a href="../../world/atlas/Frozenfar%20Expeditions/" class="dropdown-item">Frozenfar Expeditions</a>
+</li>
+                                    
+<li>
+    <a href="../../world/atlas/Goodmead/" class="dropdown-item">Goodmead</a>
+</li>
+                                    
+<li>
+    <a href="../../world/atlas/Grimskalle/" class="dropdown-item">Grimskalle</a>
+</li>
+                                    
+<li>
+    <a href="../../world/atlas/Icewind%20Dale/" class="dropdown-item">Icewind Dale</a>
+</li>
+                                    
+<li>
+    <a href="../../world/atlas/Kelvin%27s%20Cairn/" class="dropdown-item">Kelvin's Cairn</a>
+</li>
+                                    
+<li>
+    <a href="../../world/atlas/Lac%20Dinneshere/" class="dropdown-item">Lac Dinneshere</a>
+</li>
+                                    
+<li>
+    <a href="../../world/atlas/Maer%20Dualdon/" class="dropdown-item">Maer Dualdon</a>
+</li>
+                                    
+<li>
+    <a href="../../world/atlas/Musical%20Empolardium/" class="dropdown-item">Musical Empolardium</a>
+</li>
+                                    
+<li>
+    <a href="../../world/atlas/Reghed%20Glacier/" class="dropdown-item">Reghed Glacier</a>
+</li>
+                                    
+<li>
+    <a href="../../world/atlas/Revel%27s%20End/" class="dropdown-item">Revel's End</a>
+</li>
+                                    
+<li>
+    <a href="../../world/atlas/Sea%20of%20Moving%20Ice/" class="dropdown-item">Sea of Moving Ice</a>
+</li>
+                                    
+<li>
+    <a href="../../world/atlas/Spine%20of%20the%20World/" class="dropdown-item">Spine of the World</a>
+</li>
+                                    
+<li>
+    <a href="../../world/atlas/Sunblight%20Fortress/" class="dropdown-item">Sunblight Fortress</a>
+</li>
+                                    
+<li>
+    <a href="../../world/atlas/Targos/" class="dropdown-item">Targos</a>
+</li>
+                                    
+<li>
+    <a href="../../world/atlas/Termalaine%20Mines/" class="dropdown-item">Termalaine Mines</a>
+</li>
+                                    
+<li>
+    <a href="../../world/atlas/Termalaine/" class="dropdown-item">Termalaine</a>
+</li>
+                                    
+<li>
+    <a href="../../world/atlas/The%20Black%20Spire/" class="dropdown-item">The Black Spire</a>
+</li>
+                                    
+<li>
+    <a href="../../world/atlas/The%20Caer/" class="dropdown-item">The Caer</a>
+</li>
+                                    
+<li>
+    <a href="../../world/atlas/The%20Eastway/" class="dropdown-item">The Eastway</a>
+</li>
+                                    
+<li>
+    <a href="../../world/atlas/The%20Goblin%20Stronghold/" class="dropdown-item">The Goblin Stronghold</a>
+</li>
+                                    
+<li>
+    <a href="../../world/atlas/The%20Northern%20Light/" class="dropdown-item">The Northern Light</a>
+</li>
+                                    
+<li>
+    <a href="../../world/atlas/The%20Northlook%20Inn/" class="dropdown-item">The Northlook Inn</a>
+</li>
+                                    
+<li>
+    <a href="../../world/atlas/The%20Uphill%20Climb/" class="dropdown-item">The Uphill Climb</a>
+</li>
+                                    
+<li>
+    <a href="../../world/atlas/The%20Violet%20Hold%20Inn/" class="dropdown-item">The Violet Hold Inn</a>
+</li>
+                                    
+<li>
+    <a href="../../world/atlas/The%20Wet%20Trout/" class="dropdown-item">The Wet Trout</a>
+</li>
+                                    
+<li>
+    <a href="../../world/atlas/The%20White%20Lady%20Inn/" class="dropdown-item">The White Lady Inn</a>
+</li>
+                                    
+<li>
+    <a href="../../world/atlas/Three%20Flags%20Sailing/" class="dropdown-item">Three Flags Sailing</a>
+</li>
+                                    
+<li>
+    <a href="../../world/atlas/Trail%27s%20End%20Tavern/" class="dropdown-item">Trail's End Tavern</a>
+</li>
+                                    
+<li>
+    <a href="../../world/atlas/Ythryn/" class="dropdown-item">Ythryn</a>
+</li>
+                                </ul>
+                            </li>
+                            <li class="nav-item dropdown">
+                                <a href="#" class="nav-link dropdown-toggle" role="button" data-bs-toggle="dropdown"  aria-expanded="false">Characters</a>
+                                <ul class="dropdown-menu">
+                                    
+<li>
+    <a href="../../world/characters/Angajuk/" class="dropdown-item">Angajuk</a>
+</li>
+                                    
+<li>
+    <a href="../../world/characters/Aronious/" class="dropdown-item">Aronious III</a>
+</li>
+                                    
+<li>
+    <a href="../../world/characters/Captain%20Imdra%20Arlaggath/" class="dropdown-item">Captain Imdra Arlaggath</a>
+</li>
+                                    
+<li>
+    <a href="../../world/characters/Cori%20and%20Allie/" class="dropdown-item">Cori and Allie</a>
+</li>
+                                    
+<li>
+    <a href="../../world/characters/Crannoc%20Siever/" class="dropdown-item">Crannoc Siever</a>
+</li>
+                                    
+<li>
+    <a href="../../world/characters/Dale/" class="dropdown-item">Dale</a>
+</li>
+                                    
+<li>
+    <a href="../../world/characters/Danneth%20Waylen/" class="dropdown-item">Danneth Waylen</a>
+</li>
+                                    
+<li>
+    <a href="../../world/characters/Dorbulgruf%20Shalescar/" class="dropdown-item">Dorbulgruf Shalescar</a>
+</li>
+                                    
+<li>
+    <a href="../../world/characters/Dredavex/" class="dropdown-item">Dredavex</a>
+</li>
+                                    
+<li>
+    <a href="../../world/characters/Durth/" class="dropdown-item">Durth</a>
+</li>
+                                    
+<li>
+    <a href="../../world/characters/Dzaan/" class="dropdown-item">Dzaan</a>
+</li>
+                                    
+<li>
+    <a href="../../world/characters/Edgra%20Dermoot/" class="dropdown-item">Edgra Dermoot</a>
+</li>
+                                    
+<li>
+    <a href="../../world/characters/Finkle%20Shortfuse/" class="dropdown-item">Finkle Shortfuse</a>
+</li>
+                                    
+<li>
+    <a href="../../world/characters/Foreman%20Lancastor/" class="dropdown-item">Foreman Lancastor</a>
+</li>
+                                    
+<li>
+    <a href="../../world/characters/Grandolpha%20Muzgardt/" class="dropdown-item">Grandolpha Muzgardt</a>
+</li>
+                                    
+<li>
+    <a href="../../world/characters/Granny%20Maud/" class="dropdown-item">Granny Maud</a>
+</li>
+                                    
+<li>
+    <a href="../../world/characters/Hansel%20Wiresnap/" class="dropdown-item">Hansel Wiresnap</a>
+</li>
+                                    
+<li>
+    <a href="../../world/characters/Henry%20Davis/" class="dropdown-item">Henry Davis</a>
+</li>
+                                    
+<li>
+    <a href="../../world/characters/Hethyl%20Arkorran/" class="dropdown-item">Hethyl Arkorran</a>
+</li>
+                                    
+<li>
+    <a href="../../world/characters/Hiln%20Trollbane/" class="dropdown-item">Hiln Trollbane</a>
+</li>
+                                    
+<li>
+    <a href="../../world/characters/Hobbins/" class="dropdown-item">Hobbins</a>
+</li>
+                                    
+<li>
+    <a href="../../world/characters/Karthax/" class="dropdown-item">Karthax</a>
+</li>
+                                    
+<li>
+    <a href="../../world/characters/Krintas/" class="dropdown-item">Krintas</a>
+</li>
+                                    
+<li>
+    <a href="../../world/characters/Lupine/" class="dropdown-item">Lupine</a>
+</li>
+                                    
+<li>
+    <a href="../../world/characters/Mylbor%20Tarrfak/" class="dropdown-item">Mylbor Tarrfak</a>
+</li>
+                                    
+<li>
+    <a href="../../world/characters/Oarus%20Masthew/" class="dropdown-item">Oarus Masthew</a>
+</li>
+                                    
+<li>
+    <a href="../../world/characters/Polard%20Hinscrop/" class="dropdown-item">Polard Hinscrop</a>
+</li>
+                                    
+<li>
+    <a href="../../world/characters/Randy%20Grailden/" class="dropdown-item">Randy Grailden</a>
+</li>
+                                    
+<li>
+    <a href="../../world/characters/Ravison/" class="dropdown-item">Ravison</a>
+</li>
+                                    
+<li>
+    <a href="../../world/characters/Rinaldo/" class="dropdown-item">Rinaldo</a>
+</li>
+                                    
+<li>
+    <a href="../../world/characters/Samantha/" class="dropdown-item">Samantha</a>
+</li>
+                                    
+<li>
+    <a href="../../world/characters/Sephek%20Kaltro/" class="dropdown-item">Sephek Kaltro</a>
+</li>
+                                    
+<li>
+    <a href="../../world/characters/Skree/" class="dropdown-item">Skree</a>
+</li>
+                                    
+<li>
+    <a href="../../world/characters/Soppo/" class="dropdown-item">Soppo</a>
+</li>
+                                    
+<li>
+    <a href="../../world/characters/Spellix%20Romwood/" class="dropdown-item">Spellix Romwood</a>
+</li>
+                                    
+<li>
+    <a href="../../world/characters/Tali/" class="dropdown-item">Tali</a>
+</li>
+                                    
+<li>
+    <a href="../../world/characters/Terence%20Brightbrow/" class="dropdown-item">Terence Brightbrow</a>
+</li>
+                                    
+<li>
+    <a href="../../world/characters/Tinjong/" class="dropdown-item">Tinjong</a>
+</li>
+                                    
+<li>
+    <a href="../../world/characters/Torvus/" class="dropdown-item">Torvus</a>
+</li>
+                                    
+<li>
+    <a href="../../world/characters/Ursa/" class="dropdown-item">Ursa</a>
+</li>
+                                    
+<li>
+    <a href="../../world/characters/Voren/" class="dropdown-item">Voren</a>
+</li>
+                                    
+<li>
+    <a href="../../world/characters/Xardorok%20Sunblight/" class="dropdown-item">Xardorok Sunblight</a>
+</li>
+                                    
+<li>
+    <a href="../../world/characters/Yin%20Shen/" class="dropdown-item">Yin Shen</a>
+</li>
+                                </ul>
+                            </li>
+                            <li class="nav-item dropdown">
+                                <a href="#" class="nav-link dropdown-toggle" role="button" data-bs-toggle="dropdown"  aria-expanded="false">Creatures</a>
+                                <ul class="dropdown-menu">
+                                    
+<li>
+    <a href="../../world/creatures/Ancient%20White%20Dragon/" class="dropdown-item">The Ancient White Dragon</a>
+</li>
+                                    
+<li>
+    <a href="../../world/creatures/Chardalyn%20Dragon/" class="dropdown-item">Chardalyn Dragon</a>
+</li>
+                                    
+<li>
+    <a href="../../world/creatures/Chwinga/" class="dropdown-item">Chwinga</a>
+</li>
+                                    
+<li>
+    <a href="../../world/creatures/Duergar/" class="dropdown-item">Duergar</a>
+</li>
+                                    
+<li>
+    <a href="../../world/creatures/Shield%20Guardian/" class="dropdown-item">Shield Guardian</a>
+</li>
+                                </ul>
+                            </li>
+                            <li class="nav-item dropdown">
+                                <a href="#" class="nav-link dropdown-toggle" role="button" data-bs-toggle="dropdown"  aria-expanded="false">Deities</a>
+                                <ul class="dropdown-menu">
+                                    
+<li>
+    <a href="../../world/deities/Auril/" class="dropdown-item">Auril</a>
+</li>
+                                    
+<li>
+    <a href="../../world/deities/Sylvanas/" class="dropdown-item">Sylvanas</a>
+</li>
+                                    
+<li>
+    <a href="../../world/deities/Tyr/" class="dropdown-item">Tyr</a>
+</li>
+                                </ul>
+                            </li>
+                            <li class="nav-item dropdown">
+                                <a href="#" class="nav-link dropdown-toggle" role="button" data-bs-toggle="dropdown"  aria-expanded="false">Organizations</a>
+                                <ul class="dropdown-menu">
+                                    
+<li>
+    <a href="../../world/organizations/Clan%20Sunblight/" class="dropdown-item">Clan Sunblight</a>
+</li>
+                                    
+<li>
+    <a href="../../world/organizations/Gelp/" class="dropdown-item">Gelp</a>
+</li>
+                                    
+<li>
+    <a href="../../world/organizations/Knights%20of%20the%20Black%20Sword/" class="dropdown-item">Knights of the Black Sword</a>
+</li>
+                                    
+<li>
+    <a href="../../world/organizations/Music%20Shop%20Conspiracy/" class="dropdown-item">Music Shop Conspiracy</a>
+</li>
+                                    
+<li>
+    <a href="../../world/organizations/The%20Frozen%20Three/" class="dropdown-item">The Frozen Three</a>
+</li>
+                                    
+<li>
+    <a href="../../world/organizations/Torg%27s%20Trading%20Company/" class="dropdown-item">Torg's Trading Company</a>
+</li>
+                                </ul>
+                            </li>
+                            <li class="nav-item dropdown">
+                                <a href="#" class="nav-link dropdown-toggle" role="button" data-bs-toggle="dropdown"  aria-expanded="false">Lore</a>
+                                <ul class="dropdown-menu">
+                                    
+<li>
+    <a href="../../world/lore/Chardalyn/" class="dropdown-item">Chardalyn</a>
+</li>
+                                    
+<li>
+    <a href="../../world/lore/Godlings%20and%20Divine%20Energy/" class="dropdown-item">Godlings and Divine Energy</a>
+</li>
+                                    
+<li>
+    <a href="../../world/lore/Ten-Towns/" class="dropdown-item">Ten-Towns</a>
+</li>
+                                    
+<li>
+    <a href="../../world/lore/The%20Netherese%20Empire/" class="dropdown-item">The Netherese Empire</a>
+</li>
+                                    
+<li>
+    <a href="../../world/lore/The%20Rime/" class="dropdown-item">The Rime</a>
+</li>
+                                </ul>
+                            </li>
+                            <li class="nav-item dropdown">
+                                <a href="#" class="nav-link dropdown-toggle" role="button" data-bs-toggle="dropdown"  aria-expanded="false">Reference</a>
+                                <ul class="dropdown-menu">
+                                    
+<li>
+    <a href="../../reference/Crafting/" class="dropdown-item">Crafting</a>
+</li>
+                                </ul>
+                            </li>
+                        </ul>
+
+                    <ul class="nav navbar-nav ms-md-auto">
+                        <li class="nav-item">
+                            <a href="#" class="nav-link" data-bs-toggle="modal" data-bs-target="#mkdocs_search_modal">
+                                <i class="fa fa-search"></i> Search
+                            </a>
+                        </li>
+                            <li class="nav-item">
+                                <a rel="prev" href="../Session%2026/" class="nav-link">
+                                    <i class="fa fa-arrow-left"></i> Previous
+                                </a>
+                            </li>
+                            <li class="nav-item">
+                                <a rel="next" href="../Session%203/" class="nav-link">
+                                    Next <i class="fa fa-arrow-right"></i>
+                                </a>
+                            </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="row">
+                    <div class="col-md-3"><div class="navbar-expand-md bs-sidebar hidden-print affix" role="complementary">
+    <div class="navbar-header">
+        <button type="button" class="navbar-toggler collapsed" data-bs-toggle="collapse" data-bs-target="#toc-collapse" title="Table of Contents">
+            <span class="fa fa-angle-down"></span>
+        </button>
+    </div>
+
+    
+    <div id="toc-collapse" class="navbar-collapse collapse card bg-body-tertiary">
+        <ul class="nav flex-column">
+            
+            <li class="nav-item" data-bs-level="1"><a href="#session-27-a-dock-built-for-giants" class="nav-link">Session 27: A Dock Built For Giants</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+        </ul>
+    </div>
+</div></div>
+                    <div class="col-md-9" role="main">
+
+<h1 id="session-27-a-dock-built-for-giants">Session 27: A Dock Built For Giants</h1>
+<p>The ceremorphs did not stay to chat. The psi crystal had hardly changed hands before they were off to mend the ship and get it into the air.</p>
+<p><a href="../../world/characters/Hobbins/">Hobbins</a> sat down with the helmet and gave it a ritual's worth of attention. A Helm of Telepathy. The lenses were Eyes of Minute Seeing. <a href="../../world/characters/Aronious/">Aronious</a> took the lenses, for the sake of seeing in the dark. <a href="../../world/characters/Yin%20Shen/">Yin Shen</a> took the owl.</p>
+<p><a href="../../world/characters/Voren/">Voren</a> was plain about the rest. They were bound for the Astral realm. The party could not come. After that, he did not expect anyone would be able to reach them.</p>
+<p>So the party climbed down and stood in the snow to watch. The tentacles tore free. The ship rose, and then it was a streak in the sky, and then it wasn't.</p>
+<hr />
+<p>They were still standing beside the hole it had left when Dzaan appeared. He was blue, and they could see the valley through him.</p>
+<p>He was still dodging the other wizards of the Arcane Brotherhood, he said. They told him about the dragon. He was astonished.</p>
+<p>Then he told them what he had been doing in Icewind Dale all along. A Netherese city, Ythryn, lay buried in the Reghed Glacier. <a href="../../world/deities/Auril/">Auril</a>'s magic guarded the ice. Fire would not open it, and neither would a pick.</p>
+<p>A book would. On Auril's island, out in the Sea of Moving Ice, there was a tome called the Codicil of White, and in it an incantation that could split the glacier. He wanted the party to get onto the island and find it. He also wanted his professor orb back. Professor Skant, an expert on the Netherese Empire, had been stolen from him.</p>
+<p>The payoff was the city itself, and whatever magic was still lying around in it.</p>
+<p>They took the job. He marked the island on their map. The only port he knew of that far north was Revel's End, and that was a prison. The party pointed out that there was a white dragon in the way. They would ask in <a href="../../world/atlas/Easthaven/">Easthaven</a> instead.</p>
+<hr />
+<p>Yin Shen attuned to the helm on the road. By the time they reached the town hall she was in the mood to kick the door in, and did, shouting <a href="../../world/characters/Captain%20Imdra%20Arlaggath/">Imdra</a>'s name.</p>
+<p>Imdra was back on duty, in a plain standard uniform. Her own gear had never come back out of <a href="../../world/characters/Xardorok%20Sunblight/">Xardorok</a>'s fortress.</p>
+<p>She had little to offer. Easthaven had no real sailors, and no water that led to the Sea of Moving Ice. What they wanted was the taverns of Targos, and a captain. A round trip, she guessed, might run fifteen gold.</p>
+<p>It was a guess.</p>
+<hr />
+<p><a href="../../world/characters/Polard%20Hinscrop/">Polard</a>'s new shop was bigger than the old one and about half finished. He had hired help. An assistant named Samantha was working the counter.</p>
+<p>The party thought the place deserved a better name, and offered one. It was a pun. Polard did not need to think about it.</p>
+<p>"Samantha, we need to change the sign immediately."</p>
+<p>So it was the Musical Empolardium.</p>
+<p>Then they asked after his brother.</p>
+<p>Polard hesitated. He stepped into the back room. A moment later a gnome came out in a different shirt and introduced himself as Finkle Shortfuse.</p>
+<p>Aronious had caught the flicker of confusion. He accepted the brother all the same. Yin Shen and Hobbins played along.</p>
+<p>Somewhere in the middle of this, Yin Shen left. Nobody saw her go. Hobbins followed her nose instead, and it led to the roof.</p>
+<p>Aronious wanted to know what she was doing up there. Helping with the sign, she said, and to prove it she tried to unhook it. The sign won. It took her off the roof with it and into a snowbank.</p>
+<p>Polard charged her one gold for the breakage, and winked at Aronious.</p>
+<hr />
+<p>They slept at the White Lady Inn. Aronious stored a second-level divine smite in the Shield Guardian.</p>
+<p>At dawn the writ of free passage put them on the caravan, through Bryn Shander and on to Targos. Nine and a half hours, near enough. It was about six in the evening when they got down.</p>
+<hr />
+<p>The tavern was called Three Flags Sailing. Yin Shen looked the room over and settled on a large man with one eye and a pipe. A captain. She asked him for passage on the Sea of Moving Ice.</p>
+<p>The whole table laughed.</p>
+<p>She might as well ring Angajuk's Bell, he told her. There was a bronze bell on the shore, the story went, and a giant whale with a wrecked ship on its back, awakened once by a frost druid to carry travelers. Ring the one and the other would come.</p>
+<p>Aronious liked the sound of that.</p>
+<p>Yin Shen said the voyage was meant to end the frost. She said they were the ones who had killed the dragon.</p>
+<p>The laughing stopped. The captain turned to his crew. It was his first mate, Dale, who talked him into it.</p>
+<p>Then came the price. The crew muddled it on purpose. Dale shook Yin Shen's hand on thirty-five gold, paid before they sailed.</p>
+<hr />
+<p>At the dock the quartermaster took thirty-five gold from Yin Shen and informed her that ten more would be due on return. This was more than she thought she had shaken on. The Shield Guardian went into the cargo hold.</p>
+<p>They spent a day breaking ice upriver. Then the captain got a look at the mark on Dzaan's map. There was no land there, he said. He was sure of it. He set a course for it anyway, two days out.</p>
+<p>On the first day at sea a rope came loose, and Yin Shen went to help secure it. The sail had other ideas. It flung her about for a while and set her down seasick. Aronious and Hobbins, meanwhile, helped a sailor haul in a knucklehead trout of enormous size, and the crew ate it fresh.</p>
+<p>On the second morning the cartographer could not get a fix. Yin Shen sent her owl up through the clouds to read the stars, and the course was corrected.</p>
+<hr />
+<p>The cold came on next. It bit, and it was wrong. They were not far enough north for it, the captain said.</p>
+<p>Then there was fog, and a great deal of it. The owl went ahead and found an island with a ruined dock.</p>
+<p>The ship came out of the fog under cliffs of ice fifty feet high. Masts stood up out of the water around them, with the ships they belonged to somewhere underneath. Ahead was the dock, carved from ice and shattered, and built for giants.</p>
+<p>The crew anchored offshore. They would not land. They would wait one day.</p>
+<p>The party wanted two. The quartermaster shoved the captain aside and named the price of the second: fifty gold.</p>
+<p>"What do you think sunk these ships? I don't see them stuck on any rocks."</p>
+<p>The haggling went on for some time. Aronious appealed to legend. It was Dale, again, who gave. Two days, the ten gold on return as agreed, and one magic item out of whatever the party found on the island.</p>
+<hr />
+<p>The longboat rode low with the Shield Guardian in it. On the dock an ice mephit was waving at them and jabbering.</p>
+<p>Hobbins cast <em>comprehend languages</em>, by ritual. The language was Auran. The mephit was Soppo. From then on she did the talking, and passed along what came back.</p>
+<p>Soppo offered to be their guide. There was plenty to see. Shipwrecks, full of goods. A recent wreck, with one survivor, who had made it as far as the shore and frozen there. A field of ice sculptures.</p>
+<p>"Soppo hasn't had visitors in a while. Again, unless you count the one who crawled ashore, though she didn't last."</p>
+<p>Hobbins asked about the orb. Soppo did not know it.</p>
+<p>She asked about the Codicil of White, and Soppo looked shocked. The lady's book, it called it. That was at Grimskalle, at the center of the island, where it was dangerous.</p>
+<p>It could take them there. A tour, fourteen hours, with Grimskalle at the end of it.</p>
+<p>They accepted. Yin Shen kept her guard up.</p></div>
+            </div>
+        </div>
+
+        <footer class="col-md-12">
+            <hr>
+            <p>Documentation built with <a href="https://www.mkdocs.org/">MkDocs</a>.</p>
+        </footer>
+        <script src="../../js/bootstrap.bundle.min.js"></script>
+        <script>
+            var base_url = "../..",
+                shortcuts = {"help": 191, "next": 78, "previous": 80, "search": 83};
+        </script>
+        <script src="../../js/base.js"></script>
+        <script src="../../character.js"></script>
+        <script src="../../search/main.js"></script>
+
+        <div class="modal" id="mkdocs_search_modal" tabindex="-1" role="dialog" aria-labelledby="searchModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title" id="searchModalLabel">Search</h4>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <p>From here you can search these documents. Enter your search terms below.</p>
+                <form>
+                    <div class="form-group">
+                        <input type="search" class="form-control" placeholder="Search..." id="mkdocs-search-query" title="Type search term here">
+                    </div>
+                </form>
+                <div id="mkdocs-search-results" data-no-results-text="No results found"></div>
+            </div>
+            <div class="modal-footer">
+            </div>
+        </div>
+    </div>
+</div><div class="modal" id="mkdocs_keyboard_modal" tabindex="-1" role="dialog" aria-labelledby="keyboardModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title" id="keyboardModalLabel">Keyboard Shortcuts</h4>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+              <table class="table">
+                <thead>
+                  <tr>
+                    <th style="width: 20%;">Keys</th>
+                    <th>Action</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td class="help shortcut"><kbd>?</kbd></td>
+                    <td>Open this help</td>
+                  </tr>
+                  <tr>
+                    <td class="next shortcut"><kbd>n</kbd></td>
+                    <td>Next page</td>
+                  </tr>
+                  <tr>
+                    <td class="prev shortcut"><kbd>p</kbd></td>
+                    <td>Previous page</td>
+                  </tr>
+                  <tr>
+                    <td class="search shortcut"><kbd>s</kbd></td>
+                    <td>Search</td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+            <div class="modal-footer">
+            </div>
+        </div>
+    </div>
+</div>
+
+    </body>
+</html>
