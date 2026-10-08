@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scratch_notes/Session 25.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Session 25"
+              "title": "index"
             }
           }
         ],
@@ -56,7 +56,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -202,8 +204,8 @@
             "state": {
               "type": "DICE_ROLLER_VIEW",
               "state": {},
-              "icon": "dices",
-              "title": "Dice Tray"
+              "icon": "lucide-ghost",
+              "title": "DICE_ROLLER_VIEW"
             }
           }
         ],
@@ -262,9 +264,12 @@
   },
   "active": "5a9cf4c320508c94",
   "lastOpenFiles": [
+    "Recently Edited.md",
+    "index.md",
+    "Recently Created.md",
+    "scratch_notes/Session 25.md",
     "scratch_notes/Session 23.md",
     "scratch_notes/Session 24.md",
-    "scratch_notes/Session 25.md",
     "scratch_notes/Session 22.md",
     "story/Session 23.md",
     "story/Session 22.md",
@@ -273,9 +278,6 @@
     "scratch_notes/Session 21.md",
     "world/characters/Tinjong.md",
     "world/characters/Foreman Lancastor.md",
-    "index.md",
-    "Recently Edited.md",
-    "Recently Created.md",
     "story/Session 21.md",
     "Untitled 1.md",
     "Untitled.md",

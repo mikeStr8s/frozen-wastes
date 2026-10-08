@@ -1,7 +1,7 @@
-| Page                                                         | Modified Date            |
-| ------------------------------------------------------------ | ------------------------ |
-| [Auril](world/deities/Auril.md)                           | 8:04 AM - June 15, 2026  |
-| [Foreman Lancastor](world/characters/Foreman%20Lancastor.md) | 8:03 AM - June 15, 2026  |
-| [Gelp](world/organizations/Gelp.md)                          | 8:52 PM - April 28, 2026 |
-| [Icewind Dale](world/atlas/Icewind%20Dale.md)                | 3:18 PM - April 28, 2026 |
-| [Oarus Masthew](world/characters/Oarus%20Masthew.md)         | 3:17 PM - April 28, 2026 |
+| Page                                    | Modified Date               |
+| --------------------------------------- | --------------------------- |
+| [Tinjong](world/characters/Tinjong.md)  | 11:35 AM - October 08, 2026 |
+| [Dzaan](world/characters/Dzaan.md)      | 11:35 AM - October 08, 2026 |
+| [Easthaven](world/atlas/Easthaven.md)   | 11:35 AM - October 08, 2026 |
+| [Targos](world/atlas/Targos.md)         | 11:35 AM - October 08, 2026 |
+| [Termalaine](world/atlas/Termalaine.md) | 11:35 AM - October 08, 2026 |

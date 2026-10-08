@@ -1,7 +1,7 @@
-| Page                                                         | Creation Date            |
-| ------------------------------------------------------------ | ------------------------ |
-| [Auril](world/deities/Auril.md)                           | 8:03 AM - June 15, 2026  |
-| [Foreman Lancastor](world/characters/Foreman%20Lancastor.md) | 8:00 AM - June 15, 2026  |
-| [Icewind Dale](world/atlas/Icewind%20Dale.md)                | 3:18 PM - April 28, 2026 |
-| [Gelp](world/organizations/Gelp.md)                          | 3:09 PM - April 28, 2026 |
-| [Oarus Masthew](world/characters/Oarus%20Masthew.md)         | 3:06 PM - April 28, 2026 |
+| Page                                                            | Creation Date               |
+| --------------------------------------------------------------- | --------------------------- |
+| [Tinjong](world/characters/Tinjong.md)                          | 11:35 AM - October 08, 2026 |
+| [Dzaan](world/characters/Dzaan.md)                              | 11:35 AM - October 08, 2026 |
+| [Clan Sunblight](world/organizations/Clan%20Sunblight.md)       | 11:34 AM - October 08, 2026 |
+| [The Frozen Three](world/organizations/The%20Frozen%20Three.md) | 11:34 AM - October 08, 2026 |
+| [Revel's End](world/atlas/Revel's%20End.md)                     | 11:33 AM - October 08, 2026 |
