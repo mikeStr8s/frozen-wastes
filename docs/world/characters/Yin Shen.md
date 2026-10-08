@@ -8,13 +8,61 @@ modifier: 3
 
 A former celestial trickster spirit, cast down and held in the frozen north of Icewind Dale.
 
-Yin Shen was once a lesser divine being, born to a minor god of order and law and raised in devotion to **Tyr**. Yet where others in that stern heavenly line carried judgment and discipline, Yin Shen became something stranger: a patron of tricks, pranks, and joyous laughter. Children whispered her name before mischief, trusting that a well-placed jest and a quick hiding place might earn her blessing.
+## Before the Fall
 
-Her fall came not through malice, but through folly. In the course of a prank aimed at her own sister, another servant of Tyr, Yin Shen gave her favor to a reveler at a festival, hoping only to stir the night into merriment. Instead, the celebration ended in flame, with mortals injured and sacred offerings lost before they could reach the heavens. Her sister carried word of the disaster to Tyr, and judgment was swift. Before Yin Shen could plead her case, she was cast from the celestial realms and sent hurtling down to the mortal world.
+Yin Shen was a lesser god of the celestial heavens — goddess of trickery and mischief, of the kind of trick that is *usually* harmless. Her family lived under the rule of **[Tyr](../deities/Tyr.md)**, god of justice, though not uniformly: her mother and her sister kept his rule, while her father held that bending a rule was fine so long as nobody got hurt.
+
+She was a prodigy of mischief, with an exact sense of which buttons could be pushed and how far. In time she was worshipped for it, by troublemaking children up to no good — and worship made her bolder and her tricks riskier.
+
+Her twin sister is **[Shuāng](Shuāng.md)**, a devoted servant of Tyr who defended the celestial realm from the evil spirits that threatened it. The two of them were a matched pair on a battlefield and nearly unbeatable together: Shuāng loud and deliberate in heavy armor, drawing every eye with **the Dragon's Glaive**; Yin Shen gone into the shadows and arriving behind the enemy with her **[black lotus sword](../artifacts/Black%20Lotus%20Sword.md)**, a blade as dark as night and silent as the grave. In her **[kimono](../artifacts/Yin%20Shen's%20Kimono.md)** nobody heard her coming, and by the time they did it was already too late.
+
+Yin Shen only fought when made to — usually as a punishment. Her other sentences ran to practising languages, studying threats to the realm, cleaning very fragile objects, cataloguing the armoury, writing apologies to the people she had pranked, and being stuck in fox form for a full day. Shuāng generally carried them out.
+
+Among the many gods she annoyed, she kept one mortal friend: a paladin named **[Aronious III](Aronious.md)**, posted to guard her shrine. He was righteous and good and everything she found tiresome about Tyr, and she spent her afternoons needling him, boasting about what she had gotten away with, and trying without success to get him to worship her.
+
+## The Fall
+
+Her mistake was small, and then it was not.
+
+At a festival — the night merry, the offerings laid out — she set out to inconvenience her sister and the other gods by blessing a **child** to interfere with the offerings. He asked to be able to cast a higher tier of fire spells. She assumed a fire dancer, or an evocation mage there to entertain, and she did not look any further into it.
+
+By the time she noticed, it was far too late. The night turned from merriment to horror. The offerings were destroyed, the festival ruined, most of the crowd injured, and **some of them died**.
+
+It was nobody's fault but hers, and she has never pretended otherwise. The boy was never punished; the townspeople never learned who had caused it. She remembers his face.
+
+It was **[Shuāng](Shuāng.md) who carried word of the disaster to Tyr.**
+
+The knock came at her door the next day. She stood before the court and pleaded that she had meant no harm, that it was supposed to be harmless, that no one was supposed to be hurt. The gods would not listen — she could bear that. What she could not bear was that her own sister, the one who had put her there, could not look in her direction.
+
+**Tyr** came down to deliver judgement himself, without bothering to hear her side. He stripped her of her title, her kimono, her magic, her immortality, and her sword. He cast her into [Auril](../deities/Auril.md)'s realm of frost and **scattered her possessions across Icewind Dale**.
+
+The last thing she saw was her family crying. Whether from grief at her banishment or from the belief that she was a monster, she does not know, and may never.
+
+## Scattered Regalia
+
+Tyr did not destroy what he took from her. He **scattered it across Icewind Dale**, which means it is out there.
+
+- [Black Lotus Sword](../artifacts/Black%20Lotus%20Sword.md) — unrecovered
+- [Yin Shen's Kimono](../artifacts/Yin%20Shen's%20Kimono.md) — unrecovered
+
+Recovering them, and reconnecting herself to the Weave, is what she has been doing in the Dale since the day she landed in it.
+
+## The Years in the Dale
+
+She nearly did not survive the first stretch. She was desperate, and by her own account came close to giving up; what carried her through was the kindness of strangers in Ten-Towns.
+
+After that she survived on what she is best at — sneaking, stealing, pranks, and cheating. Liar's dice, poker, whatever was being played in the bar. She did not play for money; she knew better than to draw attention by taking people's coin where they would notice. She played for information, for food, for necessities. Her winning streak at the bar in [Dougan's Hole](../atlas/Dougan's%20Hole.md) was notorious and entirely tolerated, on the grounds that she never asked for money when she won.
+
+How she got into those games with no coin to her name is a question she has declined to answer.
+
+She was a thief and a scoundrel, and also a friendly face who liked bringing people joy. She told stories about her time in the heavens that nobody believed and everybody enjoyed, and she collected the town's gossip in exchange. It still pains her that when children pray to her for help with some small mischief, she has no blessing left to give them.
+
+!!! note "Source"
+    Condensed from the player's own text — see [Yin Shen — Player Backstory](Player%20Backstories/Yin%20Shen.md).
 
 ## The Prayer in the Alley
 
-On the night the Chardalyn Dragon came for [Easthaven](../atlas/Easthaven.md), Yin Shen found an alley with no one in it and spoke to her sister — the one who had brought about her exile — for the first time since the fall.
+On the night the Chardalyn Dragon came for [Easthaven](../atlas/Easthaven.md), Yin Shen found an alley with no one in it and spoke to her sister [Shuāng](Shuāng.md) — the one who had brought about her exile — for the first time since the fall.
 
 > "I know I fucked up in the past. I don't ask much from you, but please, if you can, help these people out."
 

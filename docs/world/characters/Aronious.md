@@ -8,9 +8,46 @@ modifier: 3
 
 Once a paladin serving faithfully to the pantheon above. He discarded his vows and took to the frozen wilderness to find and aid [Yin Shen](Yin%20Shen.md) — and in the years since, the oath has found its way back to him by a different road.
 
+## Before the Dale
+
+Aronious was raised in a city bound to its pantheon by a bargain: blessings and miracles in exchange for offerings, faith, and protection. He grew up watching divine intervention happen in front of him, over and over, and the amazement of it hardened into something steadier — a determination to protect the thing that had inspired him.
+
+He joined the Order charged with exactly that duty, and in time became strong and respected enough to be given a shrine of his own to guard. The shrines were where the bargain was kept. Without them that half of the arrangement failed, and the gods' mercy could turn sour. It was among the greatest honors the Order could confer.
+
+His posting was not what he expected.
+
+It sat in the outskirts, far from the dense part of the city, and it was small. The offerings heaped at it were children's toys and scrap — whoopie cushions, horns, a little rune that delivered a shock during a handshake. Something peeked out from behind the shrine as he took up his post: a small creature, something like a fox, sneering at him before vanishing into the air.
+
+It was [Yin Shen](Yin%20Shen.md)'s shrine. The post had stood empty because its goddess had pranked every paladin before him into abandoning it.
+
+Aronious stayed. Across the following years the two of them grew close, and he made it his business to keep her mischief inside bounds a city could live with.
+
+## "Because We Have Declared As Such"
+
+Then she was gone. One day he was cleaning up after a pie-trap that had made a small mess; the next there was no trace of her at all.
+
+He prayed to the pantheon for an explanation. For anything. What came back was a single sentence in the language of the divine, spoken directly into his mind:
+
+> "because we have declared as such, that is all"
+
+He went to the floor. These were the gods he had given his life to protect — the beings who had inspired him as a child — and they would exile one of their own without so much as a reason, and tell him it was not his to ask. The goddess he had spent years guarding and befriending, no less.
+
+He left the Order, the city, and the duty that had just become meaningless, with two things clear in his mind: find Yin Shen, and find his own purpose.
+
+The road gave him the rest. He learned the bow. He learned what the druids know about the natural world. He learned to survive in places that do not care whether he does.
+
+After crossing several nations, the trail turned toward a land of cold and blizzards, where winter had swallowed grass that once ran green to the horizon. **Ten-Towns.** The tip that sent him there came from a civilian who had been zapped by a small lightning rune hidden in a handshake — unmistakably her work.
+
+He reached [Bryn Shander](../atlas/Bryn%20Shander.md) cold and out of breath, pushed through the door of [The Northlook Inn](../atlas/The%20Northlook%20Inn.md), and found her at last, in the company of a ferret who was drinking out of a tankard roughly her own size.
+
+He hugged her. Then he hit her on the head and demanded to know what she thought she was doing.
+
+!!! note "Source"
+    Condensed from the player's own text — see [Aronious III — Player Backstory](Player%20Backstories/Aronious.md).
+
 ## The Road Back to the Oath
 
-Aronious came into [Bryn Shander](../atlas/Bryn%20Shander.md) as a ranger and nothing more: a hunter, a tracker, a man who had put the gods behind him on purpose. What the Dale gave back to him was not the pantheon he had left but something older and closer to the ground.
+Aronious came into the Dale as a ranger and nothing more: a hunter, a tracker, a man who had put the gods behind him on purpose. What the Dale gave back to him was not the pantheon he had left but something older and closer to the ground.
 
 It began with small things. A dire wolf nursed back from the brink in a cave east of [Easthaven](../atlas/Easthaven.md). A herd of reindeer crossing a clearing under an aurora, and one deer that did not run when he reached for it — a bond offered and accepted, so that when he calls in need, the herd may hear. A [Chwinga](../creatures/Chwinga.md) that jabbed him in the ribs on a night watch and stayed to keep him company in the cold.
 

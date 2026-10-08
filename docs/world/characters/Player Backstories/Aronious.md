@@ -1,4 +1,12 @@
-Aronious, a paladin of (dunno the city name yet, was thinking something like Oractis - the blessed city.), belonged to an Order tasked with the divine duty of protecting the Gods. This was due to the bond between a pantheon of multiple gods, who helped the city through blessings and miracles, in exchange for offerings, faith and protection.
+# Aronious III — Player Backstory
+
+
+!!! note "Player-written"
+    This is Aronious's player's own text, published as written. The condensed in-world version lives at [Aronious III](../Aronious.md).
+
+---
+
+Aronious, a paladin of the blessed city, belonged to an Order tasked with the divine duty of protecting the Gods. This was due to the bond between a pantheon of multiple gods, who helped the city through blessings and miracles, in exchange for offerings, faith and protection.
 
 As a child, Aronious had grown up watching miracles and divine interventions happen time and time again, and could not help but be amazed. The feeling of hope and inspiration that brewed inside him over time turned into solid determination. Determination to protect exactly what has inspired him as a child.
 

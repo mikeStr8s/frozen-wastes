@@ -10,7 +10,11 @@ The fellowship at the centre of this account — bound not by destiny, as Profes
 - **[Yin Shen](../characters/Yin%20Shen.md)** — a kitsune rogue of celestial origin, fallen, exiled, and lately heard by [Tyr](../deities/Tyr.md) again
 - **[Hobbins](../characters/Hobbins.md)** — a ferret wizard of alarming intellect and no patience whatsoever
 
-They met at [The Northlook Inn](../atlas/The%20Northlook%20Inn.md) in [Bryn Shander](../atlas/Bryn%20Shander.md), took [Hiln Trollbane](../characters/Hiln%20Trollbane.md)'s contract on [Sephek Kaltro](../characters/Sephek%20Kaltro.md), and have not stopped since.
+They came together at [The Northlook Inn](../atlas/The%20Northlook%20Inn.md) in [Bryn Shander](../atlas/Bryn%20Shander.md), took [Hiln Trollbane](../characters/Hiln%20Trollbane.md)'s contract on [Sephek Kaltro](../characters/Sephek%20Kaltro.md), and have not stopped since.
+
+Two of the three were not strangers. Before her exile, [Yin Shen](../characters/Yin%20Shen.md) was a goddess with a shrine on the outskirts of a city, and [Aronious](../characters/Aronious.md) was the paladin posted to guard it — the only one who did not let her pranks drive him off. He crossed several nations looking for her after the pantheon cast her down and refused to say why, and tracked her to Ten-Towns on a report of a man zapped by a lightning rune hidden in a handshake.
+
+He found her in the Northlook with a ferret drinking out of a tankard roughly its own size. He hugged her, then hit her on the head.
 
 ## Companions
 

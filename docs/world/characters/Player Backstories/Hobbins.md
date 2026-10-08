@@ -1,4 +1,10 @@
-Hobbins – Character Background
+# Hobbins — Player Backstory
+
+
+!!! note "Player-written"
+    This is Hobbins's player's own text, published as written. The condensed in-world version lives at [Hobbins](../Hobbins.md).
+
+---
 
 1. Origin
 
@@ -50,15 +56,3 @@ Logely Hobbins – Mother. Brilliant businesswoman and co-owner of The Magikal M
 Drumly Hobbins – Father. Expert appraiser of magical relics. Thinks Hobbins is talented enough to become one of the greatest magical merchants in the North—if she survives long enough to realize it.
 The Magikal Morgue – The Hobbins family's magical shop in Good Mead, known for buying and selling magical items recovered from Icewind Dale's frozen wilderness.
 The magical academies of Waterdeep – Where Hobbins spent much of her life studying wizardry and becoming notorious for her magical pranks.
-
-Secrets (DM Only)
-
-While cataloging inventory at The Magikal Morgue, Hobbins occasionally encountered magical objects that her parents quietly refused to sell. They were carefully locked away without explanation, and every question about them was met with the same answer:
-
-"Some things are worth more left forgotten."
-
-Hobbins never learned why.
-
-Hobbins' full name is Sadey Hobbins, but she never goes by her first name and keeps it a deep secret.
-
-Whether those relics are cursed, connected to someone powerful, or tied to a greater mystery remains unknown—but she has never forgotten them.

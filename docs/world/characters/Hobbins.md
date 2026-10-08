@@ -8,7 +8,40 @@ modifier: 3
 
 A ferret wizard who called the frozen north home. Constantly battling against the curiosity she felt looking out at the world from her little shop. Enough was enough — she saw the sky turn dark and a star fall from the heavens. It was time she finally went out there and lived a little.
 
-Two and a half feet of white ferret, ten pounds, blue-eyed, nineteen years old, and in possession of an Intelligence score that embarrasses most of the people she meets. She was schooled at the university in Waterdeep, where she was bullied for being a nerd, and she has not forgotten by whom.
+Two and a half feet of white ferret, ten pounds, blue-eyed, nineteen years old, and in possession of an Intelligence score that embarrasses most of the people she meets.
+
+## Before the Dale
+
+Hobbins was born in [Goodmead](../atlas/Goodmead.md) to the well-known Hobbins family, owners of **[The Magikal Morgue](../atlas/The%20Magikal%20Morgue.md)**. Despite the name the business is perfectly legitimate, if unsettling to first-time visitors: the family buys magical items recovered from the frozen wastes — salvaged from unlucky adventurers, or sold on by the rare survivors who make it back — then catalogues them, restores what can be restored, and sells to collectors, travellers, and the next crop of hopefuls.
+
+Her mother, **Logely Hobbins**, handles the books and the negotiations with sharp precision. Her father, **Drumly Hobbins**, has an uncanny eye for an authentic relic. Between them they built a small fortune and one of Goodmead's more prosperous households.
+
+She grew up among enchanted trinkets, cursed curiosities, and stories of impossible adventures, and loved all of it — along with the part her parents never quite understood: the thrill of doing the right thing in the most inconvenient and ridiculous way available. If somebody needed help, Hobbins was the sort to sneak out after curfew, steal back a stolen relic, and leave behind a glittering illusion of a goose in a crown purely to confuse the culprit.
+
+Her parents consider adventuring a terrible investment. In their view adventurers are future customers, or else future inventory. They had watched too many promising people throw away a future chasing treasure and come back broke, or not come back.
+
+## Waterdeep
+
+Recognising her talent, they sent her to the magical academies of **Waterdeep**, expecting a respected scholar, enchanter, or merchant who could expand the family business well beyond Icewind Dale.
+
+It did not take. For the first time she was surrounded by ambitious wizards, dangerous experiments, and libraries holding knowledge nobody in Goodmead had dreamed of. She excelled — and built a reputation for relentless, harmless mischief. Illusions, disappearing books, enchanted ink. If a professor was cruel, their lecture notes were liable to be ruined by accident. If a classmate was being bullied, they were liable to find a helpful charm in their pocket and a perfectly timed distraction going off across the room.
+
+She learned **Dwarvish** during school breaks, little by little, from a dwarf janitor at the academy. The two of them taught each other things between chores.
+
+The more she learned, the more the quiet life her parents had planned felt like a cage. Every ancient spell pointed at forgotten ruins; every professor spoke of discoveries waiting past the edge of civilization. Adventure stopped sounding reckless and started sounding necessary — not for glory, but because there were too many people who needed help, too many secrets under the snow, and far too many rules in the way of doing right by either.
+
+## The Argument She Is Still Having
+
+She left home on good terms, but not happy ones. Her parents never truly approved, and every letter from home still politely encourages her to come to her senses and return to the family business before the Dale claims another fool.
+
+What she wants is to prove that adventure is more than greed or recklessness — that knowledge, friendships, and discoveries made past the safety of a shop counter are worth as much as anything sitting on a shelf. More than that, she wants to prove a person can be kind, useful, and wildly inconvenient all at once; that breaking a few rules to help someone is a feature and not a flaw.
+
+She would never say it aloud, but every successful expedition feels like another point scored in an argument she has not finished.
+
+One day she means to walk back into [The Magikal Morgue](../atlas/The%20Magikal%20Morgue.md) carrying artifacts no merchant could ever have bought, because nobody else had ever found them.
+
+!!! note "Source"
+    Condensed from the player's own text — see [Hobbins — Player Backstory](Player%20Backstories/Hobbins.md).
 
 ## Disposition
 
@@ -16,7 +49,9 @@ Hobbins is the party's problem-solver and its single greatest liability, frequen
 
 Her weakness for clear liquor is a running catastrophe. [Aronious](Aronious.md) now pours her measures by the bottle cap.
 
-She keeps a family in the south — six people in her main center of family, four of them siblings who have moved to the same town. Her father is among the hopefuls reaching for the empty speaker's seat at Goodmead.
+Her family is in [Goodmead](../atlas/Goodmead.md) — six of them in the main household, four of her siblings having moved to the same town. Her father **Drumly** is among the hopefuls reaching for the empty speaker's seat there.
+
+She was also, by [Terence Brightbrow](Terence%20Brightbrow.md)'s account and her own, bullied at Waterdeep for being a nerd. She has not forgotten by whom.
 
 ## Deeds
 
@@ -140,3 +175,13 @@ She keeps a family in the south — six people in her main center of family, fou
 The **Sea Hag's Frozen Eye** (mounted on a stick), a **Helm of Telepathy** identified by ritual and passed on, **Torg's journal**, _The History of Caer-Dineval_, the **abandoned cave notes** from the bridge campsite, a **vial of ice troll blood**, **grell beak and tentacles**, twenty-five **splinters of shardeline**, four pebble-sized **tourmalines**, and a quantity of frozen dog food liberated from a speakeasy's cold-storage cellar.
 
 She also carries a **Charm of the Ice Troll** — the snowflake a [Chwinga](../creatures/Chwinga.md) left for her overnight in the tundra.
+
+<!--
+DM ONLY — not rendered on the site.
+
+Hobbins' full name is Sadey Hobbins. She never goes by her first name and
+keeps it a deep secret.
+
+See also the hidden note on The Magikal Morgue, re: the relics her parents
+refused to sell.
+-->
